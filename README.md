@@ -1,2 +1,3 @@
 # puchiguru-translations
-Puchiguru translations
+
+Un-official translation repo on r/Puchiguru Discord.
