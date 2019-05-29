@@ -1,0 +1,6745 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019/03/29 10:42:17\n"
+"PO-Revision-Date: 2019/03/29 10:42:17\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ko-KR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "AgeCheck_0000"
+msgstr "잘못된 값입니다"
+
+msgid "AgeCheck_0001"
+msgstr "나이 설정이 완료되었습니다"
+
+msgid "AgeCheck_0002"
+msgstr "나이 확인"
+
+msgid "ArtsCategoryName_0001"
+msgstr "콤보 판정+"
+
+msgid "ArtsCategoryName_0002"
+msgstr "푸치구루 지우기"
+
+msgid "ArtsCategoryName_0003"
+msgstr "센터 변화"
+
+msgid "ArtsCategoryName_0004"
+msgstr "쇼 타임+"
+
+msgid "ArtsCategoryName_0005"
+msgstr "스킬 게이지+"
+
+msgid "ArtsCategoryName_0006"
+msgstr "콤보+"
+
+msgid "ArtsCategoryName_0007"
+msgstr "스코어+"
+
+msgid "ArtsCategoryName_0008"
+msgstr "센터 보충+"
+
+msgid "ArtsCategoryName_0009"
+msgstr "코인+"
+
+msgid "ArtsCategoryName_0010"
+msgstr "폭탄 범위+"
+
+msgid "ArtsCategoryName_0011"
+msgstr "연결 범위+"
+
+msgid "ArtsCategoryName_0012"
+msgstr "폭탄 출현"
+
+msgid "ArtsCategoryName_0013"
+msgstr "시간 폭탄 출현"
+
+msgid "ArtsCategoryName_0014"
+msgstr "골드 폭탄 출현"
+
+msgid "ArtsCategoryName_0015"
+msgstr "스코어 폭탄 출현"
+
+msgid "CardCollection_0001"
+msgstr "즐겨 찾기 선택"
+
+msgid "CardCollection_0002"
+msgstr "등록"
+
+msgid "CardCollection_0003"
+msgstr "카드 도감 달성 보상"
+
+msgid "CardCollection_0004"
+msgstr ""
+"보상을 받았습니다\n"
+"선물 상자에 보냅니다"
+
+msgid "CardCollection_0005"
+msgstr "현재 컬렉션 매수"
+
+msgid "CardCollection_0006"
+msgstr "{0}장"
+
+msgid "CardCollection_0007"
+msgstr "다음 보상까지"
+
+msgid "CardCollection_0008"
+msgstr "앞으로 {0}장"
+
+msgid "CardCollection_0009"
+msgstr "다음 달성 보상"
+
+msgid "CardCollection_0010"
+msgstr "모든 보상을 받았습니다"
+
+msgid "CardCollection_0011"
+msgstr ""
+"모든 목표를 달성했습니다\n"
+"다음 카드 추가까지 기다려주세요"
+
+msgid "CardCollection_0012"
+msgstr "달성한 컬렉션 매수"
+
+msgid "CardEvolution_0001"
+msgstr "카드 진화"
+
+msgid "CardEvolution_0002"
+msgstr "진화"
+
+msgid "CardEvolution_0003"
+msgstr "진화하기"
+
+msgid "CardEvolution_0004"
+msgstr ""
+"진화에 사용한 카드는 되돌릴 수 없습니다\n"
+"계속 하시겠습니까?"
+
+msgid "CardEvolution_0005"
+msgstr "진화시킬 카드를 선택하여 주세요"
+
+msgid "CardEvolution_0006"
+msgstr "진화 소재로 사용할 카드를 선택하지 않았습니다"
+
+msgid "CardEvolution_0007"
+msgstr "진화 소재로 사용할 카드가 보호되어 있습니다"
+
+msgid "CardEvolution_0008"
+msgstr "진화시킬 카드와 소재가 될 카드가 일치하지 않습니다"
+
+msgid "CardEvolution_0009"
+msgstr "진화시킬 카드를 더 이상 진화시킬 수 없습니다"
+
+msgid "CardEvolution_0010"
+msgstr "같은 카드를 선택해 주세요"
+
+msgid "CardEvolution_0011"
+msgstr "선택한 카드를 진화시킵니다"
+
+msgid "CardEvolution_0012"
+msgstr "진화 확인"
+
+msgid "CardGacha_0001"
+msgstr "카드 출현 확률"
+
+msgid "CardGacha_0002"
+msgstr "메달로 가챠 뽑기"
+
+msgid "CardGacha_0003"
+msgstr "<color=#FFF242FF>골드<size=24>로</size> 뽑기</color>"
+
+msgid "CardGacha_0004"
+msgstr "<color=#5BFFFDFF>쥬얼<size=24>로</size> 뽑기</color>"
+
+msgid "CardGacha_0005"
+msgstr "<color=#5BFFFDFF>티켓<size=24>으로</size> 뽑기</color>"
+
+msgid "CardGacha_0006"
+msgstr "<color=#FFF242FF>메달<size=24>로</size> 뽑기</color>"
+
+msgid "CardGacha_0007"
+msgstr ""
+"메달이 부족합니다\n"
+"일일 미션과 스코어 어택으로 메달을 벌어보세요"
+
+msgid "CardSell_0001"
+msgstr "메달 교환"
+
+msgid "CardSell_0002"
+msgstr "교환"
+
+msgid "CardSell_0003"
+msgstr "교환 전"
+
+msgid "CardSell_0004"
+msgstr "교환 후"
+
+msgid "CardSell_0005"
+msgstr "교환 확인"
+
+msgid "CardSell_0006"
+msgstr "選択した{0}枚のカードを交換します"
+
+msgid "CardSell_0007"
+msgstr "選択したカードをメダルに交換できます"
+
+msgid "CardSell_0008"
+msgstr "選択中"
+
+msgid "CardSell_0009"
+msgstr "交換する"
+
+msgid "CardSell_0010"
+msgstr "メダルの所持数が上限に達したため交換できません"
+
+msgid "CardSell_0011"
+msgstr "選択枚数が最大(10枚)です"
+
+msgid "CardSkill_0001"
+msgstr "パズル開始時"
+
+msgid "CardSkill_0002"
+msgstr "残り{0}秒"
+
+msgid "CardSkill_0003"
+msgstr "パズル終了時"
+
+msgid "CardSkill_0004"
+msgstr "{0}点"
+
+msgid "CardSkill_0005"
+msgstr "{0}ゴールド"
+
+msgid "CardSkill_0006"
+msgstr "{0}コンボ"
+
+msgid "CardSkill_0007"
+msgstr "{0}回目"
+
+msgid "CardSkill_0008"
+msgstr "{0}個目"
+
+msgid "CardSkill_0009"
+msgstr "{0}%"
+
+msgid "CardSkill_0010"
+msgstr "{0}秒"
+
+msgid "CardSkill_0011"
+msgstr "ぷち{0}個分"
+
+msgid "CardSkill_0012"
+msgstr "スコアUP"
+
+msgid "CardSkill_0013"
+msgstr "ゴールドUP"
+
+msgid "CardSkill_0014"
+msgstr "プレイ時間UP"
+
+msgid "CardSkill_0015"
+msgstr "スキルゲージUP"
+
+msgid "CardSkill_0016"
+msgstr "ショータイムUP"
+
+msgid "CardSkill_0017"
+msgstr "スキルなし"
+
+msgid "CardStrength_0001"
+msgstr "カード強化"
+
+msgid "CardStrength_0002"
+msgstr "選択した{0}枚のカードを使って強化します"
+
+msgid "CardStrength_0003"
+msgstr "★3以上のカードが含まれています"
+
+msgid "CardStrength_0004"
+msgstr "強化済みのカードが選択されています"
+
+msgid "CardStrength_0005"
+msgstr "本当によろしいですか？"
+
+msgid "CardStrength_0006"
+msgstr "強化"
+
+msgid "CardStrength_0007"
+msgstr "強化する"
+
+msgid "CardStrength_0008"
+msgstr "現在選択中の素材で最大レベルに到達します"
+
+msgid "CardStrength_0009"
+msgstr "強化のベースにするカードが選択されていません"
+
+msgid "CardStrength_0010"
+msgstr "強化の素材にするカードが選択されていません"
+
+msgid "CardStrength_0011"
+msgstr "強化の素材にするカードの中に保護中のカードが含まれています"
+
+msgid "CardStrength_0012"
+msgstr "強化確認"
+
+msgid "CardStrength_0013"
+msgstr "現在選択中の素材で最大レベルに到達します"
+
+msgid "CardStrength_0014"
+msgstr "{0}個の{1}を使って強化します"
+
+msgid "CardStrength_0015"
+msgstr "Lv上限を超える分のEXPは無効になります"
+
+msgid "CardTeamEdit_0001"
+msgstr "スペシャルスキルはリーダーしか設定できません"
+
+msgid "CardTeamEdit_0002"
+msgstr "同じカードがあるためセットできません"
+
+msgid "CardTeamEdit_0003"
+msgstr "すでにスペシャルスキルが設定されています"
+
+msgid "CardTeamEdit_0004"
+msgstr "カードがいっぱいのため設定できません"
+
+msgid "Card_0001"
+msgstr "レア度順"
+
+msgid "Card_0002"
+msgstr "入手順"
+
+msgid "Card_0003"
+msgstr "カードスキル"
+
+msgid "Card_0004"
+msgstr "スペシャルスキル"
+
+msgid "Card_0005"
+msgstr "カード所持数"
+
+msgid "Card_0006"
+msgstr "クールタイム"
+
+msgid "Card_0007"
+msgstr "編成ぷちぐると一致メンバーのみ"
+
+msgid "Card_0008"
+msgstr "素材のみ"
+
+msgid "Card_0009"
+msgstr "スペシャルスキルもちのみ"
+
+msgid "Card_0010"
+msgstr "レベル1のみ"
+
+msgid "Card_0011"
+msgstr "未進化カード"
+
+msgid "Card_0012"
+msgstr "進化済カード"
+
+msgid "Card_0013"
+msgstr "カードスキル絞り込み"
+
+msgid "Card_0014"
+msgstr "カードスキル一覧"
+
+msgid "Card_0015"
+msgstr "★{0}"
+
+msgid "Card_0016"
+msgstr "選択解除"
+
+msgid "Card_0017"
+msgstr "カード所持数上限拡張"
+
+msgid "Card_0018"
+msgstr ""
+"{0}ジュエルを消費してカードの所持数の\n"
+"上限を{1}つ増やすことができます"
+
+msgid "Card_0019"
+msgstr "現在の所持上限"
+
+msgid "Card_0020"
+msgstr "拡張後"
+
+msgid "Card_0021"
+msgstr "拡張"
+
+msgid "Card_0022"
+msgstr ""
+"この内容でジュエルを消費します\n"
+"よろしいですか？"
+
+msgid "Card_0023"
+msgstr "ジュエルでカード所持数の上限を増やしました"
+
+msgid "Card_0024"
+msgstr "同じカード名のカードは複数編成できません"
+
+msgid "CerealCode_0001"
+msgstr "シリアルコード"
+
+msgid "CerealCode_0002"
+msgstr ""
+"入力内容に誤りがあるか\n"
+"既に使用済みのシリアルコードです"
+
+msgid "CerealCode_0003"
+msgstr "入力内容に誤りがあります"
+
+msgid "ClassName_1"
+msgstr "1年生"
+
+msgid "ClassName_2"
+msgstr "2年生"
+
+msgid "ClassName_3"
+msgstr "3年生"
+
+msgid "CollectionBookFilter_001"
+msgstr "カード絞り込み"
+
+msgid "CollectionBookFilter_002"
+msgstr "所持カードのみ"
+
+msgid "CollectionBookFilter_003"
+msgstr "完全一致のみ"
+
+msgid "Common_10k"
+msgstr "{0}万"
+
+msgid "Common_10m"
+msgstr "{0}億"
+
+msgid "Common_Back"
+msgstr "戻る"
+
+msgid "Common_BiBi"
+msgstr "BiBi"
+
+msgid "Common_Buy"
+msgstr "購入"
+
+msgid "Common_Cancel"
+msgstr "キャンセル"
+
+msgid "Common_Chika"
+msgstr "高海千歌"
+
+msgid "Common_Close"
+msgstr "とじる"
+
+msgid "Common_Continue"
+msgstr "続ける"
+
+msgid "Common_Decide"
+msgstr "決定"
+
+msgid "Common_Default"
+msgstr "デフォルト"
+
+msgid "Common_Dia"
+msgstr "黒澤ダイヤ"
+
+msgid "Common_Erank"
+msgstr "Rank{0}"
+
+msgid "Common_Eri"
+msgstr "絢瀬絵里"
+
+msgid "Common_FreeJewel"
+msgstr "無償ジュエル"
+
+msgid "Common_Hanamaru"
+msgstr "国木田花丸"
+
+msgid "Common_Hanayo"
+msgstr "小泉花陽"
+
+msgid "Common_Hback"
+msgstr "もどる"
+
+msgid "Common_Hnum"
+msgstr "{0}個"
+
+msgid "Common_Home"
+msgstr "ホーム"
+
+msgid "Common_Honoka"
+msgstr "高坂穂乃果"
+
+msgid "Common_Kanan"
+msgstr "松浦果南"
+
+msgid "Common_Kotori"
+msgstr "南ことり"
+
+msgid "Common_L"
+msgstr "L"
+
+msgid "Common_LilyWhite"
+msgstr "lily White"
+
+msgid "Common_Lv"
+msgstr "Lv{0}"
+
+msgid "Common_M"
+msgstr "M"
+
+msgid "Common_MMdd"
+msgstr "M/d"
+
+msgid "Common_Maki"
+msgstr "西木野真姫"
+
+msgid "Common_Mari"
+msgstr "小原鞠莉"
+
+msgid "Common_Member"
+msgstr "メンバー"
+
+msgid "Common_Menu"
+msgstr "メニュー"
+
+msgid "Common_Niko"
+msgstr "矢澤にこ"
+
+msgid "Common_No"
+msgstr "いいえ"
+
+msgid "Common_Nozomi"
+msgstr "東條希"
+
+msgid "Common_Num"
+msgstr "{0}個"
+
+msgid "Common_Off"
+msgstr "OFF"
+
+msgid "Common_Ok"
+msgstr "OK"
+
+msgid "Common_On"
+msgstr "ON"
+
+msgid "Common_Open"
+msgstr "公開"
+
+msgid "Common_Others"
+msgstr "その他"
+
+msgid "Common_PaidJewel"
+msgstr "有償ジュエル"
+
+msgid "Common_Pers"
+msgstr "{0}%"
+
+msgid "Common_Printemps"
+msgstr "Printemps"
+
+msgid "Common_Quit"
+msgstr "ゲームを終了しますか？"
+
+msgid "Common_Rank"
+msgstr "ランク{0}"
+
+msgid "Common_Riko"
+msgstr "桜内梨子"
+
+msgid "Common_Rin"
+msgstr "星空凛"
+
+msgid "Common_Ruby"
+msgstr "黒澤ルビィ"
+
+msgid "Common_Save"
+msgstr "保存"
+
+msgid "Common_Second"
+msgstr "{0}秒"
+
+msgid "Common_Secret"
+msgstr "非公開"
+
+msgid "Common_Settings"
+msgstr "設定"
+
+msgid "Common_Skill"
+msgstr "スキル"
+
+msgid "Common_Stop"
+msgstr "パズルをやめる"
+
+msgid "Common_Times"
+msgstr "{0}回"
+
+msgid "Common_Umi"
+msgstr "園田海未"
+
+msgid "Common_Yes"
+msgstr "はい"
+
+msgid "Common_Yoshiko"
+msgstr "津島善子"
+
+msgid "Common_You"
+msgstr "渡辺曜"
+
+msgid "Common_yyMMdd"
+msgstr "yyyy/M/d"
+
+msgid "Common_yyMMdd_hhmm"
+msgstr "yyyy/M/d hh:mm"
+
+msgid "Common_yyMMdd_w_hhmm"
+msgstr "yyyy/M/d(ddd) hh:mm"
+
+msgid "Contact_0000"
+msgstr "【ぷちぐるラブライブ！】アプリお問い合わせ[プレイヤーID：{0}]"
+
+msgid "Contact_0001"
+msgstr "プレイヤー名：{0}"
+
+msgid "Contact_0002"
+msgstr "プレイヤーID：{0}"
+
+msgid "Contact_0003"
+msgstr "アプリバージョン：{0}"
+
+msgid "Contact_0004"
+msgstr "ご利用機種名：{0}"
+
+msgid "Contact_0005"
+msgstr "ご利用のOS：{0}"
+
+msgid "Contact_0006"
+msgstr "■発生日時："
+
+msgid "Contact_0007"
+msgstr "■発生箇所："
+
+msgid "Contact_0008"
+msgstr "■現象の詳細："
+
+msgid "Contact_0009"
+msgstr "info.lovelive_pg@pokelabo.co.jp"
+
+msgid "Contact_0010"
+msgstr ""
+"■お問い合わせに関する注意点\n"
+"\n"
+"・お問い合わせには可能な限り早く回答いたしますが、内容や状況によってはお時間"
+"をいただきます。\n"
+"・ドメイン指定など行っている場合、弊社からのメール(@pokelabo.co.jp)が受信でき"
+"るよう設定を行ってください。\n"
+"・メール送信後システムより自動返信が行われますので、自動返信メールが確認でき"
+"ない場合各種設定をご確認ください。\n"
+"・お問い合わせへの回答はメールのみとなっております。\n"
+"また、大規模な障害などが発生した場合、アプリ内でのお知らせをもって回答とさせ"
+"ていただく場合がございます。\n"
+"・「データ復旧申請」フォームはメンテナンスにより一時的にご利用いただけない状"
+"況が発生する場合がございます。\n"
+"その際は恐れ入りますが、お時間を置いていただいてから再度アクセスをお願いいた"
+"します。"
+
+msgid "Contact_0011"
+msgstr "通常お問い合わせ"
+
+msgid "Contact_0012"
+msgstr "データ復旧申請"
+
+msgid "Contact_0013"
+msgstr ""
+"https://form.kintoneapp.com/public/form/show/"
+"e833dbcd0042fcbbb09d341171bdde37b7d7de971476db24cb0f609e842aabf7#/"
+
+msgid "Contact_Footer"
+msgstr ""
+"【注意事項】\n"
+"・サポート対応時間 : 10:00～18:00（土日祝祭日を除く）\n"
+"・ドメイン指定など行っている場合、弊社からのメール(@pokelabo.co.jp)が受信でき"
+"るよう設定を行ってください。\n"
+"・メール送信後システムより自動返信が行われますので、自動返信メールが確認でき"
+"ない場合各種設定をご確認ください。\n"
+"・お問い合わせへの返答はメールのみとなっております。\n"
+"・お問い合わせへの返答は原則24時間以内にご返答させていただきますが、個別の"
+"データ調査などが必要な場合、ご返答までに数日お時間を頂く場合がございます。\n"
+"・大規模な障害などが発生した場合、アプリ内でのお知らせをもって返答と代えさせ"
+"て頂く場合がございます。\n"
+"・機種変更に伴なうデータ移行については [メニュー] > [データ引き継ぎ] をご参照"
+"ください。"
+
+msgid "Copyright_001"
+msgstr "©2013 PL!"
+
+msgid "Copyright_002"
+msgstr "©2018 +L"
+
+msgid "Copyright_003"
+msgstr "©P"
+
+msgid "Copyright_004"
+msgstr "©2013 PL!  ©2017 PL!S　© P"
+
+msgid "Copyright_005"
+msgstr "©2017 PL!S"
+
+msgid "Copyright_006"
+msgstr "©Pokelabo,Inc."
+
+msgid "Copyright_007"
+msgstr "©SEGA"
+
+msgid "Copyright_008"
+msgstr "©'76,'79,'84,'86,'88,'89,'90,'92,'93,'96,'98,'01,'05,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_01"
+msgstr "©'01,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_05"
+msgstr "©'05,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_76"
+msgstr "©'76,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_79"
+msgstr "©'79,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_84"
+msgstr "©'84,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_86"
+msgstr "©'86,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_88"
+msgstr "©'88,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_89"
+msgstr "©'89,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_92"
+msgstr "©'92,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_93"
+msgstr "©'93,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_96"
+msgstr "©'96,'18 SANRIOⒽ"
+
+msgid "Copyright_Sanrio_98"
+msgstr "©'98,'18 SANRIOⒽ"
+
+msgid "CostumeName_10001"
+msgstr "音ノ木坂学院 冬制服"
+
+msgid "CostumeName_10002"
+msgstr "僕らは今のなかで"
+
+msgid "CostumeName_10003"
+msgstr "Snow halation"
+
+msgid "CostumeName_10004"
+msgstr "それは僕たちの奇跡"
+
+msgid "CostumeName_11003"
+msgstr "ぽかぽかピクニック（仮）"
+
+msgid "CostumeName_20001"
+msgstr "浦の星女学院 冬制服"
+
+msgid "CostumeName_20002"
+msgstr "青空Jumping Heart"
+
+msgid "CostumeName_20003"
+msgstr "HAPPY PARTY TRAIN"
+
+msgid "CostumeName_20004"
+msgstr "未来の僕らは知ってるよ"
+
+msgid "CostumeName_21002"
+msgstr "チョコレートパーティー"
+
+msgid "CostumeName_90001"
+msgstr "セガコラボ"
+
+msgid "DailyMission_NotReceive"
+msgstr ""
+"日付が変わったため受け取れませんでした\n"
+"タイトルに戻ります"
+
+msgid "DateTime_0000"
+msgstr "あと{0}日"
+
+msgid "DateTime_0001"
+msgstr "あと{0}時間"
+
+msgid "DateTime_0002"
+msgstr "あと{0}分"
+
+msgid "DateTime_0003"
+msgstr "あと0秒"
+
+msgid "DateTime_0004"
+msgstr "{0}日"
+
+msgid "DateTime_0005"
+msgstr "{0}時間"
+
+msgid "DateTime_0006"
+msgstr "{0}分"
+
+msgid "DateTime_0007"
+msgstr "最終プレイ:{0}週間以上前"
+
+msgid "DateTime_0008"
+msgstr "最終プレイ:{0}日以内"
+
+msgid "DateTime_0009"
+msgstr "最終プレイ:{0}時間以内"
+
+msgid "DateTime_0010"
+msgstr "最終プレイ:{0}分以内"
+
+msgid "DateTime_Prefix"
+msgstr "あと{0}"
+
+msgid "DecoReleaseAction_ActiveSkill"
+msgstr "スキル：{0}で"
+
+msgid "DecoReleaseAction_Class"
+msgstr "{0}"
+
+msgid "DecoReleaseAction_Costume"
+msgstr "{0}衣装の"
+
+msgid "DecoReleaseAction_Group"
+msgstr "{0}"
+
+msgid "DecoReleaseAction_PassiveSkill"
+msgstr "特技：{0}で"
+
+msgid "DecoReleaseAction_Personal"
+msgstr "{0}"
+
+msgid "DecoReleaseAction_Unit"
+msgstr "{0}"
+
+msgid "EventResult_0000"
+msgstr "+{0}<size=31>ボーナス</size>"
+
+msgid "EventResult_0001"
+msgstr ""
+"【{0}】 ×{1}\n"
+"を獲得しました"
+
+msgid "EventResult_0002"
+msgstr "追加ミッションが解放されました"
+
+msgid "EventResult_0003"
+msgstr "獲得累計{0}数："
+
+msgid "EventResult_0005"
+msgstr "宝箱の獲得数"
+
+msgid "EventTitle_10003"
+msgstr "空色レインコート"
+
+msgid "EventTitle_10005"
+msgstr "サンリオキャラコラボ"
+
+msgid "EventTitle_10006"
+msgstr "サンリオキャラコラボ"
+
+msgid "EventTitle_10007"
+msgstr "秋空アクティビティ"
+
+msgid "EventTitle_10008"
+msgstr "紅葉TRAVELER"
+
+msgid "EventTitle_10010"
+msgstr "The School Idol Movie Over the Rainbow"
+
+msgid "FileWriteException_000"
+msgstr ""
+"ファイルの書き込み中にエラーが発生しました\n"
+"タイトルへ戻ります"
+
+msgid "Filter_0001"
+msgstr "その他"
+
+msgid "FollowerBoost_0000"
+msgstr "ぷちぐるブレード"
+
+msgid "FollowerBoost_0001"
+msgstr "獲得ぷちぐる経験値+{0}%"
+
+msgid "FollowerBoost_0002"
+msgstr "効果:+{0}%"
+
+msgid "FollowerBoost_0003"
+msgstr "残り時間:{0}分"
+
+msgid "FollowerBoost_0004"
+msgstr "残り時間:1分以内"
+
+msgid "FollowerBoost_0005"
+msgstr ""
+"以下の内容で投稿します\n"
+"\n"
+"\n"
+" "
+
+msgid "FollowerBoost_0006"
+msgstr ""
+"【ぷちぐるラブライブ！】ぷちぐるブレード発動中\n"
+"効果を受けるにはTwitterでフォローしてね！\n"
+"（有効期限{0:MM/dd HH:mm}まで）\n"
+"\n"
+"かんたん爽快タップパズル！\n"
+"#ぷちぐるラブライブ　#ぷちぐるブレード"
+
+msgid "FollowerBoost_0007"
+msgstr "Twitter投稿に失敗しました"
+
+msgid "FollowerBoost_0008"
+msgstr ""
+"Twitterに投稿しました\n"
+"効果時間が30分延長されました"
+
+msgid "FollowerBoost_0009"
+msgstr ""
+"Twitter投稿すると\n"
+"効果時間が{0}分延長されます\n"
+"\n"
+"※効果が反映されるまでに時間がかかる場合があります"
+
+msgid "FollowerBoost_0010"
+msgstr "経験値UP (+{0}%)"
+
+msgid "FollowerBoost_0011"
+msgstr "Exp {0}% Up"
+
+msgid "FollowerBoost_0012"
+msgstr "ぷちぐるブレード"
+
+msgid "FollowerBoost_0013"
+msgstr ""
+"ジュエルを消費して\n"
+"ぷちぐるブレードを使用しますか？"
+
+msgid "FollowerBoost_0014"
+msgstr ""
+"チケットを消費して\n"
+"ぷちぐるブレードを使用しますか？"
+
+msgid "FollowerBoost_0015"
+msgstr "ぷちぐる経験値+{1}% ({0}分間)"
+
+msgid "FollowerBoost_0016"
+msgstr "Twitterのメンテナンス中のため使用できません"
+
+msgid "FollowerBoost_0017"
+msgstr "ぷちぐるラブライブ！運営"
+
+msgid "FollowerBoost_0018"
+msgstr ""
+"https://twitter.com/search?f=tweets&q=%23%E3%81%B7%E3%81%A1%E3%81%90%E3%82%8B"
+"%E3%83%96%E3%83%AC%E3%83%BC%E3%83%89"
+
+msgid "FollowerBoost_0019"
+msgstr ""
+"※他のユーザーからの効果を受けるためには\n"
+"Twitter上でのフォローと\n"
+"お互いのTwitter連携が必要です\n"
+"\n"
+"※Twitter連携をしていなくても\n"
+"自身が使用したときの効果は発動します"
+
+msgid "FollowerBoost_0020"
+msgstr ""
+"Twitterでフォロー中のユーザーのぷちぐるブレード効果を得られます\n"
+"※効果は最大10人分まで計算されます"
+
+msgid "Friend_0000"
+msgstr ""
+"ブロックリスト\n"
+"<size=20>(</size><size=28>{0}</size><size=20>/100人)</size>"
+
+msgid "Friend_0001"
+msgstr ""
+"フォロワーリスト\n"
+"<size=20>(</size><size=28>{0}</size><size=20>人)</size>"
+
+msgid "Friend_0002"
+msgstr "ID検索"
+
+msgid "Friend_0003"
+msgstr "存在しないIDです"
+
+msgid "Friend_0004"
+msgstr "フォロー済みです"
+
+msgid "Friend_0005"
+msgstr "あなたのIDです"
+
+msgid "Friend_0006"
+msgstr "フォローできないフレンド候補です"
+
+msgid "Friend_0007"
+msgstr "週間ランキング"
+
+msgid "Friend_0008"
+msgstr ""
+"ハートを送れる相手がいません。\n"
+"※一度送った相手には24時間後にもう一度送れます"
+
+msgid "Friend_0009"
+msgstr ""
+"{0}人にハートをプレゼントします\n"
+"※24時間に1回送ることができます"
+
+msgid "Friend_0010"
+msgstr "合計{0}人にハートを送りました"
+
+msgid "Friend_0011"
+msgstr "ユーザー検索"
+
+msgid "Friend_0012"
+msgstr ""
+"Twitter上でフォローしている友達の中から\n"
+"このゲームをプレイしている人を\n"
+"さがしますか？"
+
+msgid "Friend_0013"
+msgstr "※この処理は時間がかかる場合があります"
+
+msgid "Friend_0014"
+msgstr ""
+"ラブライブ！のかんたん爽快タップパズル\n"
+"ぷちぐるラブライブ！を一緒にプレイしよう！\n"
+"#ぷちぐるラブライブ"
+
+msgid "Friend_0015"
+msgstr ""
+"Twitter連携検索結果\n"
+"<size=20>(</size><size=28>{0}</size><size=20>人)</size>"
+
+msgid "Friend_0016"
+msgstr "招待"
+
+msgid "Friend_0017"
+msgstr "Twitter連携検索"
+
+msgid "Friend_0018"
+msgstr "並び替え"
+
+msgid "Friend_0019"
+msgstr ""
+"表示されているユーザーを\n"
+"一括フォローしますか？"
+
+msgid "Friend_0020"
+msgstr "ユーザーをフォローしました"
+
+msgid "Friend_0021"
+msgstr "ユーザーをフォローできませんでした"
+
+msgid "Friend_0022"
+msgstr ""
+"フォローリスト\n"
+"<size=20>(</size><size=28>{0}</size><size=20>/100人)</size>"
+
+msgid "Friend_0023"
+msgstr "{0}/{1}人"
+
+msgid "Friend_0024"
+msgstr "{0}人"
+
+msgid "Friend_0025"
+msgstr ""
+"招待URLをクリックして\n"
+"アプリを起動しました\n"
+"\n"
+"招待者のIDを検索しますか？"
+
+msgid "Friend_0026"
+msgstr "ハートを送りました"
+
+msgid "Friend_0027"
+msgstr "一括でフォローしますか？"
+
+msgid "Friend_0028"
+msgstr "合計{0}人をフォローしました"
+
+msgid "Friend_0029"
+msgstr ""
+"相手にハートをプレゼントします\n"
+"※24時間に1回送ることができます"
+
+msgid "Friend_0030"
+msgstr "招待"
+
+msgid "Friend_0031"
+msgstr "https://fusk.adj.st/?adjust_t=76f9to"
+
+msgid "Friend_0032"
+msgstr "スコアアタック"
+
+msgid "Friend_0033"
+msgstr "ハイスコア"
+
+msgid "Friend_Ascending_LastPlayTime"
+msgstr "古い順"
+
+msgid "Friend_Ascending_Star"
+msgstr "少ない順"
+
+msgid "Friend_Ascending_TwitterLink"
+msgstr "連携なし"
+
+msgid "Friend_Descending_LastPlayTime"
+msgstr "新しい順"
+
+msgid "Friend_Descending_Star"
+msgstr "多い順"
+
+msgid "Friend_Descending_TwitterLink"
+msgstr "連携あり"
+
+msgid "Friend_Sort_LastPlayTime"
+msgstr "最終ログイン順"
+
+msgid "Friend_Sort_Star"
+msgstr "ぷちぐるスター順"
+
+msgid "Friend_Sort_TwitterLink"
+msgstr "Twitter連携"
+
+msgid "GL_00001"
+msgstr "入力値エラー"
+
+msgid "GL_00002"
+msgstr "実装エラー"
+
+msgid "GL_00003"
+msgstr "アプリのバージョンアップが必要です。"
+
+msgid "GL_00004"
+msgstr "システムに内部エラーが発生しました。"
+
+msgid "GL_00005"
+msgstr "システムに内部エラーが発生しました。"
+
+msgid "GL_00006"
+msgstr "システムに内部エラーが発生しました。"
+
+msgid "GL_00007"
+msgstr "システムに内部エラーが発生しました。"
+
+msgid "GL_00008"
+msgstr "システムに内部エラーが発生しました。"
+
+msgid "GL_00009"
+msgstr "システムに内部エラーが発生しました。"
+
+msgid "GL_00010"
+msgstr "アプリサーバで処理が完了しませんでした。再試行"
+
+msgid "GL_00011"
+msgstr "アプリサーバで処理が完了しませんでした。再試行"
+
+msgid "GL_00012"
+msgstr "アプリサーバで処理が完了しませんでした。再試行"
+
+msgid "GL_00013"
+msgstr "5分以内に同じリクエストを送信した"
+
+msgid "GL_00014"
+msgstr "お客様のアプリは問題があるため、課金機能が使用できません。"
+
+msgid "GL_00015"
+msgstr "初期化に失敗しました。"
+
+msgid "GL_00016"
+msgstr "システムに内部エラーが発生しました。"
+
+msgid "GL_00017"
+msgstr "システムに内部エラーが発生しました。"
+
+msgid "GL_00018"
+msgstr "システムに内部エラーが発生しました。"
+
+msgid "GL_00019"
+msgstr "アプリサーバで処理が完了しませんでした。再試行"
+
+msgid "GL_00020"
+msgstr ""
+"このユーザーは別の端末に引継ぎ済みです。新しいユーザーでゲームを開始します"
+"か？"
+
+msgid "GL_00021"
+msgstr "お客様のアプリは問題があるため、課金機能が使用できません。"
+
+msgid "GL_00022"
+msgstr "お客様のアプリは問題があるため、課金機能が使用できません。"
+
+msgid "GL_01000"
+msgstr "通信エラー"
+
+msgid "GL_01001"
+msgstr "初回認証に失敗しました。再度、お試しください。"
+
+msgid "GL_01002"
+msgstr "実装エラー"
+
+msgid "GL_02000"
+msgstr "システムに内部エラーが発生しました。"
+
+msgid "GL_02001"
+msgstr "認証に失敗しました。再度、お試しください。"
+
+msgid "GL_03000"
+msgstr ""
+"ユーザーIDの登録/取得がリトライ回数の上限に達しました。時間を置いてもう一度お"
+"試しください。"
+
+msgid "GL_03001"
+msgstr "ユーザーIDの取得に失敗しました。再度、お試しください。"
+
+msgid "GL_04001"
+msgstr "ユーザーIDの取得に失敗しました。再度、お試しください。"
+
+msgid "GL_04002"
+msgstr "既に同じユーザーIDが登録されています。"
+
+msgid "GL_04003"
+msgstr "既に同じユーザーIDが登録されています。"
+
+msgid "GL_04004"
+msgstr "既に同じユーザーIDが登録されています。"
+
+msgid "GL_05001"
+msgstr "引き継ぎコードの生成に失敗しました。"
+
+msgid "GL_05002"
+msgstr "引き継ぎコードの更新に失敗しました。"
+
+msgid "GL_06001"
+msgstr "引き継ぎパスワードの登録に失敗しました。"
+
+msgid "GL_06002"
+msgstr "引き継ぎパスワードの生成に失敗しました。"
+
+msgid "GL_07001"
+msgstr "引き継ぎコードとパスワードの検証に失敗しました。"
+
+msgid "GL_07002"
+msgstr "引き継ぎコードが生成されていません。"
+
+msgid "GL_07003"
+msgstr "パスワードが未設定です。"
+
+msgid "GL_07004"
+msgstr "引き継ぎコードとパスワードの検証に失敗しました。"
+
+msgid "GL_07005"
+msgstr "認証が規定回数に達したため、ロックされました。"
+
+msgid "GL_07011"
+msgstr "サーバー側でエラーが発生しました。"
+
+msgid "GL_07012"
+msgstr "アカウントまたはパスワードが一致しません。"
+
+msgid "GL_07013"
+msgstr "パスワードの失敗が規定回数に達したため、ロックされました。"
+
+msgid "GL_08001"
+msgstr "引き継ぎに失敗しました。"
+
+msgid "GL_08002"
+msgstr "引き継ぎ情報が存在しません。"
+
+msgid "GL_08003"
+msgstr "引き継ぎ情報が有効期限切れです。"
+
+msgid "GL_08004"
+msgstr "引き継ぎ先がロックされています。"
+
+msgid "GL_08011"
+msgstr "サーバー側でエラーが発生しました。"
+
+msgid "GL_08012"
+msgstr "ユーザー情報でエラーが発生しました。"
+
+msgid "GL_08013"
+msgstr "ユーザー情報でエラーが発生しました。"
+
+msgid "GL_08014"
+msgstr "ユーザー情報でエラーが発生しました。"
+
+msgid "GL_08015"
+msgstr "ユーザー情報でエラーが発生しました。"
+
+msgid "GL_08016"
+msgstr "ユーザー情報でエラーが発生しました。"
+
+msgid "GL_08021"
+msgstr "サーバー側でエラーが発生しました。"
+
+msgid "GL_08022"
+msgstr "サーバーエラーが発生しました。"
+
+msgid "GL_10001"
+msgstr "入力値エラー"
+
+msgid "GL_10002"
+msgstr "実装エラー"
+
+msgid "GL_10003"
+msgstr "システムに内部エラーが発生しました。"
+
+msgid "GL_10004"
+msgstr "サポートされていない国または通貨です"
+
+msgid "GL_10005"
+msgstr "実装エラー"
+
+msgid "GL_10006"
+msgstr "メンテナンス中です。"
+
+msgid "GL_10007"
+msgstr "お客様のアプリは問題があるため、課金機能が使用できません。"
+
+msgid "GL_11001"
+msgstr "残高取得に失敗しました。"
+
+msgid "GL_12001"
+msgstr "残高リストの取得に失敗しました。"
+
+msgid "GL_13001"
+msgstr "履歴の取得に失敗しました。"
+
+msgid "GL_15001"
+msgstr "商品リストの取得に失敗しました。"
+
+msgid "GL_16001"
+msgstr "存在しない商品コードが指定されました。"
+
+msgid "GL_16002"
+msgstr "課金上限超過の為、購入できません。"
+
+msgid "GL_16004"
+msgstr "商品取得に失敗しました。"
+
+msgid "GL_16005"
+msgstr "所持可能なジュエル残高を超過したため、購入できません。"
+
+msgid "GL_16006"
+msgstr "アプリクローズにより、取得停止になっています。"
+
+msgid "GL_16007"
+msgstr "サポートされていない国または通貨です"
+
+msgid "GL_16008"
+msgstr ""
+"指定商品のチケットは同一特典権のチケットがまだ有効なため、購入できません。"
+
+msgid "GL_16009"
+msgstr "通算のチケット有効期限が180日を超えているため、購入できません。"
+
+msgid "GL_17000"
+msgstr "サーバーエラーが発生しました。"
+
+msgid "GL_17001"
+msgstr "サーバーエラーが発生しました。"
+
+msgid "GL_17002"
+msgstr "既に付与済みの商品コードが指定されています。"
+
+msgid "GL_17003"
+msgstr "レシート照合に失敗しました。"
+
+msgid "GL_17004"
+msgstr "レシート照合に失敗しました。"
+
+msgid "GL_17005"
+msgstr "商品付与に失敗しました。"
+
+msgid "GL_17006"
+msgstr "無効な商品です。"
+
+msgid "GL_17007"
+msgstr "エラーが発生しました。"
+
+msgid "GL_17008"
+msgstr "サーバーエラーが発生しました。"
+
+msgid "GL_17100"
+msgstr "課金プロセスがキャンセルされました。"
+
+msgid "GL_17200"
+msgstr "Storeでエラーが発生しました。"
+
+msgid "GL_17202"
+msgstr "Store情報取得エラーが発生しました。"
+
+msgid "GL_17210"
+msgstr "復旧処理に失敗しました。"
+
+msgid "GL_17211"
+msgstr "レシート取得に失敗しました。"
+
+msgid "GL_17212"
+msgstr "課金検証設定エラーです。"
+
+msgid "GL_17213"
+msgstr "itunes connectに存在しない商品コードが指定されています。"
+
+msgid "GL_17214"
+msgstr "端末で購入制限されています。"
+
+msgid "GL_17215"
+msgstr "エラーが発生しました。"
+
+msgid "GL_17217"
+msgstr "情報取得に失敗しました。"
+
+msgid "GL_17219"
+msgstr "初期化に失敗しました。"
+
+msgid "GL_17220"
+msgstr ""
+"予期せぬエラーが発生しました。\n"
+"再度実行しても問題が解決されない場合は、タイトル画面のサポートのお問い合わせ"
+"よりご連絡ください。"
+
+msgid "GL_20001"
+msgstr "年齢帯と誕生日が矛盾しています。"
+
+msgid "GL_20002"
+msgstr "年齢取得に失敗しました。"
+
+msgid "GL_21001"
+msgstr "年齢帯と誕生日が矛盾しています。"
+
+msgid "GL_21002"
+msgstr "年齢帯の登録に失敗しました。"
+
+msgid "GL_26001"
+msgstr "課金サーバーでエラーが発生しました。"
+
+msgid "GL_26002"
+msgstr "サーバーでエラーが発生しました。"
+
+msgid "GL_27001"
+msgstr "商品リスト取得に失敗しました。"
+
+msgid "GL_28001"
+msgstr "チケット情報の取得に失敗しました。"
+
+msgid "GL_28002"
+msgstr "チケット情報の取得に失敗しました。"
+
+msgid "GL_30001"
+msgstr "存在しない商品コードが指定されました。"
+
+msgid "GL_30002"
+msgstr "課金アラート情報取得に失敗しました。"
+
+msgid "GL_30003"
+msgstr "アプリクローズにより、取得停止になっています。"
+
+msgid "GL_30004"
+msgstr "サポートされていない国または通貨です。"
+
+msgid "GL_31001"
+msgstr "課金アラート設定情報の更新処理に失敗しました。"
+
+msgid "GL_32001"
+msgstr "課金アラート設定情報の取得に失敗しました。"
+
+msgid "GachaStepup_0001"
+msgstr "STEP{0}"
+
+msgid "GachaStepup_0002"
+msgstr "※STEP{0}まで購入するとこのガチャは利用できなくなります"
+
+msgid "GachaStepup_0003"
+msgstr "11枚目 ★5出現率UP！"
+
+msgid "GachaStepup_0004"
+msgstr ""
+"ステップアップガチャ特典を獲得しました！\n"
+"\n"
+"{0}\n"
+"\n"
+"<color=#ff0000><size=18>チケットの有効期限はプレゼントボックスから受け取り後"
+"150日です\n"
+"※特典はプレゼントボックスに付与されます</size></color>"
+
+msgid "GachaStepup_0005"
+msgstr "※このガチャは{0}周目まで引くことができます"
+
+msgid "GachaStepup_0006"
+msgstr "いま{0}周目"
+
+msgid "GachaStepup_0007"
+msgstr "出現割合(STEP{0})"
+
+msgid "GachaStepup_0008"
+msgstr "※STEP{0}まで購入するとSTEP1に戻ります"
+
+msgid "GachaStepup_0009"
+msgstr "※全STEP購入済みのためこのガチャは利用できません"
+
+msgid "GachaStepup_0010"
+msgstr "※全STEP購入済みです。次回AM00:00にSTEP1に戻ります"
+
+msgid "GachaStepup_0011"
+msgstr "{0}ジュエルお得！"
+
+msgid "GachaStepup_0012"
+msgstr "11枚目 ★5出現確定！"
+
+msgid "GachaStepup_0013"
+msgstr "1回ガチャ,11回ガチャ"
+
+msgid "GachaStepup_0014"
+msgstr "11回ガチャ"
+
+msgid "Gacha_0000"
+msgstr "{0}({1}){2}まで"
+
+msgid "Gacha_0001"
+msgstr ""
+"ぷちぐるをコンプリートしています\n"
+"次の更新をお楽しみに！\n"
+"※すべてのぷちぐるの\n"
+"スキルレベルが最大のときは\n"
+"ガチャをひくことができません"
+
+msgid "Gacha_0002"
+msgstr ""
+"ジュエルが不足しています\n"
+"ジュエルを購入しますか？"
+
+msgid "Gacha_0003"
+msgstr "ガチャID{0}の目玉アイテムが設定されていません"
+
+msgid "Gacha_0004"
+msgstr "出現割合"
+
+msgid "Gacha_0005"
+msgstr "ゴールドが不足しています。"
+
+msgid "Gacha_0006"
+msgstr "ゴールド<size=28>で</size>ひく"
+
+msgid "Gacha_0007"
+msgstr "ジュエル<size=28>で</size>ひく"
+
+msgid "Gacha_0008"
+msgstr "ひく"
+
+msgid "Gacha_0009"
+msgstr "チケット<size=28>で</size>ひく"
+
+msgid "Gacha_0010"
+msgstr "<size=18>×</size>{0}"
+
+msgid "Gacha_0011"
+msgstr "イベント"
+
+msgid "Gacha_0012"
+msgstr ""
+"イベントをプレイして\n"
+"チケットを集めよう﻿"
+
+msgid "Gacha_0013"
+msgstr ""
+"イベントモードが解放されていません\n"
+"ミッションをクリアして\n"
+"ぷちぐるスターをあつめよう"
+
+msgid "Gacha_0014"
+msgstr "チケットが不足しています"
+
+msgid "Gacha_0015"
+msgstr "イベントは終了しました"
+
+msgid "Gacha_0016"
+msgstr ""
+"ガチャが更新されました。\n"
+"タイトルにもどります。"
+
+msgid "Gacha_0017"
+msgstr "ガチャが更新されました"
+
+msgid "Gacha_0018"
+msgstr "開催期間"
+
+msgid "Gacha_0022"
+msgstr ""
+"コンプリートしているよ！\n"
+"次の更新をお楽しみに！"
+
+msgid "Gacha_0023"
+msgstr ""
+"<color=#F26144FF>ガチャに含まれるメンバーが\n"
+"すべてスキルレベル最大の時は、\n"
+"ガチャを引くことができません</color>"
+
+msgid "Gacha_0024"
+msgstr ""
+"{0}ジュエルを消費して\n"
+"{1}{2}\n"
+"を獲得しました"
+
+msgid "Gacha_0025"
+msgstr "{0}は{1}で使用できます"
+
+msgid "GameResult_0000"
+msgstr "獲得EXP+{0}％！"
+
+msgid "GameResult_0001"
+msgstr ""
+"フォローしました\n"
+"ホーム画面の「ハート送信」で確認できます"
+
+msgid "GameResult_0002"
+msgstr "フォローできませんでした"
+
+msgid "GameResult_0003"
+msgstr ""
+"●現在時刻をお知らせします。\n"
+"只今「{0}xxx」です。"
+
+msgid "GameResult_0004"
+msgstr "達成した解放条件：No.{0}"
+
+msgid "GameResult_0005"
+msgstr "達成 "
+
+msgid "GameResult_0006"
+msgstr "今回の結果"
+
+msgid "GameResult_0007"
+msgstr "ユーザーRank{0}で解放"
+
+msgid "GameResult_0008"
+msgstr ""
+"【ぷちぐるラブライブ！】{0}ステージでミッションNo.{1}「{2}」をクリア！\n"
+"#ぷちぐるラブライブ"
+
+msgid "GameResult_0009"
+msgstr ""
+"【ぷちぐるラブライブ！】{0}ステージでスコア{1:#,0}を達成！\n"
+"#ぷちぐるラブライブ"
+
+msgid "GameResult_0010"
+msgstr ""
+"【ぷちぐるラブライブ！】スコアアタックモードでスコア{0:#,0}を達成！\n"
+"#ぷちぐるラブライブ"
+
+msgid "GameResult_0011"
+msgstr "獲得："
+
+msgid "GameResult_0012"
+msgstr "ハート使用×{0}個"
+
+msgid "GameResult_0013"
+msgstr ""
+"【ぷちぐるラブライブ！】{0}イベント「{1}」をクリア！\n"
+"#ぷちぐるラブライブ"
+
+msgid "GameResult_0014"
+msgstr ""
+"【ぷちぐるラブライブ！】{0}イベントでスコア{1}を達成！\n"
+" #ぷちぐるラブライブ"
+
+msgid "GroupName_1"
+msgstr "μ’ｓ"
+
+msgid "GroupName_2"
+msgstr "Aqours"
+
+msgid "HelpText_0036"
+msgstr ""
+"パズルをプレイすると\n"
+"消したぷちぐるの数に応じて\n"
+"ぷちぐるが成長するよ"
+
+msgid "HelpText_0037"
+msgstr ""
+"ぷちぐるのレベルが上がると\n"
+"ぷちぐるを消したときのスコアが成長するよ"
+
+msgid "HelpText_0038"
+msgstr ""
+"ぷちぐるのレベルが10上がるたびに\n"
+"特技のレベルが上がるよ"
+
+msgid "HelpText_0039"
+msgstr ""
+"パズル中のボイスには\n"
+"ぷちぐるのレベルで解放されるものがあるよ"
+
+msgid "Help_0000"
+msgstr "フレンドトップのヘルプ"
+
+msgid "Help_0001"
+msgstr "フォローリストのヘルプ"
+
+msgid "Help_0002"
+msgstr "フォロワーリストのヘルプ"
+
+msgid "Help_0003"
+msgstr "ブロックリストのヘルプ"
+
+msgid "Help_0004"
+msgstr "ソートのヘルプ"
+
+msgid "Help_0005"
+msgstr "検索トップのヘルプ"
+
+msgid "Help_0006"
+msgstr "ID検索のヘルプ"
+
+msgid "Help_0007"
+msgstr "Twitter連携検索のヘルプ"
+
+msgid "Help_0008"
+msgstr "ランキングのヘルプ"
+
+msgid "Help_0009"
+msgstr "自分のプロフィールのヘルプ"
+
+msgid "Help_0010"
+msgstr "他者のプロフィールのヘルプ"
+
+msgid "Help_0011"
+msgstr "スキルのヘルプ"
+
+msgid "Help_0012"
+msgstr "特技のヘルプ"
+
+msgid "Help_0013"
+msgstr "ぷちぐるを育成しよう"
+
+msgid "Help_0014"
+msgstr "ぷちぐるブレードのヘルプ"
+
+msgid "HowToPlayEvent_0001"
+msgstr "イベント　遊び方１"
+
+msgid "HowToPlayEvent_0002"
+msgstr "イベント　遊び方２"
+
+msgid "HowToPlayEvent_0003"
+msgstr "イベント　遊び方３"
+
+msgid "HowToPlayMission_0001"
+msgstr "遊び方1"
+
+msgid "HowToPlayMission_0002"
+msgstr "遊び方2"
+
+msgid "HowToPlayMission_0003"
+msgstr "遊び方3"
+
+msgid "HowToPlayMission_0004"
+msgstr "遊び方4"
+
+msgid "HowToPlayMission_0005"
+msgstr "遊び方5"
+
+msgid "HowToPlayMission_0006"
+msgstr "遊び方6"
+
+msgid "HowToPlayMission_0007"
+msgstr "遊び方7"
+
+msgid "HowToPlayMission_0008"
+msgstr "遊び方8"
+
+msgid "HowToPlayMission_0009"
+msgstr "遊び方9"
+
+msgid "HowToPlayMission_0010"
+msgstr "遊び方10"
+
+msgid "HowToPlayMission_0011"
+msgstr "遊び方11"
+
+msgid "HowToPlayMission_0012"
+msgstr "遊び方12"
+
+msgid "HowToPlayMission_0013"
+msgstr "遊び方13"
+
+msgid "HowToPlayMission_0014"
+msgstr "遊び方14"
+
+msgid "Jasrac_001"
+msgstr "JASRAC許諾第9018407002Y43031号"
+
+msgid "LastReleaseAction_ActiveSkill"
+msgstr "スキル：{0}のぷちぐる"
+
+msgid "LastReleaseAction_Class"
+msgstr "{0}メンバー"
+
+msgid "LastReleaseAction_Costume"
+msgstr "{0}衣装のぷちぐる"
+
+msgid "LastReleaseAction_Group"
+msgstr "{0}メンバー"
+
+msgid "LastReleaseAction_PassiveSkill"
+msgstr "特技：{0}のぷちぐる"
+
+msgid "LastReleaseAction_Personal"
+msgstr "{0}"
+
+msgid "LastReleaseAction_Unit"
+msgstr "{0}メンバー"
+
+msgid "LoginBonusAttension_00000004"
+msgstr "<color=#9C6240FF>Test4</color>"
+
+msgid "LoginBonusAttension_18032701"
+msgstr ""
+"<color=#9C6240FF>公式サイトイベント「宇宙を目指せ！ぷちぐるタワー」達成報酬\n"
+"期間中1回だけ3500ジュエルをプレゼント！</color>"
+
+msgid "LoginBonusAttension_18032702"
+msgstr ""
+"<color=#9C6240FF>リリース記念ログインボーナス\n"
+"期間中1日1回様々なアイテムをプレゼント！(最大14日目まで)</color>"
+
+msgid "LoginBonusAttension_18042701"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回ぷちぐるブレードをプレゼント！(最大2日目まで)</"
+"color>"
+
+msgid "LoginBonusAttension_18053101"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大4日目まで)</"
+"color>"
+
+msgid "LoginBonusAttension_18062903"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大5日目まで)</"
+"color>"
+
+msgid "LoginBonusAttension_18071401"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大3日目まで)</"
+"color>"
+
+msgid "LoginBonusAttension_18073101"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大6日目まで)</"
+"color>"
+
+msgid "LoginBonusAttension_18082501"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大6日目まで)</"
+"color>"
+
+msgid "LoginBonusAttension_18083104"
+msgstr ""
+"<color=#9C6240FF>新規登録キャンペーン報酬\n"
+"期間中1回だけ1000ジュエルをプレゼント！</color>"
+
+msgid "LoginBonusAttension_18110102"
+msgstr ""
+"<color=#9C6240FF>新規登録キャンペーン報酬\n"
+"期間中1回だけ1000ジュエルをプレゼント！</color>"
+
+msgid "LoginBonusAttension_18110202"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+
+msgid "LoginBonusAttension_18110203"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+
+msgid "LoginBonusAttension_18110204"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+
+msgid "LoginBonusAttension_18110205"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+
+msgid "LoginBonusAttension_18110206"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+
+msgid "LoginBonusAttension_18110207"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+
+msgid "LoginBonusAttension_18110208"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+
+msgid "LoginBonusAttension_18110209"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+
+msgid "LoginBonusAttension_18110401"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大5日目まで)</"
+"color>"
+
+msgid "LoginBonusAttension_18120101"
+msgstr ""
+"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大4日目まで)</"
+"color>"
+
+msgid "LoginBonusTerm"
+msgstr ""
+"<color=#9C6240FF>開催期間\n"
+"{1:yyyy年M月d日}まで</color>"
+
+msgid "Login_0000"
+msgstr ""
+"ログインに失敗しました\n"
+"タイトルに戻ります"
+
+msgid "Login_0001"
+msgstr "gamelibのメンテナンス中です"
+
+msgid "Login_0002"
+msgstr "アカウントが凍結されています"
+
+msgid "Login_0003"
+msgstr ""
+"error:{0}\n"
+"{1}\n"
+"タイトルに戻ります"
+
+msgid "Login_0004"
+msgstr ""
+"無効なユーザーです\n"
+"タイトルに戻ります"
+
+msgid "Login_0005"
+msgstr "ログインに失敗しました"
+
+msgid "Login_0006"
+msgstr "アプリを再起動します"
+
+msgid "Login_0007"
+msgstr ""
+"この端末は引き継ぎが完了しています\n"
+"アプリをアンインストールしてください"
+
+msgid "MemberInfo_0001"
+msgstr "パズル開始"
+
+msgid "MemberInfo_0002"
+msgstr "パズル終了"
+
+msgid "MemberInfo_0003"
+msgstr "つながりレベルUP"
+
+msgid "MemberInfo_0004"
+msgstr "ミッションクリア"
+
+msgid "MemberInfo_0005"
+msgstr "コンボ達成"
+
+msgid "MemberInfo_0006"
+msgstr "スコア達成"
+
+msgid "MemberInfo_0007"
+msgstr "ゴールド獲得"
+
+msgid "MemberInfo_0008"
+msgstr "特別ボイス"
+
+msgid "MemberInfo_0009"
+msgstr "レベル"
+
+msgid "MemberInfo_0010"
+msgstr "レベル{0}で解放"
+
+msgid "MemberInfo_0011"
+msgstr "メンバーの新しいボイスが解放されました"
+
+msgid "MemberInfo_0012"
+msgstr "ゴールド達成ボイス"
+
+msgid "MemberInfo_0013"
+msgstr "特技"
+
+msgid "MemberInfo_0014"
+msgstr "スキル"
+
+msgid "MemberInfo_0015"
+msgstr "ショータイム"
+
+msgid "Migration_0000"
+msgstr "引き継ぎコード発行"
+
+msgid "Migration_0001"
+msgstr "引き継ぎコードをコピーしました"
+
+msgid "Migration_0002"
+msgstr ""
+"XUID\n"
+" {0}\n"
+"{1}\n"
+"{2}\n"
+"引き継ぎを実行しますか？;"
+
+msgid "Migration_0003"
+msgstr "有償ジュエル : {0}個"
+
+msgid "Migration_0004"
+msgstr "無償ジュエル : {0]個"
+
+msgid "Migration_0005"
+msgstr ""
+"エラーコード:{0}\n"
+"{1}"
+
+msgid "Migration_0006"
+msgstr "データ移行が完了しました"
+
+msgid "Migration_0007"
+msgstr "サーバーがメンテンナンス中だよ"
+
+msgid "Migration_0008"
+msgstr ""
+"iOSとAndroid間での引き継ぎを行う場合、\n"
+"<color=#F95151>有償ジュエルは無償ジュエルに変更されます</color>ので\n"
+"ご了承ください"
+
+msgid "MiniEvent_0001"
+msgstr ""
+"セガコラボ\n"
+"キャンペーン"
+
+msgid "MiniEvent_0002"
+msgstr "報酬はプレゼントボックスに送られます"
+
+msgid "MiniEvent_0003"
+msgstr "つぎの報酬"
+
+msgid "MiniEvent_0004"
+msgstr "すべての報酬を獲得しました"
+
+msgid "MiniEvent_0005"
+msgstr "報酬一覧"
+
+msgid "MiniEvent_0006"
+msgstr "あと{0:#,0}"
+
+msgid "MiniEvent_0007"
+msgstr "期間: {0:MM/dd} ({1}) {2:HH:mm}まで"
+
+msgid "MiniEvent_0008"
+msgstr "次の報酬"
+
+msgid "MiniEvent_0009"
+msgstr "次の報酬まで"
+
+msgid "MissionData_0000"
+msgstr "次のミッションは、0:00に更新されるよ"
+
+msgid "MissionData_0001"
+msgstr "TODO マスターデータがない"
+
+msgid "MissionData_0002"
+msgstr "あと{0}"
+
+msgid "MissionData_0003"
+msgstr "万点"
+
+msgid "MissionData_0004"
+msgstr "点"
+
+msgid "MissionData_0005"
+msgstr "枚"
+
+msgid "MissionData_0006"
+msgstr "回"
+
+msgid "MissionData_0007"
+msgstr "個"
+
+msgid "MissionData_0008"
+msgstr "億"
+
+msgid "MissionData_0009"
+msgstr "万"
+
+msgid "MissionDesignation_BombAll"
+msgstr "{0}/{1}個"
+
+msgid "MissionDesignation_BombCoin"
+msgstr "{0}/{1}個"
+
+msgid "MissionDesignation_BombScore"
+msgstr "{0}/{1}個"
+
+msgid "MissionDesignation_BombTime"
+msgstr "{0}/{1}個"
+
+msgid "MissionDesignation_Chain"
+msgstr "{0}/{1}"
+
+msgid "MissionDesignation_ChainCount"
+msgstr "{0}/{1}"
+
+msgid "MissionDesignation_Combo"
+msgstr "{0}/{1}"
+
+msgid "MissionDesignation_EraseAll"
+msgstr "{0}/{1}個"
+
+msgid "MissionDesignation_EraseLeader"
+msgstr "{0}/{1}個"
+
+msgid "MissionDesignation_EraseTarget"
+msgstr "{0}/{1}個"
+
+msgid "MissionDesignation_Gold"
+msgstr "{0}/{1}枚"
+
+msgid "MissionDesignation_None"
+msgstr "{0}/{1}"
+
+msgid "MissionDesignation_Score_0"
+msgstr "{0}/{1}点"
+
+msgid "MissionDesignation_Score_1"
+msgstr "{0}/{1}万点"
+
+msgid "MissionDesignation_ShowTime"
+msgstr "{0}/{1}回"
+
+msgid "MissionDesignation_Skill"
+msgstr "{0}/{1}回"
+
+msgid "MusicName_10002001"
+msgstr "僕らは今のなかで"
+
+msgid "MusicName_10003001"
+msgstr "Snow halation"
+
+msgid "MusicName_10004001"
+msgstr "それは僕たちの奇跡"
+
+msgid "MusicName_20002001"
+msgstr "青空Jumping Heart"
+
+msgid "MusicName_20002999"
+msgstr "チュートリアル"
+
+msgid "MusicName_20003001"
+msgstr "HAPPY PARTY TRAIN"
+
+msgid "MusicName_20004001"
+msgstr "未来の僕らは知ってるよ"
+
+msgid "MusicTitle_10002001"
+msgstr "僕らは今のなかで"
+
+msgid "MusicTitle_10003001"
+msgstr "Snow halation"
+
+msgid "MusicTitle_10004001"
+msgstr "それは僕たちの奇跡"
+
+msgid "MusicTitle_10005001"
+msgstr "僕らのLIVE 君とのLIFE"
+
+msgid "MusicTitle_10006001"
+msgstr "夏色えがおで1,2,Jump!"
+
+msgid "MusicTitle_10007001"
+msgstr "Dancing stars on me!"
+
+msgid "MusicTitle_10008001"
+msgstr "タカラモノズ"
+
+msgid "MusicTitle_20002001"
+msgstr "青空Jumping Heart"
+
+msgid "MusicTitle_20002999"
+msgstr "チュートリアル"
+
+msgid "MusicTitle_20003001"
+msgstr "HAPPY PARTY TRAIN"
+
+msgid "MusicTitle_20004001"
+msgstr "未来の僕らは知ってるよ"
+
+msgid "MusicTitle_20005001"
+msgstr "WATER BLUE NEW WORLD"
+
+msgid "MusicTitle_20006001"
+msgstr "Thank you, FRIENDS!!"
+
+msgid "MusicTitle_20007001"
+msgstr "ジングルベルがとまらない"
+
+msgid "MusicTitle_20008001"
+msgstr "Hop? Stop? Nonstop!"
+
+msgid "Network_0000"
+msgstr ""
+"新しいデータがあります\n"
+"タイトルへ戻ります"
+
+msgid "Network_0001"
+msgstr ""
+"新しいアプリがあります\n"
+"タイトルへ戻ります"
+
+msgid "Network_0002"
+msgstr ""
+"error:{0}\n"
+"通信状態が不安定です\n"
+"再試行をしますか？"
+
+msgid "Network_0003"
+msgstr ""
+"error:{0}\n"
+"通信に失敗しました"
+
+msgid "Network_0004"
+msgstr "通信が中断されました"
+
+msgid "Network_0005"
+msgstr "通信の再試行をしますか？"
+
+msgid "Network_0006"
+msgstr ""
+"通信状態が不安定です\n"
+"再試行をしますか？"
+
+msgid "Network_0007"
+msgstr "通信エラーが発生しました"
+
+msgid "Network_0008"
+msgstr ""
+"通信を再試行しましたが\n"
+"接続できませんでした"
+
+msgid "Network_0009"
+msgstr "サーバーCRCの内容が空です"
+
+msgid "Network_0010"
+msgstr "サーバーCRCの内容が不正です"
+
+msgid "Network_0011"
+msgstr "{0}のダウンロードに失敗しました"
+
+msgid "Network_0012"
+msgstr "リトライ"
+
+msgid "Network_0013"
+msgstr ""
+"通信がキャンセルされました\n"
+"タイトルに戻ります"
+
+msgid "Network_0014"
+msgstr ""
+"error:{0}\n"
+"{1}"
+
+msgid "Network_0015"
+msgstr ""
+"error:{0}\n"
+"メンテナンス中です"
+
+msgid "Network_0016"
+msgstr "タイトルに戻ります"
+
+msgid "Network_0017"
+msgstr ""
+"新しいアプリがあります\n"
+"最新版をインストールしてください"
+
+msgid "Notification_0010"
+msgstr "その楽曲はすでに終了しています。"
+
+msgid "Notification_0011"
+msgstr "そのガチャはすでに終了しています。"
+
+msgid "Notification_0012"
+msgstr "そのスコアアタックはすでに終了しています。"
+
+msgid "Notification_0013"
+msgstr ""
+"スコアアタックモードが解放されていません\n"
+"ミッションをクリアして☆をあつめよう"
+
+msgid "Notification_0014"
+msgstr ""
+"ミッションモードはチュートリアルステージクリア後に解放されるよ\n"
+"チュートリアルステージを進めてみよう！"
+
+msgid "Option_0000"
+msgstr "オプション設定"
+
+msgid "Option_0001"
+msgstr "スキル振動　{0}"
+
+msgid "Option_0002"
+msgstr "イベント通知　{0}"
+
+msgid "Option_0003"
+msgstr "ハート全回復通知　{0}"
+
+msgid "Option_0004"
+msgstr "ハート受信通知　{0}"
+
+msgid "Option_0005"
+msgstr "ぷちぐるブレード使用通知　{0}"
+
+msgid "Option_0006"
+msgstr "使いすぎアラート　{0}"
+
+msgid "Option_0007"
+msgstr "パズル開始時の特技表示　{0}"
+
+msgid "ParseError_ActionTarget"
+msgstr ""
+"{0}.actionTarget パースエラー\n"
+"{1}\n"
+"{2}"
+
+msgid "ParseError_Limitation"
+msgstr ""
+"{0}.limitationType パースエラー\n"
+"{1}\n"
+"{2}"
+
+msgid "PassiveSkillInfo_0001"
+msgstr "コンボ判定"
+
+msgid "PassiveSkillInfo_0002"
+msgstr "ぷちぐる消去"
+
+msgid "PassiveSkillInfo_0003"
+msgstr "高得点変化"
+
+msgid "PassiveSkillInfo_0004"
+msgstr "ショータイム"
+
+msgid "PassiveSkillInfo_0005"
+msgstr "スキルゲージ"
+
+msgid "PassiveSkillInfo_0006"
+msgstr "コンボ"
+
+msgid "PassiveSkillInfo_0007"
+msgstr "スコア"
+
+msgid "PassiveSkillInfo_0008"
+msgstr "センター補充"
+
+msgid "PassiveSkillInfo_0009"
+msgstr "ゴールド"
+
+msgid "PassiveSkillInfo_0010"
+msgstr "ボム範囲"
+
+msgid "PassiveSkillInfo_0011"
+msgstr "つながり"
+
+msgid "PassiveSkillInfo_0012"
+msgstr "ボム発生"
+
+msgid "PassiveSkillInfo_0013"
+msgstr "ボム発生"
+
+msgid "PassiveSkillInfo_0014"
+msgstr "ボム発生"
+
+msgid "PassiveSkillInfo_0015"
+msgstr "ボム発生"
+
+msgid "PersonalNameRuby_101"
+msgstr "こうさか ほのか"
+
+msgid "PersonalNameRuby_102"
+msgstr "みなみ ことり"
+
+msgid "PersonalNameRuby_103"
+msgstr "そのだ うみ"
+
+msgid "PersonalNameRuby_104"
+msgstr "にしきの まき"
+
+msgid "PersonalNameRuby_105"
+msgstr "ほしぞら りん"
+
+msgid "PersonalNameRuby_106"
+msgstr "こいずみ はなよ"
+
+msgid "PersonalNameRuby_107"
+msgstr "やざわ にこ"
+
+msgid "PersonalNameRuby_108"
+msgstr "とうじょう のぞみ"
+
+msgid "PersonalNameRuby_109"
+msgstr "あやせ えり"
+
+msgid "PersonalNameRuby_201"
+msgstr "たかみ ちか"
+
+msgid "PersonalNameRuby_202"
+msgstr "わたなべ よう"
+
+msgid "PersonalNameRuby_203"
+msgstr "さくらうち りこ"
+
+msgid "PersonalNameRuby_204"
+msgstr "くにきだ はなまる"
+
+msgid "PersonalNameRuby_205"
+msgstr "くろさわ るびぃ"
+
+msgid "PersonalNameRuby_206"
+msgstr "つしま よしこ"
+
+msgid "PersonalNameRuby_207"
+msgstr "くろさわ だいや"
+
+msgid "PersonalNameRuby_208"
+msgstr "まつうら かなん"
+
+msgid "PersonalNameRuby_209"
+msgstr "おはら まり"
+
+msgid "PersonalNameRuby_401"
+msgstr "かづの せいら"
+
+msgid "PersonalNameRuby_402"
+msgstr "かづの りあ"
+
+msgid "PersonalNameRuby_901"
+msgstr "まいめろでぃ"
+
+msgid "PersonalNameRuby_902"
+msgstr "しなもろーる"
+
+msgid "PersonalNameRuby_903"
+msgstr "けろけろけろっぴ"
+
+msgid "PersonalNameRuby_904"
+msgstr "はろーきてぃ"
+
+msgid "PersonalNameRuby_905"
+msgstr "ぽむぽむぷりん"
+
+msgid "PersonalNameRuby_906"
+msgstr "ばっどばつまる"
+
+msgid "PersonalName_101"
+msgstr "高坂 穂乃果"
+
+msgid "PersonalName_102"
+msgstr "南 ことり"
+
+msgid "PersonalName_103"
+msgstr "園田 海未"
+
+msgid "PersonalName_104"
+msgstr "西木野 真姫"
+
+msgid "PersonalName_105"
+msgstr "星空 凛"
+
+msgid "PersonalName_106"
+msgstr "小泉 花陽"
+
+msgid "PersonalName_107"
+msgstr "矢澤 にこ"
+
+msgid "PersonalName_108"
+msgstr "東條 希"
+
+msgid "PersonalName_109"
+msgstr "絢瀬 絵里"
+
+msgid "PersonalName_201"
+msgstr "高海 千歌"
+
+msgid "PersonalName_202"
+msgstr "渡辺 曜"
+
+msgid "PersonalName_203"
+msgstr "桜内 梨子"
+
+msgid "PersonalName_204"
+msgstr "国木田 花丸"
+
+msgid "PersonalName_205"
+msgstr "黒澤 ルビィ"
+
+msgid "PersonalName_206"
+msgstr "津島 善子"
+
+msgid "PersonalName_207"
+msgstr "黒澤 ダイヤ"
+
+msgid "PersonalName_208"
+msgstr "松浦 果南"
+
+msgid "PersonalName_209"
+msgstr "小原 鞠莉"
+
+msgid "PersonalName_401"
+msgstr "鹿角 聖良"
+
+msgid "PersonalName_402"
+msgstr "鹿角 理亞"
+
+msgid "PersonalName_901"
+msgstr "マイメロディ"
+
+msgid "PersonalName_902"
+msgstr "シナモロール"
+
+msgid "PersonalName_903"
+msgstr "けろけろけろっぴ"
+
+msgid "PersonalName_904"
+msgstr "ハローキティ"
+
+msgid "PersonalName_905"
+msgstr "ポムポムプリン"
+
+msgid "PersonalName_906"
+msgstr "バッドばつ丸"
+
+msgid "PersonalSerif_101"
+msgstr ""
+"高坂 穂乃果（こうさか ほのか）：音ノ木坂学院に通う高校2年生。いつも笑顔でとに"
+"かく元気が取り柄。μ'ｓのエンジンであり牽引者。　誕生日：8月3日　血液型：O型　"
+"CV：新田 恵海"
+
+msgid "PersonalSerif_102"
+msgstr ""
+"南 ことり（みなみ ことり）：音ノ木坂学院に通う高校2年生。穂乃果の一番の友人。"
+"おっとりとはしているが芯は強く、物怖じしない。　誕生日：9月12日　血液型：O"
+"型　CV：内田 彩"
+
+msgid "PersonalSerif_103"
+msgstr ""
+"園田 海未（そのだ うみ）：音ノ木坂学院に通う高校2年生。凜とした雰囲気の大和撫"
+"子で、自分にも周りにも厳しい。穂乃果、ことりとは幼馴染。　誕生日：3月15日　血"
+"液型：A型　CV：三森 すずこ"
+
+msgid "PersonalSerif_104"
+msgstr ""
+"西木野 真姫（にしきの まき）：音ノ木坂学院に通う高校1年生。両親が大病院を経営"
+"するお嬢様。高飛車でプライドが高いが、実はさみしがりな一面も。　誕生日：4月19"
+"日　血液型：AB型　CV：Pile"
+
+msgid "PersonalSerif_105"
+msgstr ""
+"星空 凛（ほしぞら りん）：音ノ木坂学院に通う高校1年生。体育会系でいつも明るく"
+"ふるまう。面倒見もよく、いつも幼馴染の花陽と一緒にいる。　誕生日：11月1日　血"
+"液型：A型　CV：飯田 里穂"
+
+msgid "PersonalSerif_106"
+msgstr ""
+"小泉 花陽（こいずみ はなよ）：音ノ木坂学院に通う高校1年生。あまり目立たないお"
+"となしい女の子。凛と仲が良く、いつも一緒にいる。白いご飯が大好物。　誕生日：1"
+"月17日　血液型：B型　CV：久保 ユリカ"
+
+msgid "PersonalSerif_107"
+msgstr ""
+"矢澤 にこ（やざわ にこ）：音ノ木坂学院に通う高校3年生。アイドルを目指して日夜"
+"励んでいる、正真正銘のアイドルオタク。「にっこにっこにー」が合い言葉。　誕生"
+"日：7月22日　血液型：A型　CV：徳井 青空"
+
+msgid "PersonalSerif_108"
+msgstr ""
+"東條 希（とうじょう のぞみ）：音ノ木坂学院に通う高校3年生。生徒会副会長で、関"
+"西弁まじりの独特の口調で話す。のほほんとしているけれど意外と策士？　誕生日：6"
+"月9日　血液型：O型　CV：楠田 亜衣奈"
+
+msgid "PersonalSerif_109"
+msgstr ""
+"絢瀬 絵里（あやせ えり）：音ノ木坂学院に通う高校3年生。生徒会長にして、ロシア"
+"人のクォーター。何をやらせてもそつなくこなす。　誕生日：10月21日　血液型：B"
+"型　CV：南條 愛乃"
+
+msgid "PersonalSerif_201"
+msgstr ""
+"高海 千歌（たかみ ちか）：浦の星女学院に通う高校2年生。Aqoursの発起人で、3姉"
+"妹の末っ子。持ち前の明るさと強引さで周囲を次々に巻き込んでいく。　誕生日：8月"
+"1日　血液型：B型　CV：伊波 杏樹"
+
+msgid "PersonalSerif_202"
+msgstr ""
+"渡辺 曜（わたなべ よう）：浦の星女学院に通う高校2年生。千歌とは幼馴染。高飛び"
+"込みの選手でもあり、考えるよりも先に体が動くタイプ。将来の夢は船長。　誕生"
+"日：4月17日　血液型：AB型　CV：斉藤 朱夏"
+
+msgid "PersonalSerif_203"
+msgstr ""
+"桜内 梨子（さくらうち りこ）：浦の星女学院に通う高校2年生。東京の秋葉原から千"
+"歌のクラスへと転校してきた。落ち着いて見えるが実は慌て者。　誕生日：9月19日　"
+"血液型：A型　CV：逢田 梨香子"
+
+msgid "PersonalSerif_204"
+msgstr ""
+"国木田 花丸（くにきだ はなまる）：浦の星女学院に通う高校1年生。地元で代々続く"
+"お寺の娘。読書好きで、特に日本文学をこよなく愛する文学少女。　誕生日：3月4"
+"日　血液型：O型　CV：高槻 かなこ"
+
+msgid "PersonalSerif_205"
+msgstr ""
+"黒澤 ルビィ（くろさわ るびぃ）：浦の星女学院に通う高校1年生。ダイヤを姉に持"
+"ち、花丸とは大の仲良し。泣き虫だけれど、名家のお嬢様だけあって芯は持ってい"
+"る。　誕生日：9月21日　血液型：A型　CV：降幡 愛"
+
+msgid "PersonalSerif_206"
+msgstr ""
+"津島 善子（つしま よしこ）：浦の星女学院に通う高校1年生。小悪魔風のファッショ"
+"ンに身を包み、自らを“堕天使ヨハネ”と称する。ものすごく運が悪い。　誕生日：7月"
+"13日　血液型：O型　CV：小林 愛香"
+
+msgid "PersonalSerif_207"
+msgstr ""
+"黒澤 ダイヤ（くろさわ だいや）：浦の星女学院に通う高校3年生。地元でも有名な名"
+"家の子女で、生徒会長を務める。中途半端や曲がったことは絶対に許さない。　誕生"
+"日：1月1日　血液型：A型　CV：小宮 有紗"
+
+msgid "PersonalSerif_208"
+msgstr ""
+"松浦 果南（まつうら かなん）：浦の星女学院に通う高校3年生。サバサバした性格"
+"で、あまり物事にこだわりがない。どこかクールな雰囲気を纏っている。　誕生日：2"
+"月10日　血液型：O型　CV：諏訪 ななか"
+
+msgid "PersonalSerif_209"
+msgstr ""
+"小原 鞠莉（おはら まり）：浦の星女学院に通う高校3年生。イタリア系アメリカ人の"
+"父を持つハーフ。何があってもめげない性格で、恐れを知らないチャレンジャー。　"
+"誕生日：6月13日　血液型：AB型　CV：鈴木 愛奈"
+
+msgid "PersonalSerif_401"
+msgstr ""
+"鹿角聖良（かづの せいら）：函館聖泉女子高等学院に通う高校3年生。落ち着いた雰"
+"囲気を持ち、何事にもストイックなしっかりもの。妹の理亞のことをいつも気に掛け"
+"ている。　誕生日：5月4日　血液型：A型　CV：田野 アサミ"
+
+msgid "PersonalSerif_402"
+msgstr ""
+"鹿角理亞（かづの りあ）：函館聖泉女子高等学院に通う高校1年生。聖良を姉に持"
+"つ。トゲのあるもの言いで人付き合いが苦手だが、スクールアイドルに対する真剣さ"
+"は人一倍。　誕生日：12月12日　血液型：AB型　CV：佐藤 日向"
+
+msgid "PersonalSerif_901"
+msgstr ""
+"マイメロディ：すなおで明るい、弟思いの女のコ。宝物は、おばあちゃんが作ってく"
+"れた、かわいいずきん。お母さんといっしょにクッキーを焼くのが好きで、好きな食"
+"べ物は、アーモンドパウンドケーキ。"
+
+msgid "PersonalSerif_902"
+msgstr ""
+"シナモロール：遠いお空の雲の上で生まれた、白いこいぬの男の子。特技は、大きな"
+"耳をパタパタさせて、空を飛ぶこと。おとなしいけれど、とても人なつっこくて、お"
+"客さんのひざの上で寝ちゃうこともある。"
+
+msgid "PersonalSerif_903"
+msgstr ""
+"けろけろけろっぴ：冒険好きで、元気いっぱい！ドーナツ池の人気者。ころっぴ、"
+"ぴっきと、3つ子のきょうだい。カエル泳ぎは苦手で、クロールが得意。歌が上手なカ"
+"エルの男のコ。"
+
+msgid "PersonalSerif_904"
+msgstr ""
+"ハローキティ：身長はりんご5個分。体重はりんご3個分。明るくて、優しい女のコ。"
+"クッキーを作ったり、ピアノをひくのが大好きで、夢はピアニストか、詩人になるこ"
+"と。音楽と英語が得意。好きな食べ物は、ママが作ったアップルパイ。双子の妹、ミ"
+"ミィとは大の仲良し。"
+
+msgid "PersonalSerif_905"
+msgstr ""
+"ポムポムプリン：こげ茶色のベレー帽がトレードマークの、ゴールデンレトリバーの"
+"男のコ。のんびり屋で、好きな言葉は「おでかけ」、嫌いな言葉は「おるすばん」。"
+"くつ集めが趣味。特技は、お昼寝とプリン体操。誰とでも仲良くなれちゃうこと。"
+
+msgid "PersonalSerif_906"
+msgstr ""
+"バッドばつ丸：いたずら好きで、あまのじゃくなペンギンの男のコ。好きな食べ物"
+"は、銀座の高級お寿司とポリパリラーメン。将来の夢は、社長になること。ひねくれ"
+"者に見えるけど本当はイイヤツ？"
+
+msgid "Personal_100"
+msgstr ""
+"廃校の危機を救うため音ノ木坂学院に通う、高坂穂乃果を中心とした生徒9人で結成さ"
+"れたスクールアイドルグループ。"
+
+msgid "Personal_101"
+msgstr ""
+"音ノ木坂学院の高校2年生で、μ'sの発起人。いつも笑顔でとにかく元気が取り柄。直"
+"観と思いつきで行動し、一度決めたら猪突猛進の一直線。"
+
+msgid "Personal_102"
+msgstr ""
+"音ノ木坂学院の高校2年生。穂乃果の一番の友人。穂乃果とは対照的におっとりと柔ら"
+"かい性格で、勉強もそつなくこなす優等生。"
+
+msgid "Personal_103"
+msgstr ""
+"音ノ木坂学院の高校2年生。日舞の家元の家に育ち、凛とした雰囲気を漂わせる大和撫"
+"子。子供の頃から弓道で鍛えられ、礼儀作法も完璧な女の子。"
+
+msgid "Personal_104"
+msgstr ""
+"音ノ木坂学院の高校1年生。両親が大病院を経営しているお嬢様。歌が抜群にうまく、"
+"ピアノも弾ける待望の一年生。高飛車でプライドが高く、本心を見せるのが苦手。実"
+"は寂しがりな一面も。"
+
+msgid "Personal_105"
+msgstr ""
+"音ノ木坂学院の高校1年生。体育会系でいつも明るく、くよくよ悩むよりも体を動かす"
+"タイプ。体育会系だけあって面倒見はよく、いつも幼馴染の花陽の面倒を見ている。"
+
+msgid "Personal_106"
+msgstr ""
+"音ノ木坂学院の高校1年生。クラスでもあまり目立たない、おとなしい女の子。自信が"
+"なく、何をやろうとしても諦めてしまいがち。凛と仲が良く、いつも一緒にいる。"
+
+msgid "Personal_107"
+msgstr ""
+"音ノ木坂学院の高校3年生。アイドルを目指して日夜励んでいる、正真正銘のアイドル"
+"オタク。アイドルを目指している先輩として、穂乃果たちに偉そうに接することもし"
+"ばしば。その割には失敗も多く、意外にドジッ子。"
+
+msgid "Personal_108"
+msgstr ""
+"音ノ木坂学院の高校3年生。絵里とは対照的にマイペースな性格で、関西弁まじりの独"
+"特の口調で話す。大らかさがあり、μ'sのなかでは、実は精神年齢は一番上と思わせる"
+"所も。"
+
+msgid "Personal_109"
+msgstr ""
+"音ノ木坂学院の高校3年生。ロシア人のクォーター。頭脳明晰、運動神経抜群。学校で"
+"も人気抜群で、責任感が強く、生徒会長を務める。"
+
+msgid "Personal_200"
+msgstr ""
+"静岡県沼津市内浦に位置する浦の星女学院に通う、高海千歌を中心とした生徒9人に"
+"よって結成されたスクールアイドルグループ。"
+
+msgid "Personal_201"
+msgstr ""
+"浦の星女学院の2年生で、Aqoursの発起人。３人姉妹の末っ子で、実家は旅館をやって"
+"いる。人懐っこく負けず嫌い。持ち前の明るさと強引さで周囲を次々に巻き込んでい"
+"く。"
+
+msgid "Personal_202"
+msgstr ""
+"浦の星女学院の2年生で、千歌のクラスメイト。高飛び込みの選手で実力はナショナル"
+"チーム級。筋トレが趣味の体育会系で、考えるよりも先に体が動くタイプ。"
+
+msgid "Personal_203"
+msgstr ""
+"東京の秋葉原から千歌のクラスへと転校してきた2年生。大人っぽく落ち着いて見える"
+"が実は慌て者で、早とちりや勘違いをしてしまうことも。"
+
+msgid "Personal_204"
+msgstr ""
+"浦の星女学院の1年生。地元で代々続くお寺の娘。読書好きで、特に日本文学をこよな"
+"く愛する文学少女。周囲の人々に気を配る優しい性格。"
+
+msgid "Personal_205"
+msgstr ""
+"浦の星女学院の1年生。花丸とは仲良しで、いつも一緒にいる。泣き虫で臆病だけれ"
+"ど、名家のお嬢様だけあって芯は持っている。"
+
+msgid "Personal_206"
+msgstr ""
+"浦の星女学院の1年生。小悪魔風のファッションに身を包み、自らを“堕天使ヨハネ”と"
+"称する。明るく物怖じせず、気が利いて頭もよいが、ものすごく運が悪く、行く先々"
+"でトラブルに見舞われてしまう。"
+
+msgid "Personal_207"
+msgstr ""
+"浦の星女学院の3年生。旧網元で地元でも有名な名家の子女で、学院の生徒会長を務め"
+"る。プライドが高い完璧主義者。"
+
+msgid "Personal_208"
+msgstr ""
+"浦の星女学院の3年生。近くの島でダイビングショップをやっている祖父と２人暮ら"
+"し。大人っぽくサバサバした性格で、あまり物事にこだわりがない。"
+
+msgid "Personal_209"
+msgstr ""
+"浦の星女学院の3年生。ホテルチェーンを経営するイタリア系アメリカ人の父を持つ"
+"ハーフ。明るい性格で、個人行動が多い。"
+
+msgid "Personal_401"
+msgstr "鹿角 聖良のプロフィール"
+
+msgid "Personal_402"
+msgstr "鹿角 理亞のプロフィール"
+
+msgid "PointGachaTitle_0001"
+msgstr "福引ガチャ"
+
+msgid "PreGameMainte_0001"
+msgstr "まもなくメンテナンスです"
+
+msgid "PreGameMainte_0002"
+msgstr ""
+"{0}より\n"
+"メンテナンスを実施いたします\n"
+"\n"
+"パズルプレイ中にメンテナンスが始まった場合、\n"
+"そのプレイの結果は保存されません\n"
+"メンテナンス直前でのプレイはお控えいただきますようご協力をお願いいたします"
+
+msgid "PreGame_0000"
+msgstr ""
+"ミッションコンプリートで\n"
+"{1}x{2}をゲット！"
+
+msgid "PreGame_0001"
+msgstr "ミッションのヘルプ"
+
+msgid "PreGame_0002"
+msgstr "ミッションの切り替えを行う"
+
+msgid "PreGame_0003"
+msgstr ""
+"ジュエルが不足しています\n"
+"ジュエルを購入しますか？"
+
+msgid "PreGame_0004"
+msgstr ""
+"プレイ対象期間が過ぎたため\n"
+"タイトルに戻ります"
+
+msgid "PreGame_0005"
+msgstr ""
+"ハートが不足しています\n"
+"ハートを購入しますか？"
+
+msgid "PreGame_0006"
+msgstr "ハートの購入は準備中です"
+
+msgid "PreGame_0007"
+msgstr "隠しミッション"
+
+msgid "PreGame_0008"
+msgstr "楽曲ミッション"
+
+msgid "PreGame_0009"
+msgstr "期間：{0}メンテナンス終了後 ~ {1}"
+
+msgid "PreGame_0010"
+msgstr "報酬一覧"
+
+msgid "PreGame_0011"
+msgstr "パズルアイテムを選択してください"
+
+msgid "PreGame_0012"
+msgstr "★{0}で解放"
+
+msgid "PreGame_0013"
+msgstr ""
+"プレゼントを受け取れませんでした\n"
+"※所持数上限または期限切れのものがあります\n"
+"※ぷちぐるは一括受け取りができません"
+
+msgid "PreGame_0014"
+msgstr "受け取り"
+
+msgid "PreGame_0015"
+msgstr "受け取り期限"
+
+msgid "PreGame_0016"
+msgstr "×{0}"
+
+msgid "PreGame_0017"
+msgstr "受け取り履歴"
+
+msgid "PreGame_0018"
+msgstr "プレゼントボックス"
+
+msgid "PreGame_0019"
+msgstr "×{0}コイン"
+
+msgid "PreGame_0020"
+msgstr "パズルアイテム使用確認"
+
+msgid "PreGame_0021"
+msgstr "無償ジュエル"
+
+msgid "PreGame_0022"
+msgstr "有償ジュエル"
+
+msgid "PreGame_0023"
+msgstr ""
+"ジュエルが不足しています\n"
+"ジュエルを購入しますか？"
+
+msgid "PreGame_0024"
+msgstr "チケット"
+
+msgid "PreGame_0025"
+msgstr "ミッション{0}"
+
+msgid "PreGame_0026"
+msgstr "未解放の隠しミッションです"
+
+msgid "PreGame_0027"
+msgstr ""
+"上記を消費し、アイテムを使用します\n"
+"よろしいですか？\n"
+"\n"
+"<size=20><color=#F95151>※メンテナンスが始まるとパズルの結果が\n"
+"保存されませんのでご注意ください</color></size>"
+
+msgid "PreGame_0028"
+msgstr ""
+"このステージをクリアするまで\n"
+"ゴールドなしで使用できます"
+
+msgid "PreGame_0029"
+msgstr "受け取り日時"
+
+msgid "PreGame_0030"
+msgstr ""
+"スコアアタックモードの\n"
+"対象期間が更新されたため\n"
+"タイトルに戻ります"
+
+msgid "PreGame_0031"
+msgstr "ブースト機能"
+
+msgid "PreGame_0032"
+msgstr "ブースト機能について"
+
+msgid "PreGame_0033"
+msgstr ""
+"ブースト機能を使うと、\n"
+"ハートの消費数に応じて\n"
+"獲得EXPを増やせるよ！"
+
+msgid "PreGame_0034"
+msgstr "数を増やせるよ！"
+
+msgid "PreGame_0035"
+msgstr "遊び方"
+
+msgid "PreGame_0036"
+msgstr "獲得済"
+
+msgid "PreGame_0037"
+msgstr "助っ人選択"
+
+msgid "PreGame_0038"
+msgstr "現在地へ"
+
+msgid "PreGame_0039"
+msgstr "アイテムを使ってゲームを有利にしよう"
+
+msgid "PreGame_0040"
+msgstr ""
+"アイテムはチュートリアルステージ5で\n"
+"解放されます"
+
+msgid "PreGame_0041"
+msgstr "編成条件を満たせていません"
+
+msgid "PreGame_0042"
+msgstr "センター"
+
+msgid "PreGame_0044"
+msgstr ""
+"次のミッションは\n"
+"0:00に更新"
+
+msgid "PreGame_0048"
+msgstr "未開放のミッションです"
+
+msgid "PreGame_0050"
+msgstr "パズルをプレイするとランクがあがるよ！"
+
+msgid "PreGame_0051"
+msgstr "クリア!!"
+
+msgid "PreGame_0053"
+msgstr "増量中"
+
+msgid "PreGame_0054"
+msgstr "ボーナスさらにUP"
+
+msgid "PreGame_0055"
+msgstr ""
+"対象のプレゼントは既に受け取り済みです。更新のためタイトルに戻ります。\n"
+"※受け取ったプレゼント内容の詳細は、プレゼントボックスの「受け取り履歴」よりご"
+"確認ください"
+
+msgid "PreGame_0056"
+msgstr "※ランキング画面の情報は10分毎に更新されます"
+
+msgid "PreGame_0057"
+msgstr "{0} ランキング"
+
+msgid "PreGame_0058"
+msgstr "クリア済みミッション"
+
+msgid "PreGame_0059"
+msgstr ""
+"ここはクリア済みのミッションです\n"
+"報酬は受け取り済みの場合があります\n"
+"プレイしてもよろしいですか？"
+
+msgid "PreGame_0060"
+msgstr ""
+"イベント期間が終了しています\n"
+"ホーム画面に戻ります"
+
+msgid "PreGame_0061"
+msgstr ""
+"ブースト機能を使うと、\n"
+"ハートの消費数に応じて\n"
+"獲得{0}数と獲得EXPを増やせるよ！"
+
+msgid "PreGame_0062"
+msgstr "獲得ゴールドには効果がありません"
+
+msgid "PreGame_0063"
+msgstr "ミッションの進捗には効果がありません"
+
+msgid "PreGame_0064"
+msgstr "合計スコアの進捗には効果がありません"
+
+msgid "PreGame_0065"
+msgstr "EXミッション"
+
+msgid "PreGame_0066"
+msgstr "ランキング情報"
+
+msgid "PreGame_0067"
+msgstr "合計獲得数"
+
+msgid "PreGame_0068"
+msgstr "全体ランキング"
+
+msgid "PreGame_0069"
+msgstr "※最新のランキング情報の反映まで時間がかかる場合がございます"
+
+msgid "PreGame_0070"
+msgstr "フレンドランキング"
+
+msgid "PreGame_0071"
+msgstr "全体ランキング報酬"
+
+msgid "PreGame_0072"
+msgstr "{0}位"
+
+msgid "PreGame_0073"
+msgstr "{0}位～{1}位"
+
+msgid "PreGame_0074"
+msgstr "累計獲得イベントポイント"
+
+msgid "PrefabCardInfo_Level"
+msgstr "<size=22>Lv</size>{0}/{1}"
+
+msgid "PrefabCardInfo_Score"
+msgstr "<size=22>スコア</size> {0}"
+
+msgid "PrefabChara_0000"
+msgstr "スクリーンショットを撮影しました"
+
+msgid "PrefabChara_0001"
+msgstr "保存する"
+
+msgid "PrefabChara_0002"
+msgstr "まだダメです"
+
+msgid "PrefabChara_0003"
+msgstr "GO"
+
+msgid "PrefabChara_0004"
+msgstr "カメラモード"
+
+msgid "PrefabChara_0005"
+msgstr "壁紙モード"
+
+msgid "PrefabChara_0006"
+msgstr ""
+"スクリーンショットを保存しました\n"
+"「#ぷちぐるさつえい」で投稿しよう"
+
+msgid "PrefabChara_0007"
+msgstr ""
+"保存に失敗しました\n"
+"カメラロールへのアクセスを許可してください\n"
+"(設定→ぷちぐるから変更できます)"
+
+msgid "PrefabChara_0008"
+msgstr ""
+"ぷちぐるラブライブ！でさつえいしたよ！ \n"
+"#ぷちぐるさつえい \n"
+"#ぷちぐるラブライブ"
+
+msgid "PrefabCheerBoost_0000"
+msgstr ""
+"※フォロワーへの効果の発動には\n"
+"Twitter連携が必要です\n"
+"※使用者がゲーム内でTwitter連携設定を\n"
+"公開設定にしている必要があります\n"
+"※メンテナンスが始まるとパズルの結果が\n"
+"保存されませんのでご注意ください"
+
+msgid "PrefabCodeIssue_0000"
+msgstr ""
+"データ引き継ぎ画面にて、下記の引き継ぎコードと\n"
+"設定いただいたパスワードを入力することで、\n"
+"データを引き継ぐことができます。\n"
+"パスワードを入力後、OKを選択してください。"
+
+msgid "PrefabCodeIssue_0001"
+msgstr "引き継ぎコード"
+
+msgid "PrefabCodeIssue_0002"
+msgstr "コピー"
+
+msgid "PrefabCodeIssue_0003"
+msgstr "パスワード"
+
+msgid "PrefabCodeIssue_0004"
+msgstr "半角8~32文字で入力してください"
+
+msgid "PrefabCodeIssue_0005"
+msgstr "データ引き継ぎ詳細"
+
+msgid "PrefabCodeIssue_0006"
+msgstr ""
+"データ引き継ぎ設定が完了しました。\n"
+"引き継ぎ先の端末にアプリをインストールした後、\n"
+"タイトル画面のメニュー>引継ぎコード入力から、\n"
+"引き継ぎコードとパスワードを入力してください"
+
+msgid "PrefabCodeIssue_0007"
+msgstr "引き継ぎコードを入力してください"
+
+msgid "PrefabCodeIssue_0008"
+msgstr "パスワード"
+
+msgid "PrefabCodeIssue_0009"
+msgstr "パスワードを入力してください（8 ~ 32文字）"
+
+msgid "PrefabCodeIssue_0010"
+msgstr ""
+"【注意事項】\n"
+"「引き継ぎコード」「パスワード」は\n"
+"このゲームデータを移行するための大切な情報です。\n"
+"メモやスクリーンショットなどで\n"
+"必ずお控えください。\n"
+"パスワード設定後、再度パスワードを設定すると、\n"
+"最新のパスワードに更新されます。"
+
+msgid "PrefabEvent_0001"
+msgstr "衣装ボーナス"
+
+msgid "PrefabEvent_0002"
+msgstr "報酬はプレゼントボックスに送られます"
+
+msgid "PrefabEvent_0003"
+msgstr "累計報酬獲得"
+
+msgid "PrefabFollwer_0000"
+msgstr ""
+"ぷちぐるブレードを\n"
+"使用しました"
+
+msgid "PrefabFollwer_0001"
+msgstr "効果"
+
+msgid "PrefabFollwer_0002"
+msgstr "効果時間"
+
+msgid "PrefabFollwer_0003"
+msgstr "ぷちぐるブレード使用"
+
+msgid "PrefabFollwer_0005"
+msgstr "使用者の効果"
+
+msgid "PrefabFollwer_0006"
+msgstr "フォロワーへの効果"
+
+msgid "PrefabFollwer_0007"
+msgstr ""
+"Twitterで自分をフォローしている相手に\n"
+"効果をシェアできます"
+
+msgid "PrefabFollwer_0008"
+msgstr "発動中！"
+
+msgid "PrefabFollwer_0009"
+msgstr "つかう"
+
+msgid "PrefabFollwer_0010"
+msgstr "ぷちぐるブレードを使っているユーザー"
+
+msgid "PrefabFollwer_0011"
+msgstr ""
+"ぷちぐるブレードを\n"
+"使用中のユーザーがいません"
+
+msgid "PrefabFollwer_0012"
+msgstr ""
+"Twitterでフォロー中の相手がぷちぐるブレードを使うと\n"
+"フォロワーへの効果を受けられます(最大10人分まで)"
+
+msgid "PrefabFollwer_0013"
+msgstr ""
+"Twitterへ投稿すると\n"
+"さらに効果時間が30分延長されます"
+
+msgid "PrefabFollwer_0014"
+msgstr ""
+"ぷちぐるブレードを\n"
+"使用中のユーザーがいません"
+
+msgid "PrefabFollwer_0015"
+msgstr ""
+"ぷちぐるブレード使用者を\n"
+"Twitterでフォローして\n"
+"経験値UPの効果を受けよう"
+
+msgid "PrefabFriend_0000"
+msgstr "週間ランキング"
+
+msgid "PrefabFriend_0001"
+msgstr "フォローリスト"
+
+msgid "PrefabFriend_0002"
+msgstr "フォロワーリスト"
+
+msgid "PrefabFriend_0003"
+msgstr "検索"
+
+msgid "PrefabFriend_0004"
+msgstr "ブロックリスト"
+
+msgid "PrefabFriend_0005"
+msgstr "並び替え"
+
+msgid "PrefabFriend_0006"
+msgstr "フォロー中"
+
+msgid "PrefabFriend_0007"
+msgstr "未フォロー"
+
+msgid "PrefabFriend_0008"
+msgstr "ブロックしているユーザーはいません"
+
+msgid "PrefabFriend_0009"
+msgstr ""
+"フォローしているユーザーがいません\n"
+"ゲームをプレイして助っ人をフォローしよう"
+
+msgid "PrefabFriend_0010"
+msgstr "まだフォロワーがいません"
+
+msgid "PrefabFriend_0011"
+msgstr "ハート送信"
+
+msgid "PrefabFriend_0012"
+msgstr "該当者が見つかりませんでした"
+
+msgid "PrefabFriend_0013"
+msgstr "最終ログイン順"
+
+msgid "PrefabFriend_0014"
+msgstr "ぷちぐるスター順"
+
+msgid "PrefabFriend_0015"
+msgstr "検索したいID"
+
+msgid "PrefabFriend_0016"
+msgstr "IDを入力してください"
+
+msgid "PrefabFriend_0017"
+msgstr "一括フォロー"
+
+msgid "PrefabFriend_0018"
+msgstr ""
+"招待URLをクリックして\n"
+"アプリを起動しました\n"
+"\n"
+"招待者のIDを検索しますか？"
+
+msgid "PrefabFriend_0019"
+msgstr "招待者のID"
+
+msgid "PrefabFriend_0020"
+msgstr "スコアアタック 未プレイ"
+
+msgid "PrefabFriend_0021"
+msgstr "50でスコアアタック解放"
+
+msgid "PrefabFriend_0022"
+msgstr "相互フォロー"
+
+msgid "PrefabFriend_0023"
+msgstr "すべて表示"
+
+msgid "PrefabGacha_0000"
+msgstr "出現割合"
+
+msgid "PrefabGacha_0001"
+msgstr "スキルLv.MAX"
+
+msgid "PrefabGacha_0002"
+msgstr "出現率UP！"
+
+msgid "PrefabGacha_0003"
+msgstr "必要"
+
+msgid "PrefabGacha_0004"
+msgstr "所持"
+
+msgid "PrefabGacha_0005"
+msgstr ""
+"ゴールドを消費して\n"
+"ガチャをひきますか？"
+
+msgid "PrefabGacha_0006"
+msgstr ""
+"この内容でジュエルを消費します\n"
+"よろしいですか？"
+
+msgid "PrefabGacha_0007"
+msgstr "※出現割合は合計しても100%にならない場合があります"
+
+msgid "PrefabGacha_0008"
+msgstr ""
+"ジュエルを消費して\n"
+"ガチャをひきますか？"
+
+msgid "PrefabGacha_0009"
+msgstr ""
+"※すでに持っているぷちぐるを獲得した場合は\n"
+"スキル経験値が上昇します"
+
+msgid "PrefabGacha_0010"
+msgstr ""
+"チケットを消費して\n"
+"ガチャをひきますか？"
+
+msgid "PrefabGacha_0011"
+msgstr "チケットが不足しています"
+
+msgid "PrefabGacha_0012"
+msgstr "交換確認"
+
+msgid "PrefabGacha_0013"
+msgstr ""
+"すべてのぷちぐるがスキルレベル最大です。\n"
+"{0}を\n"
+"スキルパフェに交換しますがよろしいですか？"
+
+msgid "PrefabGacha_0014"
+msgstr "交換"
+
+msgid "PrefabGacha_0015"
+msgstr ""
+"{0}を\n"
+"{1}に交換しました\n"
+"※{2}はプレゼントボックスに送られます"
+
+msgid "PrefabGacha_0030"
+msgstr ""
+"メダルを消費して\n"
+"ガチャをひきますか？"
+
+msgid "PrefabGacha_0031"
+msgstr ""
+"{0}を消費して\n"
+"ガチャをひきますか？"
+
+msgid "PrefabGameResult_0000"
+msgstr "今日のミッション"
+
+msgid "PrefabGameResult_0001"
+msgstr "ぷちぐる消去数"
+
+msgid "PrefabGameResult_0002"
+msgstr "楽曲ミッション"
+
+msgid "PrefabGameResult_0003"
+msgstr "前回の結果"
+
+msgid "PrefabGameResult_0004"
+msgstr "編成条件を満たしていません"
+
+msgid "PrefabGameResult_0005"
+msgstr "隠しミッション"
+
+msgid "PrefabGameResult_0006"
+msgstr ""
+"フォローするとハートを送りあえます\n"
+"連れて行った助っ人をフォローしますか？"
+
+msgid "PrefabGameResult_0007"
+msgstr "特技"
+
+msgid "PrefabGameResult_0008"
+msgstr "フォロー"
+
+msgid "PrefabGameResult_0009"
+msgstr "タップですすむ"
+
+msgid "PrefabGameResult_0010"
+msgstr "ツイートする"
+
+msgid "PrefabGameResult_0011"
+msgstr "アイテムボーナス"
+
+msgid "PrefabGameResult_0012"
+msgstr "今週のスコア"
+
+msgid "PrefabGameResult_0013"
+msgstr "助っ人ボーナス"
+
+msgid "PrefabGameResult_0014"
+msgstr "【廃止】ランクP"
+
+msgid "PrefabGameResult_0015"
+msgstr "ぷちぐるスター報酬GET !"
+
+msgid "PrefabGameResult_0016"
+msgstr "合計スコア報酬"
+
+msgid "PrefabGameResult_0017"
+msgstr "今週の合計スコア"
+
+msgid "PrefabGameResult_0018"
+msgstr "次の報酬まで"
+
+msgid "PrefabGameResult_0019"
+msgstr "次の報酬"
+
+msgid "PrefabGameResult_0020"
+msgstr "今週の報酬はすべて受け取り済みです"
+
+msgid "PrefabGameResult_0021"
+msgstr "次のミッション追加までお待ちください"
+
+msgid "PrefabGameResult_0022"
+msgstr "ぷちぐるブレード効果"
+
+msgid "PrefabGameResult_0023"
+msgstr "ぷちぐるスター"
+
+msgid "PrefabGameResult_0024"
+msgstr "High Score"
+
+msgid "PrefabGameResult_0025"
+msgstr "Touch Screen"
+
+msgid "PrefabGameResult_0026"
+msgstr "ハートが全回復！"
+
+msgid "PrefabGameResult_0027"
+msgstr "達成！"
+
+msgid "PrefabGameResult_0028"
+msgstr "最高記録"
+
+msgid "PrefabHome_0000"
+msgstr "今週のハイスコア"
+
+msgid "PrefabHome_0001"
+msgstr "今日のミッション"
+
+msgid "PrefabHome_0002"
+msgstr "プレイ"
+
+msgid "PrefabHome_0003"
+msgstr "イベント"
+
+msgid "PrefabHome_0004"
+msgstr "イベント開催中"
+
+msgid "PrefabHome_0005"
+msgstr "編成"
+
+msgid "PrefabHome_0006"
+msgstr "ガチャ"
+
+msgid "PrefabHome_0007"
+msgstr ""
+"特別ガチャ\n"
+"衣装追加！"
+
+msgid "PrefabHome_0008"
+msgstr "のこり"
+
+msgid "PrefabHome_0009"
+msgstr "今日はもう表示しない"
+
+msgid "PrefabHome_0010"
+msgstr "お知らせ"
+
+msgid "PrefabHome_0011"
+msgstr "運営より"
+
+msgid "PrefabHome_0012"
+msgstr "開催中"
+
+msgid "PrefabHome_0013"
+msgstr "※効果は最大10人分まで計算されます。"
+
+msgid "PrefabHome_0014"
+msgstr ""
+"※報酬はプレゼントボックス\n"
+"から受け取れます"
+
+msgid "PrefabHome_0015"
+msgstr "今週もがんばろう！"
+
+msgid "PrefabHome_0016"
+msgstr "スコア達成報酬"
+
+msgid "PrefabHome_0017"
+msgstr ""
+"目標スコアを達成すると\n"
+"毎週月曜日の0:00にボーナスがもらえるよ"
+
+msgid "PrefabHome_0018"
+msgstr "ぷちぐるスター報酬"
+
+msgid "PrefabHome_0030"
+msgstr ""
+"最終ランキングは\n"
+"<size=48><color=#f5488d>{0:#,0}位</color></size>でした"
+
+msgid "PrefabHome_0031"
+msgstr "報酬受け取り期限:{0}まで"
+
+msgid "PrefabHome_0032"
+msgstr "MM/dd(ddd)HH:mm"
+
+msgid "PrefabHome_0033"
+msgstr "{0}結果発表"
+
+msgid "PrefabLoginBonus_0000"
+msgstr "CD発売記念 ボーナス"
+
+msgid "PrefabLoginBonus_0001"
+msgstr ""
+"通信環境の良い場所で通信を行ってください\n"
+"Wi-Fi環境での通信をおすすめします"
+
+msgid "PrefabLoginBonus_0002"
+msgstr "ログインボーナスゲット！"
+
+msgid "PrefabLoginBonus_0003"
+msgstr ""
+"上記のアイテムをプレゼントボックスに\n"
+"送りました"
+
+msgid "PrefabMenu_0000"
+msgstr "メニュー"
+
+msgid "PrefabMenu_0001"
+msgstr "お知らせ"
+
+msgid "PrefabMenu_0002"
+msgstr "フレンド"
+
+msgid "PrefabMenu_0003"
+msgstr "プロフィール"
+
+msgid "PrefabMenu_0004"
+msgstr "オプション"
+
+msgid "PrefabMenu_0005"
+msgstr "ヘルプ"
+
+msgid "PrefabMenu_0006"
+msgstr "お問い合わせ"
+
+msgid "PrefabMenu_0007"
+msgstr "引き継ぎコード発行"
+
+msgid "PrefabMenu_0008"
+msgstr "実績"
+
+msgid "PrefabMenu_0009"
+msgstr "公式Twitter"
+
+msgid "PrefabMenu_0010"
+msgstr "ぷちぐる一覧"
+
+msgid "PrefabMenu_0011"
+msgstr ""
+"タイトルへ\n"
+"もどる"
+
+msgid "PrefabMenu_0012"
+msgstr "＊各数値はそれぞれ最大まで強化した場合の値です"
+
+msgid "PrefabMenu_0013"
+msgstr "レベル上限を解放しました"
+
+msgid "PrefabMenu_0014"
+msgstr "レベルを解放しますか？"
+
+msgid "PrefabMenu_0015"
+msgstr "※ジュエルは無償分から消費されます"
+
+msgid "PrefabMenu_0016"
+msgstr ""
+"スキルパフェを1つ使って\n"
+"スキルを強化しますか？"
+
+msgid "PrefabMenu_0017"
+msgstr "つぎへ"
+
+msgid "PrefabMenu_0018"
+msgstr "※ジュエルは無償分から消費されます"
+
+msgid "PrefabMenu_0019"
+msgstr "その他"
+
+msgid "PrefabMenu_0020"
+msgstr ""
+"サービス\n"
+"利用規約"
+
+msgid "PrefabMenu_0021"
+msgstr ""
+"ジュエル\n"
+"利用規約"
+
+msgid "PrefabMenu_0022"
+msgstr ""
+"ジュエル\n"
+"利用履歴"
+
+msgid "PrefabMenu_0023"
+msgstr ""
+"プライバシー\n"
+"ポリシー"
+
+msgid "PrefabMenu_0024"
+msgstr ""
+"個人情報\n"
+"保護方針"
+
+msgid "PrefabMenu_0025"
+msgstr "運営方針"
+
+msgid "PrefabMenu_0026"
+msgstr "ライセンス"
+
+msgid "PrefabMenu_0027"
+msgstr "資金決済法/特定商取引法に基づく表示"
+
+msgid "PrefabMenu_0028"
+msgstr "ラブライブ！とは"
+
+msgid "PrefabMenu_0029"
+msgstr "お知らせ"
+
+msgid "PrefabMenu_0030"
+msgstr "運営より"
+
+msgid "PrefabMenu_0031"
+msgstr "その他"
+
+msgid "PrefabMission_0000"
+msgstr "隠しミッションが解放されました"
+
+msgid "PrefabMission_0001"
+msgstr "隠しミッション解放"
+
+msgid "PrefabOption_0000"
+msgstr "ゲーム設定"
+
+msgid "PrefabOption_0001"
+msgstr "通知設定"
+
+msgid "PrefabOption_0002"
+msgstr "初期設定にもどす"
+
+msgid "PrefabOption_0003"
+msgstr "サウンド設定"
+
+msgid "PrefabOption_0004"
+msgstr "BGM"
+
+msgid "PrefabOption_0005"
+msgstr "SE"
+
+msgid "PrefabOption_0006"
+msgstr "Voice"
+
+msgid "PrefabOption_0007"
+msgstr "スキル振動"
+
+msgid "PrefabOption_0008"
+msgstr "スキル発動可能タイミングを振動でお知らせします"
+
+msgid "PrefabOption_0009"
+msgstr "Push通知"
+
+msgid "PrefabOption_0010"
+msgstr ""
+"使いすぎアラートをONにすると1ヶ月の利用額が\n"
+"100,000円を超える際に確認画面が表示されます"
+
+msgid "PrefabOption_0011"
+msgstr "パズル開始時に特技情報を表示します"
+
+msgid "PrefabOption_0012"
+msgstr "端末側で通知設定OFFの場合、Push通知は届きません"
+
+msgid "PrefabPreGame_0000"
+msgstr "報酬一覧"
+
+msgid "PrefabPreGame_0001"
+msgstr "報酬"
+
+msgid "PrefabPreGame_0002"
+msgstr "キャンディーを集めよう！"
+
+msgid "PrefabPreGame_0003"
+msgstr ""
+"センター補充＋\n"
+"（ショータイム）"
+
+msgid "PrefabPreGame_0004"
+msgstr ""
+"受け取り上限枠に達しているプレゼントは\n"
+"受け取れませんでした"
+
+msgid "PrefabPreGame_0005"
+msgstr ""
+"Coming\n"
+"Soon!"
+
+msgid "PrefabPreGame_0006"
+msgstr "※編成条件を満たしていません"
+
+msgid "PrefabPreGame_0007"
+msgstr "現在の進捗"
+
+msgid "PrefabPreGame_0008"
+msgstr ""
+"<color=#FF0000><size=20>※メンテナンスが始まるとパズルの結果が\n"
+"保存されませんのでご注意ください</size></color>"
+
+msgid "PrefabPreGame_0009"
+msgstr ""
+"現在プレイできるミッションを全てクリアしました。\n"
+"{0}より新しいミッションが追加されますので\n"
+"しばらくお待ちください。"
+
+msgid "PrefabPreGame_0010"
+msgstr ""
+"すべてのミッションをコンプリートしました\n"
+"イベントは期間終了までプレイできるよ！"
+
+msgid "PrefabPreGame_0011"
+msgstr "すべてのミッションをコンプリートしました"
+
+msgid "PrefabPreGame_0012"
+msgstr ""
+"現在プレイできるミッションをすべてクリアしました。\n"
+"{0}にミッションを追加予定です。\n"
+"それまでの間はフリープレイにて\n"
+"「{1}」を獲得可能です。"
+
+msgid "PrefabPreGame_0013"
+msgstr ""
+"すべてのミッションをコンプリートしました！\n"
+"引き続き、フリープレイで\n"
+"「{0}」を獲得可能です。"
+
+msgid "PrefabPresent_0000"
+msgstr "プレゼントボックス"
+
+msgid "PrefabPresent_0001"
+msgstr "履歴"
+
+msgid "PrefabPresent_0002"
+msgstr "プレゼントの受け取り履歴はありません"
+
+msgid "PrefabPresent_0003"
+msgstr "プレゼントはすべて受け取り済みです"
+
+msgid "PrefabPresent_0004"
+msgstr "すべて"
+
+msgid "PrefabPresent_0005"
+msgstr "ハート"
+
+msgid "PrefabPresent_0006"
+msgstr "ゴールド"
+
+msgid "PrefabPresent_0007"
+msgstr "その他"
+
+msgid "PrefabPresent_0008"
+msgstr "一括受け取り"
+
+msgid "PrefabPresent_0009"
+msgstr "未受取"
+
+msgid "PrefabPresent_0010"
+msgstr "確認"
+
+msgid "PrefabPresent_0011"
+msgstr ""
+"プレゼント保管期間：30日間\n"
+"※期間を過ぎると削除されます\n"
+"一度に受け取れるのは100件までです"
+
+msgid "PrefabPresent_0012"
+msgstr ""
+"受け取り日時が14日以内のプレゼントを\n"
+"最大500件まで確認できます"
+
+msgid "PrefabPresent_0013"
+msgstr "以下のプレゼントを受け取りました"
+
+msgid "PrefabPresent_0014"
+msgstr ""
+"ぷちぐるのスキルレベルが最大値に達していたため、\n"
+"スキルパフェに変換して受け取りました"
+
+msgid "PrefabPresent_0015"
+msgstr "獲得新しい順"
+
+msgid "PrefabPresent_0016"
+msgstr "獲得古い順"
+
+msgid "PrefabPresent_0017"
+msgstr "受け取り期限順"
+
+msgid "PrefabPresent_0018"
+msgstr "受け取り新しい順"
+
+msgid "PrefabPresent_0019"
+msgstr "受け取り古い順"
+
+msgid "PrefabPresent_0020"
+msgstr ""
+"メンバーレベルが最大値に達していたため、\n"
+"スキルチケットに変換して受け取りました"
+
+msgid "PrefabPresent_0021"
+msgstr "ぷちぐるは一括受け取りができません"
+
+msgid "PrefabProfile_0000"
+msgstr "Twitter連携"
+
+msgid "PrefabProfile_0001"
+msgstr "Twitter連携する"
+
+msgid "PrefabProfile_0002"
+msgstr "プレイログ"
+
+msgid "PrefabProfile_0003"
+msgstr "今週"
+
+msgid "PrefabProfile_0004"
+msgstr "最高記録"
+
+msgid "PrefabProfile_0005"
+msgstr ""
+"1プレイの\n"
+"最高記録"
+
+msgid "PrefabProfile_0006"
+msgstr "総プレイ回数"
+
+msgid "PrefabProfile_0007"
+msgstr "ぷちぐるコレクション数"
+
+msgid "PrefabProfile_0008"
+msgstr "以下の称号を手に入れました"
+
+msgid "PrefabProfile_0009"
+msgstr "未フォロー"
+
+msgid "PrefabProfile_0010"
+msgstr "Twitterプロフィール"
+
+msgid "PrefabProfile_0011"
+msgstr "Twitterプロフィール公開"
+
+msgid "PrefabProfile_0012"
+msgstr "過去最高スコア"
+
+msgid "PrefabProfile_0013"
+msgstr "ブロックする"
+
+msgid "PrefabProfile_0014"
+msgstr "ブロック解除"
+
+msgid "PrefabProfile_0015"
+msgstr "フォローする"
+
+msgid "PrefabProfile_0016"
+msgstr "フォロー解除"
+
+msgid "PrefabProfile_0017"
+msgstr "称号説明"
+
+msgid "PrefabProfile_0018"
+msgstr ""
+"プロフィールを公開した場合、連携したアカウントの\n"
+"Twitterページが第三者に公開されます\n"
+"\n"
+"非公開にした場合、第三者からは\n"
+"連携していない状態と表示されます"
+
+msgid "PrefabProfile_0019"
+msgstr "連携解除"
+
+msgid "PrefabProfile_0020"
+msgstr "公開中"
+
+msgid "PrefabProfile_0021"
+msgstr "Twitter設定"
+
+msgid "PrefabProfile_0022"
+msgstr "ID"
+
+msgid "PrefabPuzzle_0000"
+msgstr "クリア!"
+
+msgid "PrefabPuzzle_0001"
+msgstr "今回のスコア"
+
+msgid "PrefabPuzzle_0002"
+msgstr "あと少しでハイスコア更新！"
+
+msgid "PrefabPuzzle_0003"
+msgstr "10秒延長しますか？"
+
+msgid "PrefabPuzzle_0004"
+msgstr "あと少しでミッション達成！"
+
+msgid "PrefabPuzzle_0005"
+msgstr "使用前"
+
+msgid "PrefabPuzzle_0006"
+msgstr "使用後"
+
+msgid "PrefabPuzzle_0007"
+msgstr "ミッション"
+
+msgid "PrefabPuzzle_0008"
+msgstr "音量設定"
+
+msgid "PrefabPuzzle_0009"
+msgstr "SE"
+
+msgid "PrefabPuzzle_0010"
+msgstr "BGM"
+
+msgid "PrefabPuzzle_0011"
+msgstr "スコア"
+
+msgid "PrefabSNS_0000"
+msgstr ""
+"プロフィール画面で第三者に\n"
+"Twitterの情報を紹介しますか？"
+
+msgid "PrefabSNS_0001"
+msgstr "公開するプロフィール"
+
+msgid "PrefabSNS_0002"
+msgstr ""
+"Twitterの認証が切れています\n"
+"再度認証してください"
+
+msgid "PrefabSNS_0003"
+msgstr ""
+"Twitterアカウントを非公開にすると以下の機能が制限されます\n"
+"\n"
+"■非公開でもできること\n"
+"ランキングからのハート送信\n"
+"他者がぷちぐるブレードを使用した時の効果を受けること\n"
+"\n"
+"■非公開でできなくなること\n"
+"ハート受け取り時の自動送信\n"
+"他者にぷちぐるブレードを使用した時の効果を与えること"
+
+msgid "PrefabShop_0000"
+msgstr ""
+"年齢によってジュエルを購入できる\n"
+"上限が決まっています\n"
+"\n"
+"未成年の場合は保護者から同意を得て\n"
+"購入してください"
+
+msgid "PrefabShop_0001"
+msgstr "生年月日を入力"
+
+msgid "PrefabShop_0002"
+msgstr "年"
+
+msgid "PrefabShop_0003"
+msgstr "月"
+
+msgid "PrefabShop_0004"
+msgstr "日"
+
+msgid "PrefabShop_0005"
+msgstr "16歳未満:月間5,000円(税込)まで"
+
+msgid "PrefabShop_0006"
+msgstr "16歳以上~20歳未満:月間10,000円(税込)まで"
+
+msgid "PrefabShop_0007"
+msgstr "20歳以上:上限なし"
+
+msgid "PrefabShop_0008"
+msgstr "ジュエル残高"
+
+msgid "PrefabShop_0009"
+msgstr "有償"
+
+msgid "PrefabShop_0010"
+msgstr "無償"
+
+msgid "PrefabShop_0011"
+msgstr "有償分残り"
+
+msgid "PrefabShop_0012"
+msgstr "無償分残り"
+
+msgid "PrefabShop_0013"
+msgstr "利用日時"
+
+msgid "PrefabShop_0014"
+msgstr "用途"
+
+msgid "PrefabShop_0015"
+msgstr "有償分"
+
+msgid "PrefabShop_0016"
+msgstr "無償分"
+
+msgid "PrefabShop_0017"
+msgstr "ページ更新"
+
+msgid "PrefabShop_0018"
+msgstr "購入が完了しました"
+
+msgid "PrefabShop_0019"
+msgstr "購入前"
+
+msgid "PrefabShop_0020"
+msgstr "購入後"
+
+msgid "PrefabShop_0021"
+msgstr "※おまけはプレゼントボックスへ送られました"
+
+msgid "PrefabShop_0022"
+msgstr ""
+"この購入を行うことで、\n"
+"1か月のジュエル購入額が100,000円を超えます\n"
+"\n"
+"購入を続けますか？"
+
+msgid "PrefabShop_0023"
+msgstr ""
+"<color=#F26144FF>今後このメッセージを表示したくない場合は\n"
+"オプションから使いすぎアラートをOFFに設定してください</color>"
+
+msgid "PrefabShop_0024"
+msgstr ""
+"年齢は一度登録すると\n"
+"変更することができません\n"
+"以下の内容で登録しますか？"
+
+msgid "PrefabShop_0025"
+msgstr "生年月日"
+
+msgid "PrefabShop_0026"
+msgstr ""
+"年齢によってジュエルを購入できる\n"
+"上限が決まっています"
+
+msgid "PrefabShop_0027"
+msgstr "ハート増量キャンペーン中！"
+
+msgid "PrefabShop_0028"
+msgstr ""
+"この内容でジュエルを消費します\n"
+"よろしいですか？"
+
+msgid "PrefabShop_0029"
+msgstr "交換"
+
+msgid "PrefabShop_0030"
+msgstr "通常ログインボーナスで獲得"
+
+msgid "PrefabShop_0031"
+msgstr "ジュエル増量"
+
+msgid "PrefabShop_0032"
+msgstr "ジュエル利用履歴がありません"
+
+msgid "PrefabShop_0033"
+msgstr ""
+"下記の注意事項をご確認の上、よろしければ\n"
+"OKをタップして、購入画面へ進んでください"
+
+msgid "PrefabShop_0034"
+msgstr ""
+"年齢によってゴールドを購入できる\n"
+"上限が決まっています\n"
+"\n"
+"未成年の場合は保護者から同意を得て\n"
+"購入してください"
+
+msgid "PrefabShop_0035"
+msgstr ""
+"ジュエルを購入するには、\n"
+"親権者(お父さん、お母さん)の確認が必要です。\n"
+"\n"
+"親権者(お父さん、お母さん)の確認をもらっていますか？"
+
+msgid "PrefabShop_0036"
+msgstr ""
+"以下の内容を<color=#F26144>{0}円</color>で\n"
+"購入しますか？"
+
+msgid "PrefabShop_0037"
+msgstr ""
+"年齢によってゴールドを購入できる\n"
+"上限が決まっています"
+
+msgid "PrefabShop_0038"
+msgstr ""
+"<color=#F26144FF>あなたは【{0}】\n"
+"に登録されています</color>"
+
+msgid "PrefabTeamEdit_0000"
+msgstr "プレイ条件"
+
+msgid "PrefabTeamEdit_0001"
+msgstr "フレンド使用"
+
+msgid "PrefabTeamEdit_0002"
+msgstr "フレンド使用ぷちぐる"
+
+msgid "PrefabTeamEdit_0003"
+msgstr "絞り込み ON・OFF"
+
+msgid "PrefabTeamEdit_0004"
+msgstr "1年生"
+
+msgid "PrefabTeamEdit_0005"
+msgstr "2年生"
+
+msgid "PrefabTeamEdit_0006"
+msgstr "3年生"
+
+msgid "PrefabTeamEdit_0007"
+msgstr "消去系"
+
+msgid "PrefabTeamEdit_0008"
+msgstr "変化系"
+
+msgid "PrefabTeamEdit_0009"
+msgstr "ボム系"
+
+msgid "PrefabTeamEdit_0010"
+msgstr "一定時間系"
+
+msgid "PrefabTeamEdit_0011"
+msgstr "特殊系"
+
+msgid "PrefabTeamEdit_0012"
+msgstr "すべてON"
+
+msgid "PrefabTeamEdit_0013"
+msgstr "すべてOFF"
+
+msgid "PrefabTeamEdit_0014"
+msgstr "ぷちぐる消去"
+
+msgid "PrefabTeamEdit_0015"
+msgstr "高得点変化"
+
+msgid "PrefabTeamEdit_0016"
+msgstr "ボム出現"
+
+msgid "PrefabTeamEdit_0017"
+msgstr "スコア+"
+
+msgid "PrefabTeamEdit_0018"
+msgstr "ゴールド+"
+
+msgid "PrefabTeamEdit_0019"
+msgstr "ボム範囲+"
+
+msgid "PrefabTeamEdit_0020"
+msgstr "センター補充+"
+
+msgid "PrefabTeamEdit_0021"
+msgstr "スコアボム出現"
+
+msgid "PrefabTeamEdit_0022"
+msgstr "タイムボム出現"
+
+msgid "PrefabTeamEdit_0023"
+msgstr "ゴールドボム出現"
+
+msgid "PrefabTeamEdit_0024"
+msgstr "コンボ判定+"
+
+msgid "PrefabTeamEdit_0025"
+msgstr "コンボ+"
+
+msgid "PrefabTeamEdit_0026"
+msgstr "ショータイム+"
+
+msgid "PrefabTeamEdit_0027"
+msgstr "スキルゲージ+"
+
+msgid "PrefabTeamEdit_0028"
+msgstr "つながる範囲+"
+
+msgid "PrefabTeamEdit_0029"
+msgstr "経験値キャンディを使用してレベルを強化しますか？"
+
+msgid "PrefabTeamEdit_0030"
+msgstr "ぷちぐる一覧"
+
+msgid "PrefabTeamEdit_0031"
+msgstr "チーム編成"
+
+msgid "PrefabTeamEdit_0032"
+msgstr "助っ人設定"
+
+msgid "PrefabTeamEdit_0033"
+msgstr "その他"
+
+msgid "PrefabTeamEdit_0034"
+msgstr ""
+"チームメンバーを決定しました\n"
+"編成中のぷちぐるがパズルに登場するよ"
+
+msgid "PrefabTeamEdit_0035"
+msgstr "※編集中以外のチーム内容も変更されました"
+
+msgid "PrefabTop_0000"
+msgstr ""
+"引き継ぎ元の端末で設定したIDと\n"
+"パスワードを入力すると\n"
+"データ引き継ぎが完了します"
+
+msgid "PrefabTop_0001"
+msgstr ""
+"※既にこの端末で\n"
+"ゲームをプレイしている場合は\n"
+"データが上書きされるのでご注意ください"
+
+msgid "PrefabTop_0002"
+msgstr "引き継ぎコード"
+
+msgid "PrefabTop_0003"
+msgstr "パスワード"
+
+msgid "PrefabTop_0004"
+msgstr "引き継ぎコードを入力してください"
+
+msgid "PrefabTop_0005"
+msgstr "引き継ぎパスワードを入力してください"
+
+msgid "PrefabTop_0006"
+msgstr "引き継ぐゲームデータ"
+
+msgid "PrefabTop_0007"
+msgstr ""
+"※データ引き継ぎをすると\n"
+"現在のデータは破棄されて\n"
+"引き継ぎ元のデータで上書きされます\n"
+"\n"
+"※iOSとAndroid間での引き継ぎを行う場合\n"
+"有償ジュエルは無償ジュエルに\n"
+"変更されますので、ご了承ください"
+
+msgid "PrefabTop_0008"
+msgstr ""
+"上記のデータを引き継ぎますが\n"
+"よろしいですか？"
+
+msgid "PrefabTop_0009"
+msgstr ""
+"アプリを削除すると\n"
+"データの復元ができないためご注意ください"
+
+msgid "PrefabTop_0010"
+msgstr "トップメニュー"
+
+msgid "PrefabTop_0011"
+msgstr "プライバシーポリシー"
+
+msgid "PrefabTop_0012"
+msgstr "同意する"
+
+msgid "PrefabTop_0013"
+msgstr "同意しない"
+
+msgid "PrefabTop_0014"
+msgstr ""
+"ぷちぐるラブライブ！をご利用頂くには\n"
+"「利用規約」「プライバシーポリシー」に\n"
+"同意頂く必要があります\n"
+"\n"
+"ご確認の上「同意する」を選択してください"
+
+msgid "PrefabTop_0015"
+msgstr "コンテンツ"
+
+msgid "Profile_0000"
+msgstr "称号獲得"
+
+msgid "Profile_0001"
+msgstr "プロフィール"
+
+msgid "Profile_0002"
+msgstr ""
+"【{0}】さんの\n"
+"Twitterのページに移動します\n"
+"よろしいですか？\n"
+"※Twitterアプリまたは、ブラウザを起動します"
+
+msgid "Profile_0003"
+msgstr ""
+"【{0}】さんを\n"
+"フォローしました\n"
+"ハート送信画面から確認できます"
+
+msgid "Profile_0004"
+msgstr ""
+"フォロー人数の上限数を超えています\n"
+"新たに追加するには\n"
+"別のユーザーのフォローを解除してください"
+
+msgid "Profile_0005"
+msgstr ""
+"【{0}】さんを\n"
+"フォロー解除しました"
+
+msgid "Profile_0006"
+msgstr ""
+"【{0}】さんを\n"
+"フォロー解除できませんでした"
+
+msgid "Profile_0007"
+msgstr ""
+"ブロックリストに登録すると\n"
+"以下の状態になります\n"
+"\n"
+"フォロー・フォロワー関係が解除されます\n"
+"週間ランキングに表示されなくなります\n"
+"相手からフォローリクエストが送れなくなります\n"
+"相手はハートを送れなくなります"
+
+msgid "Profile_0008"
+msgstr ""
+"【{0}】さんを\n"
+"ブロックリストに登録しました\n"
+"Twitterのフォロー関係は解除されません"
+
+msgid "Profile_0009"
+msgstr ""
+"ブロックリストの上限数を超えています\n"
+"新たに追加するには\n"
+"別のユーザーのブロックを解除してください"
+
+msgid "Profile_0010"
+msgstr ""
+"【{0}】さんを\n"
+"ブロック解除しますか？"
+
+msgid "Profile_0011"
+msgstr ""
+"【{0}】さんを\n"
+"ブロック解除しました"
+
+msgid "Profile_0012"
+msgstr ""
+"【{0}】さんを\n"
+"ブロック解除できませんでした"
+
+msgid "Profile_0013"
+msgstr "Twitter連携設定"
+
+msgid "Profile_0014"
+msgstr "称号変更"
+
+msgid "Profile_0015"
+msgstr "現在の達成値:<size=24>{0}</size><size=20>/{1}</size>"
+
+msgid "Profile_0016"
+msgstr "称号を変更しました"
+
+msgid "Profile_0017"
+msgstr "フォローできませんでした"
+
+msgid "Profile_0018"
+msgstr "IDをコピーしました"
+
+msgid "Puchiguru"
+msgstr "ぷちぐる"
+
+msgid "PuzzleAction_0000"
+msgstr "未定義のActionTypeです。"
+
+msgid "PuzzleAction_0001"
+msgstr "スコア"
+
+msgid "PuzzleAction_0002"
+msgstr "ゴールド"
+
+msgid "PuzzleAction_0003"
+msgstr "コンボ"
+
+msgid "PuzzleAction_0004"
+msgstr "ぷちのつながり"
+
+msgid "PuzzleAction_0005"
+msgstr "ショータイム"
+
+msgid "PuzzleAction_0006"
+msgstr "スキル"
+
+msgid "PuzzleAction_0014_1"
+msgstr "青(11ぷち)以上のつながり"
+
+msgid "PuzzleAction_0014_2"
+msgstr "黄(16ぷち)以上のつながり"
+
+msgid "PuzzleAction_0014_3"
+msgstr "赤(21ぷち)以上のつながり"
+
+msgid "PuzzleAction_0014_4"
+msgstr "虹(26ぷち)以上のつながり"
+
+msgid "PuzzleTutorialTips_0000"
+msgstr "ぷちぐるをタップしよう"
+
+msgid "PuzzleTutorialTips_0001"
+msgstr "千歌ぷちぐる(みかん色)を長くつなげよう"
+
+msgid "PuzzleTutorialTips_0002"
+msgstr "青のつながりをタップしよう"
+
+msgid "PuzzleTutorialTips_0003"
+msgstr "ボムをタップしよう"
+
+msgid "PuzzleTutorialTips_0004"
+msgstr "ぷちぐるを消してショータイムにしよう"
+
+msgid "PuzzleTutorialTips_0005"
+msgstr "ショータイム終了まで自由に遊ぼう"
+
+msgid "PuzzleTutorialTips_0006"
+msgstr "素早く3回連続でぷちぐるを消そう！"
+
+msgid "PuzzleTutorialTips_0007"
+msgstr "ぷちぐるを消してショータイムにしよう"
+
+msgid "PuzzleTutorialTips_0008"
+msgstr "ショータイム終了まで自由に遊ぼう"
+
+msgid "Puzzle_0000"
+msgstr "判定"
+
+msgid "Puzzle_0001"
+msgstr "補充率"
+
+msgid "Puzzle_0002"
+msgstr "獲得"
+
+msgid "Puzzle_0003"
+msgstr "確率"
+
+msgid "Puzzle_0004"
+msgstr "ゴールド"
+
+msgid "Puzzle_0005"
+msgstr "最大コンボ"
+
+msgid "Puzzle_0006"
+msgstr "最大チェーン"
+
+msgid "Puzzle_0007"
+msgstr "SHOWTIME"
+
+msgid "Puzzle_0008"
+msgstr "アンコール"
+
+msgid "Puzzle_0009"
+msgstr "さらにハイスコアを更新！"
+
+msgid "Puzzle_0010"
+msgstr "続けてプレイしますか？"
+
+msgid "Puzzle_0011"
+msgstr "一時停止中"
+
+msgid "Puzzle_0012"
+msgstr "ジュエルを消費して{0}秒延長しますか？"
+
+msgid "Puzzle_0013"
+msgstr "-"
+
+msgid "Puzzle_0014"
+msgstr "ジュエルを消費して{0}秒延長しますか？"
+
+msgid "Puzzle_0015"
+msgstr "アンコールチケットを消費して{0}秒延長しますか？"
+
+msgid "Puzzle_0016"
+msgstr ""
+"通信状態が不安定です。\n"
+"再試行する場合は通信再試行を選択してください"
+
+msgid "Puzzle_0017"
+msgstr ""
+"タイトルに戻ると\n"
+"今回の結果は保存されませんが\n"
+"よろしいですか？"
+
+msgid "Puzzle_0018"
+msgstr "通信再試行"
+
+msgid "Puzzle_0019"
+msgstr "タイトルに戻る"
+
+msgid "Puzzle_0020"
+msgstr "数"
+
+msgid "Puzzle_0021"
+msgstr ""
+"パズルを終了しパズル前に戻ります\n"
+"今回の結果は保存されませんがよろしいですか？"
+
+msgid "Puzzle_0022"
+msgstr "チュートリアルパズルをスキップしますか？"
+
+msgid "ReleaseAction_LimitationAll"
+msgstr "全員を{0}で編成して"
+
+msgid "ReleaseAction_LimitationLeader"
+msgstr "{0}をセンターに編成して"
+
+msgid "ReleaseAction_LimitationSupport"
+msgstr "{0}をサポートにして"
+
+msgid "ReleaseAction_LimitationTarget"
+msgstr "編成に{0}を入れて"
+
+msgid "ReleaseAction_MessageFormat"
+msgstr "{1}{0}"
+
+msgid "ReleaseAction_Value_highScore_div1"
+msgstr "1プレイでスコア{0}万点を達成"
+
+msgid "ReleaseAction_Value_highScore_div2"
+msgstr "1プレイでスコア{0}億点を達成"
+
+msgid "ReleaseAction_Value_highestActiveSkill"
+msgstr "１プレイでスキルを{0}回発動"
+
+msgid "ReleaseAction_Value_highestBomb"
+msgstr "１プレイでボムを{0}個消去"
+
+msgid "ReleaseAction_Value_highestCenterComa"
+msgstr "1プレイでセンターぷちぐるを{0}個消去"
+
+msgid "ReleaseAction_Value_highestChain"
+msgstr "1プレイで{0}ぷち以上のつながりを消去"
+
+msgid "ReleaseAction_Value_highestComa"
+msgstr "1プレイでぷちぐるを{0}個消去"
+
+msgid "ReleaseAction_Value_highestCombo"
+msgstr "1プレイで{0}コンボ達成"
+
+msgid "ReleaseAction_Value_highestGold"
+msgstr "1プレイでゴールドを{0}枚獲得"
+
+msgid "ReleaseAction_Value_highestGoldBomb"
+msgstr "１プレイでゴールドボムを{0}個消去"
+
+msgid "ReleaseAction_Value_highestScoreBomb"
+msgstr "１プレイでスコアボムを{0}個消去"
+
+msgid "ReleaseAction_Value_highestShowTime"
+msgstr "1プレイで{0}回ショータイム突入"
+
+msgid "ReleaseAction_Value_highestTimeBomb"
+msgstr "１プレイでタイムボムを{0}個消去"
+
+msgid "ReleaseAction_Value_playCount"
+msgstr "{1}を{0}回プレイ"
+
+msgid "ReleaseAction_Value_totalActiveSkill"
+msgstr "合計でスキルを{0}回発動"
+
+msgid "ReleaseAction_Value_totalBomb"
+msgstr "合計でボムを{0}個消去"
+
+msgid "ReleaseAction_Value_totalCenterComa"
+msgstr "合計でセンターぷちぐるを{0}個消去"
+
+msgid "ReleaseAction_Value_totalComa"
+msgstr "合計でぷちぐるを{0}個消去"
+
+msgid "ReleaseAction_Value_totalGold"
+msgstr "合計でゴールドを{0}枚獲得"
+
+msgid "ReleaseAction_Value_totalGoldBomb"
+msgstr "合計でゴールドボムを{0}個消去"
+
+msgid "ReleaseAction_Value_totalScoreBomb"
+msgstr "合計でスコアボムを{0}個消去"
+
+msgid "ReleaseAction_Value_totalScore_div1"
+msgstr "合計でスコア{0}万点を達成"
+
+msgid "ReleaseAction_Value_totalScore_div2"
+msgstr "合計でスコア{0}億点を達成"
+
+msgid "ReleaseAction_Value_totalShowTime"
+msgstr "合計で{0}回ショータイム突入"
+
+msgid "ReleaseAction_Value_totalTimeBomb"
+msgstr "合計でタイムボムを{0}個消去"
+
+msgid "SNS_0000"
+msgstr "Twitter連携について"
+
+msgid "SNS_0001"
+msgstr ""
+"Twitter連携が\n"
+"完了しました"
+
+msgid "SNS_0002"
+msgstr ""
+"Twitter連携が\n"
+"キャンセルされました"
+
+msgid "SNS_0003"
+msgstr "Twitterアカウントの公開について"
+
+msgid "SNS_0004"
+msgstr ""
+"Twitterのプロフィールを\n"
+"【{0}】にしました\n"
+"\n"
+"メニューのプロフィールより\n"
+"公開設定を変更できます"
+
+msgid "SNS_0005"
+msgstr ""
+"Twitterアカウントを連携し\n"
+"Twitterに投稿しますか？"
+
+msgid "SNS_0006"
+msgstr "ハートを送るには？"
+
+msgid "SNS_0007"
+msgstr "Twitter連携をすると？"
+
+msgid "SNS_0008"
+msgstr ""
+"Twitter連携をするとハートを送れます\n"
+"Twitter連携すると他にもいいことがいっぱい！"
+
+msgid "SNS_0009"
+msgstr ""
+"【非公開設定にすると】\n"
+"\n"
+"他のユーザーから\n"
+"自身のTwitter情報が見えなくなります\n"
+"\n"
+"ぷちぐるブレードを使用した際に\n"
+"フォロワーへの効果が発動しなくなります。\n"
+"（※他者からの効果を受けることはできます）\n"
+"また、Twitter投稿による効果の延長も\n"
+"受けられなくなりますのでご注意ください"
+
+msgid "SNS_0010"
+msgstr "ツイート完了"
+
+msgid "SNS_0011"
+msgstr "ツイートしました"
+
+msgid "SNS_0012"
+msgstr "投稿完了"
+
+msgid "SNS_0013"
+msgstr "投稿しました"
+
+msgid "SceneChara_0001"
+msgstr ""
+"Android機能の使用が許可されませんでした。\n"
+"機能を使用する場合は、Android端末の\n"
+"「設定→アプリ→ぷちぐる→許可」から変更してください。"
+
+msgid "SceneChara_0004"
+msgstr "よこ"
+
+msgid "SceneChara_0005"
+msgstr "たて"
+
+msgid "SceneChara_0006"
+msgstr ""
+"ホームへ戻ると現在の画面は破棄されます。\n"
+"それでもよろしいですか？"
+
+msgid "SceneChara_0007"
+msgstr ""
+"カメラ機能の使用が許可されませんでした。\n"
+"機能を使用する場合は、端末の\n"
+"「設定→アプリ→ぷちぐる→許可」から変更してください。"
+
+msgid "SceneChara_0009"
+msgstr "デバイスにカメラが存在しません。"
+
+msgid "SceneChara_0010"
+msgstr "切り替え"
+
+msgid "SceneChara_0011"
+msgstr "読み込み"
+
+msgid "SceneChara_0012"
+msgstr "絞り込み中"
+
+msgid "SceneChara_0013"
+msgstr "モード切替"
+
+msgid "SceneChara_0014"
+msgstr "該当のメンバーがいません"
+
+msgid "SceneChara_0015"
+msgstr "すべてのぷちぐる"
+
+msgid "SceneChara_0016"
+msgstr "もっているぷちぐる"
+
+msgid "SceneChara_0017"
+msgstr "ぷちぐるの表情を確認することができます"
+
+msgid "SceneChara_0018"
+msgstr ""
+"レベル20\n"
+"で解放"
+
+msgid "SceneChara_0019"
+msgstr "標準"
+
+msgid "SceneChara_0020"
+msgstr "表情1"
+
+msgid "SceneChara_0021"
+msgstr ""
+"レベル30\n"
+"で解放"
+
+msgid "SceneChara_0022"
+msgstr "表情2"
+
+msgid "SceneChara_0023"
+msgstr ""
+"レベル40\n"
+"で解放"
+
+msgid "SceneChara_0024"
+msgstr "表情3"
+
+msgid "SceneChara_0026"
+msgstr "まだダメです"
+
+msgid "SceneEventTower_0001"
+msgstr "期間：4/30 00:00 〜 5/20 00:00"
+
+msgid "SceneEventTower_0002"
+msgstr ""
+"あああ\n"
+"あ\n"
+"あ"
+
+msgid "SceneEventTower_0003"
+msgstr "累計報酬一覧"
+
+msgid "SceneEventTower_0004"
+msgstr ""
+"イベントは\n"
+"終了しました"
+
+msgid "SceneEventTower_0005"
+msgstr "クリア！"
+
+msgid "SceneEventTower_0006"
+msgstr ""
+"ああああああああああ\n"
+"ああああああ"
+
+msgid "SceneEventTower_0007"
+msgstr "※報酬はプレゼントボックスから受け取れます"
+
+msgid "SceneHome_0000"
+msgstr ""
+"{0}\n"
+"をダウンロードしますか？"
+
+msgid "SceneHome_0001"
+msgstr ""
+"M月d日\n"
+" HH:mmまで"
+
+msgid "SceneHome_0002"
+msgstr "{0}ステージ 開催中"
+
+msgid "SceneHome_0003"
+msgstr "スコアアタックモードが解放されました"
+
+msgid "SceneHome_0004"
+msgstr "イベントモードが解放されました"
+
+msgid "SceneHome_0005"
+msgstr "さつえいモードが解放されました"
+
+msgid "SceneHome_0006"
+msgstr "M月d日から"
+
+msgid "SceneHome_0007"
+msgstr "<size=30>★</size><size=36>{0}</size>で解放"
+
+msgid "SceneHome_0008"
+msgstr "パズルをプレイしてぷちぐるを育成しよう"
+
+msgid "SceneHome_0009"
+msgstr "★10達成でμ's2年生ぷちぐるをGET！"
+
+msgid "SceneHome_0010"
+msgstr "★20達成でAqours1年生ぷちぐるをGET！"
+
+msgid "SceneHome_0011"
+msgstr "★30達成でμ's1年生ぷちぐるをGET！"
+
+msgid "SceneHome_0012"
+msgstr "★40達成でAqours3年生ぷちぐるをGET！"
+
+msgid "SceneHome_0013"
+msgstr "★50達成でμ's3年生ぷちぐるをGET！"
+
+msgid "SceneHome_0014"
+msgstr "タイトルへ戻りますか？"
+
+msgid "SceneHome_0015"
+msgstr ""
+"次のミッションは\n"
+"0:00に更新されます"
+
+msgid "SceneHome_0016"
+msgstr ""
+"<size=30>★</size><size=36>15</size><size=19>で解放</size>\n"
+"\n"
+"<size=22>さつえい</size>"
+
+msgid "SceneHome_0017"
+msgstr "パズルをプレイしてメンバーを育成しよう"
+
+msgid "SceneHome_0018"
+msgstr "<size=30>★</size><size=36>50</size>で解放"
+
+msgid "SceneHome_0019"
+msgstr ""
+"えらべるチケット\n"
+"はここから"
+
+msgid "SceneHome_0020"
+msgstr "<size=30>★</size><size=36>10</size>で解放"
+
+msgid "SceneHome_0021"
+msgstr ""
+"開催まで\n"
+"おまちください"
+
+msgid "SceneHome_0023"
+msgstr "配信中"
+
+msgid "SceneHome_0024"
+msgstr ""
+"本日分のボーナスを獲得しました\n"
+"※ジュエルは直接付与されました"
+
+msgid "SceneHome_0025"
+msgstr "M月d日まで"
+
+msgid "SceneHome_0026"
+msgstr ""
+"イベント期間が終了しました。\n"
+"タイトル画面に戻ります。"
+
+msgid "SceneLoading_0000"
+msgstr "データダウンロード中　{0}%"
+
+msgid "SceneLoading_0001"
+msgstr "グループ/ユニット"
+
+msgid "SceneLoginBonus_0001"
+msgstr "スキップ"
+
+msgid "SceneLoginBonus_0002"
+msgstr ""
+"<color=#9C6240FF>開催期間\n"
+"2018年00月00日～2018年00月00日</color>"
+
+msgid "SceneLoginBonus_0003"
+msgstr ""
+"<color=#9C6240FF>この文章はダミーです。文字の大きさ、量、文間、行間等を確認す"
+"るために入れています。\n"
+"この文章はダミーです。文字の大きさ、量、文間、行間等を確認するために入れてい"
+"ます。</color>"
+
+msgid "SceneLoginBonus_0004"
+msgstr "アイテム名"
+
+msgid "SceneLoginBonus_0005"
+msgstr "{0}日目"
+
+msgid "SceneMenu_0000"
+msgstr "Achievementは鋭意制作中"
+
+msgid "SceneMenu_0001"
+msgstr "オプションは鋭意制作中"
+
+msgid "SceneMenu_0002"
+msgstr "ヘルプは鋭意作成中"
+
+msgid "SceneMenu_0003"
+msgstr "お問い合わせテスト"
+
+msgid "SceneMenu_0004"
+msgstr ""
+"本文はここに表示されます。\n"
+"ユーザーID：{0}"
+
+msgid "SceneMenu_0005"
+msgstr "通信に失敗しました"
+
+msgid "ScenePuzzle_0001"
+msgstr "アイウエオあいうえおアイウエオあいうえお"
+
+msgid "ScenePuzzle_0002"
+msgstr "シャッフルボタン"
+
+msgid "ScenePuzzle_0003"
+msgstr "テスト文言A"
+
+msgid "ScenePuzzle_0004"
+msgstr "ああああああああ"
+
+msgid "SceneSpEvent_0001"
+msgstr "チケット交換所<size=28>へ</size>"
+
+msgid "SceneSpEvent_0002"
+msgstr "あと 1,000,000,000"
+
+msgid "SceneSpEvent_0003"
+msgstr "報酬：星空 凛 交換チケット"
+
+msgid "SceneSpEvent_0004"
+msgstr "現在の合計スコア"
+
+msgid "SceneTicketExChange_0001"
+msgstr "えらべるチケット交換所"
+
+msgid "SceneTicketExChange_0002"
+msgstr ""
+"有効期限\n"
+"一覧"
+
+msgid "SceneTicketExChange_0003"
+msgstr "すでにもっているメンバーはスキルが強化されます"
+
+msgid "SceneTicketExChange_0006"
+msgstr "所持数:"
+
+msgid "SceneTitle_0001"
+msgstr "サポート"
+
+msgid "SceneWhatsLoveLive_0001"
+msgstr "(ミューズ)"
+
+msgid "SceneWhatsLoveLive_0002"
+msgstr "(アクア)"
+
+msgid "SceneWhatsLoveLive_0003"
+msgstr ""
+"静岡県沼津市内浦に位置する浦の星女学院に通う、高海千歌を中心とした生徒9人に"
+"よって結成されたスクールアイドルグループ"
+
+msgid "SceneWhatsLoveLive_0004"
+msgstr "メンバー紹介"
+
+msgid "SceneWhatsLoveLive_0005"
+msgstr "スクールアイドルとは…"
+
+msgid "SceneWhatsLoveLive_0006"
+msgstr ""
+"全国各地の学校内で結成されているアイドルグループのこと。\n"
+"学生ながらトップクラスのスクールアイドルグループは10代を中心に絶大な人気を"
+"誇っている。"
+
+msgid "ShareBirthdayLoginBonus_00000101"
+msgstr ""
+"祝！8月3日はμ'sの高坂穂乃果ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000102"
+msgstr ""
+"祝！9月12日はμ'sの南ことりちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000103"
+msgstr ""
+"祝！3月15日はμ'sの園田海未ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000104"
+msgstr ""
+"祝！4月19日はμ'sの西木野真姫ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000105"
+msgstr ""
+"祝！11月1日はμ'sの星空凛ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000106"
+msgstr ""
+"祝！1月17日はμ'sの小泉花陽ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000107"
+msgstr ""
+"祝！7月22日はμ'sの矢澤にこちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000108"
+msgstr ""
+"祝！6月9日はμ'sの東條希ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000109"
+msgstr ""
+"祝！10月21日はμ'sの絢瀬絵里ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000201"
+msgstr ""
+"祝！8月1日はAqoursの高海千歌ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000202"
+msgstr ""
+"祝！4月17日はAqoursの渡辺曜ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000203"
+msgstr ""
+"祝！9月19日はAqoursの桜内梨子ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000204"
+msgstr ""
+"祝！3月4日はAqoursの国木田花丸ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000205"
+msgstr ""
+"祝！9月21日はAqoursの黒澤ルビィちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000206"
+msgstr ""
+"祝！7月13日はAqoursの津島善子ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000207"
+msgstr ""
+"祝！1月1日はAqoursの黒澤ダイヤちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000208"
+msgstr ""
+"祝！2月10日はAqoursの松浦果南ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "ShareBirthdayLoginBonus_00000209"
+msgstr ""
+"祝！6月13日はAqoursの小原鞠莉ちゃんのお誕生日！\n"
+"みんなでお祝い投稿しよう！\n"
+"\n"
+"#ぷちぐるラブライブ　#lovelive"
+
+msgid "Shop_0000"
+msgstr ""
+"今月の購入限度額を超えているため\n"
+"購入することが出来ません"
+
+msgid "Shop_0001"
+msgstr "お問い合わせテスト"
+
+msgid "Shop_0002"
+msgstr ""
+"本文はここに表示されます。\n"
+"ユーザーID：{0}"
+
+msgid "Shop_0003"
+msgstr "ジュエル購入"
+
+msgid "Shop_0004"
+msgstr "ジュエル利用履歴"
+
+msgid "Shop_0005"
+msgstr "ジュエル購入"
+
+msgid "Shop_0006"
+msgstr "ジュエル利用履歴"
+
+msgid "Shop_0007"
+msgstr "資金決済法/特定商取引法に基づく表示"
+
+msgid "Shop_0008"
+msgstr "ジュエル利用規約"
+
+msgid "Shop_0009"
+msgstr "ジュエルをハートに交換"
+
+msgid "Shop_0010"
+msgstr "ジュエルをハートに交換しました"
+
+msgid "Shop_0011"
+msgstr "※残り{0}回購入可能"
+
+msgid "Shop_0012"
+msgstr "￥{0}"
+
+msgid "Shop_0013"
+msgstr "（{0} + {1}増量）"
+
+msgid "Shop_0014"
+msgstr "利用履歴"
+
+msgid "Shop_0015"
+msgstr "不正な値が入力されています"
+
+msgid "Shop_0016"
+msgstr "年齢確認"
+
+msgid "Shop_0017"
+msgstr "必ずお読みください"
+
+msgid "Shop_0018"
+msgstr "販売中の商品がありません"
+
+msgid "Shop_0019"
+msgstr "次回購入可能まで{0}日"
+
+msgid "Shop_0020"
+msgstr "アルパカパスポート購入"
+
+msgid "Shop_0021"
+msgstr "あと<color=#F26144FF>{0}</color>"
+
+msgid "Shop_0022"
+msgstr ""
+"◆「えらべるチケット」とはチケット交換所でチケットの楽曲に対応した任意のぷちぐ"
+"ると交換できるアイテムです\n"
+"\n"
+"◆「えらべるチケット」で交換できるぷちぐるの詳細についてはお知らせをご覧くださ"
+"い\n"
+"\n"
+"◆「えらべるチケット」は購入時にプレゼントボックスへ付与されます\n"
+"\n"
+"◆「えらべるチケット」の有効期限はプレゼントボックスから受け取り後150日です\n"
+"\n"
+"◆「えらべるチケット」で選択可能なぷちぐるのスキルレベルがすべて最大値の場"
+"合、\n"
+"「えらべるチケット」は「スキルパフェ」\n"
+"に変換されます"
+
+msgid "Shop_0023"
+msgstr ""
+"◆アルパカパスポートの内容\n"
+"購入時に1000有償ジュエルを獲得できます\n"
+"購入した次の日から30日間、1日1回100無償ジュエルを獲得できます\n"
+"\n"
+"◆ジュエルの獲得方法について\n"
+"アルパカパスポートで獲得できるジュエルは直接付与されます\n"
+"※プレゼントボックスには送られません\n"
+"\n"
+"◆ジュエルの獲得タイミングについて\n"
+"1日1回獲得できるジュエルは午前0時で翌日分に切り替わります\n"
+"ログインしていない日はジュエルを獲得できません\n"
+"\n"
+"◆注意事項\n"
+"連続購入可能期間は、最大180日になります\n"
+"※連続して180日間継続されたお客様は、1日間隔をあけていただくことで再度購入がで"
+"きます"
+
+msgid "Shop_0024"
+msgstr ""
+"購入時に1000有償ジュエルを獲得できます\n"
+"購入した次の日から30日間、\n"
+"1日1回100無償ジュエルを獲得できます"
+
+msgid "Shop_0025"
+msgstr "親権者同意確認"
+
+msgid "SkillCategoryName_0001"
+msgstr "消去系"
+
+msgid "SkillCategoryName_0002"
+msgstr "変化系"
+
+msgid "SkillCategoryName_0003"
+msgstr "ボム系"
+
+msgid "SkillCategoryName_0004"
+msgstr "一定時間系"
+
+msgid "SkillCategoryName_0005"
+msgstr "特殊系"
+
+msgid "SkillData_0000"
+msgstr "最小個数"
+
+msgid "SkillData_0001"
+msgstr "最大個数"
+
+msgid "SkillData_0002"
+msgstr "範囲"
+
+msgid "SkillData_0003"
+msgstr "時間"
+
+msgid "SkillData_0004"
+msgstr "発動率"
+
+msgid "SkillData_0005"
+msgstr "スコア"
+
+msgid "SkillData_0006"
+msgstr ""
+"effectDataのパースエラー\n"
+"memberMstId={0}\n"
+"{1}"
+
+msgid "SkillData_0007"
+msgstr "TODO マスターデータなし{0}"
+
+msgid "SkillData_0008"
+msgstr "効果"
+
+msgid "SkillData_0009"
+msgstr "消去数"
+
+msgid "SkillData_0010"
+msgstr "出現数"
+
+msgid "SkillData_0011"
+msgstr "出現数"
+
+msgid "SkillData_0012"
+msgstr "{0}～{1}個"
+
+msgid "SkillData_0100"
+msgstr "必要ぷち数"
+
+msgid "SkillData_0101"
+msgstr "効果時間"
+
+msgid "SkillData_0102"
+msgstr "効果"
+
+msgid "SkillData_0103"
+msgstr "出現数"
+
+msgid "SkillData_0104"
+msgstr "確率"
+
+msgid "SkillData_0105"
+msgstr "効果回数"
+
+msgid "SkillData_0106"
+msgstr "効果範囲"
+
+msgid "SkillData_0107"
+msgstr "消去数"
+
+msgid "SkillData_0108"
+msgstr "効果範囲"
+
+msgid "SkillData_0109"
+msgstr "出現数"
+
+msgid "SkillData_0110"
+msgstr "効果範囲"
+
+msgid "SkillData_0200"
+msgstr "{0}秒"
+
+msgid "SkillData_0201"
+msgstr "{0}種類"
+
+msgid "SkillData_0202"
+msgstr "{0}～{1}個"
+
+msgid "SkillData_0203"
+msgstr "{0}％"
+
+msgid "SkillData_0204"
+msgstr "{0}種類"
+
+msgid "SkillData_Size3L"
+msgstr "3L"
+
+msgid "SkillData_Size3Lminus"
+msgstr "3L-"
+
+msgid "SkillData_Size3Lplus"
+msgstr "3L+"
+
+msgid "SkillData_SizeL"
+msgstr "L"
+
+msgid "SkillData_SizeLL"
+msgstr "LL"
+
+msgid "SkillData_SizeLLminus"
+msgstr "LL-"
+
+msgid "SkillData_SizeLLplus"
+msgstr "LL+"
+
+msgid "SkillData_SizeLminus"
+msgstr "L-"
+
+msgid "SkillData_SizeLplus"
+msgstr "L+"
+
+msgid "SkillData_SizeM"
+msgstr "M"
+
+msgid "SkillData_SizeMminus"
+msgstr "M-"
+
+msgid "SkillData_SizeMplus"
+msgstr "M+"
+
+msgid "SkillData_SizeS"
+msgstr "S"
+
+msgid "SkillData_SizeSS"
+msgstr "SS"
+
+msgid "SkillData_SizeSSminus"
+msgstr "SS-"
+
+msgid "SkillData_SizeSSplus"
+msgstr "SS+"
+
+msgid "SkillData_SizeSminus"
+msgstr "S-"
+
+msgid "SkillData_SizeSplus"
+msgstr "S+"
+
+msgid "Strengthening"
+msgstr "強化"
+
+msgid "TicketExchange_0000"
+msgstr "最短有効期限：<size=28>{0}/{1} {2:00}:{3:00}まで</size>"
+
+msgid "TicketExchange_0001"
+msgstr "チケット付きジュエルを購入しますか？"
+
+msgid "TicketExchange_0002"
+msgstr "購入をキャンセルしました"
+
+msgid "TicketExchange_0003"
+msgstr ""
+"えらべるチケットを使って\n"
+"\n"
+"{0}\n"
+"（{1}）\n"
+"\n"
+"を獲得します。よろしいですか？"
+
+msgid "TicketExchange_0004"
+msgstr ""
+"該当する衣装のぷちぐるが\n"
+"すべてスキルレベル最大だと交換できません\n"
+"えらべるチケットをスキルパフェに\n"
+"交換します。よろしいですか？"
+
+msgid "TicketExchange_0005"
+msgstr ""
+"えらべるチケットを\n"
+"スキルパフェに交換しました"
+
+msgid "TicketExchange_0006"
+msgstr ""
+"チケットの期限が過ぎているため交換できません\n"
+"<size=28>{0:MM/dd HH:mm} まで</size>"
+
+msgid "TicketExchange_0007"
+msgstr ""
+"期限切れのチケットがあります\n"
+"画面を更新します"
+
+msgid "TicketExchange_0008"
+msgstr ""
+"えらべるチケットは、チケット毎に有効期限が設定されています。\n"
+"期間内に交換しない場合、チケットが消失しますのでご注意ください。"
+
+msgid "TicketExchange_0010"
+msgstr "チケットがありません"
+
+msgid "Title_0000"
+msgstr ""
+"リソースデータの破損が原因で\n"
+"不具合が起きている場合\n"
+"リソースデータの削除→再ダウンロードで\n"
+"改善する場合があります\n"
+"\n"
+"※リソースデータの再ダウンロードは\n"
+"Wi-Fi環境での通信を推奨します\n"
+"\n"
+"リソースデータを削除しますか？"
+
+msgid "Title_0001"
+msgstr "リソースデータの削除が完了しました"
+
+msgid "Title_0002"
+msgstr "リストア中..."
+
+msgid "Title_0003"
+msgstr ""
+"リストア完了\n"
+"\n"
+"{0:#,0} ファイル削除"
+
+msgid "Title_0004"
+msgstr "公開用に設定を変更します"
+
+msgid "Title_0005"
+msgstr "開発用に設定を変更します"
+
+msgid "Title_0006"
+msgstr "サポート対象外です"
+
+msgid "Title_0007"
+msgstr "[ログイン済み] UUID: <b>{0}</b>"
+
+msgid "Title_0008"
+msgstr "{0}{1:f6}秒"
+
+msgid "Title_0010"
+msgstr ""
+"端末の空き容量が不足している可能性がございます\n"
+"端末容量を1GB以上空けていただいた後、\n"
+"ダウンロードするようお願いいたします\n"
+"\n"
+"<color=#ff0000>端末容量が不足している状態で\n"
+"ダウンロードを行った場合挙動が不安定になり、\n"
+"動作が停止してしまうなどの予期せぬ現象を\n"
+"引き起こしてしまう可能性があります</color>\n"
+"\n"
+"ダウンロードを開始しますか？"
+
+msgid "Title_0020"
+msgstr ""
+"ゲームデータのダウンロードをおこないます\n"
+"({0:0.0}MB)\n"
+"よろしければダウンロードボタンを\n"
+"タップして開始してください\n"
+"\n"
+"<size=24><color=#ff0000>※開始すると途中でキャンセルできません\n"
+"※Wi-Fi接続での実施を推奨します</color></size>"
+
+msgid "Title_xxxx"
+msgstr ""
+"端末の空き容量が不足しているためダウンロードできませんでした。端末容量を空け"
+"ていただいた後、再度お試しください。\n"
+"問題が解決しない場合は、誠に恐れ入りますが、タイトル画面の「サポート」にあり"
+"ます「お問い合わせ」よりご連絡ください。"
+
+msgid "TopMenu_0000"
+msgstr "引き継ぎコード入力"
+
+msgid "TopMenu_0001"
+msgstr "利用規約"
+
+msgid "TopMenu_0002"
+msgstr "お問い合わせ"
+
+msgid "TopMenu_0003"
+msgstr "キャッシュクリア"
+
+msgid "TopMenu_0004"
+msgstr "ジュエル利用規約"
+
+msgid "TutorialDialog_Back"
+msgstr "もどる"
+
+msgid "TutorialDialog_Next"
+msgstr "すすむ"
+
+msgid "TutorialPopupText_0000"
+msgstr "本文"
+
+msgid "TutorialPopupText_0001"
+msgstr ""
+"ぷちぐるは2つ以上つながると\n"
+"タップで消せるよ"
+
+msgid "TutorialPopupText_0002"
+msgstr ""
+"つなげたいぷちぐるを残して\n"
+"まわりを消すのがコツだよ"
+
+msgid "TutorialPopupText_0003"
+msgstr ""
+"長くつなげると線の色が変化するよ\n"
+"青(11ぷち)以上で消すのがコツだよ"
+
+msgid "TutorialPopupText_0004"
+msgstr ""
+"青(11ぷち)以上のつながりを消すと\n"
+"ボムが出現するよ"
+
+msgid "TutorialPopupText_0008"
+msgstr ""
+"ぷちぐるを消すと\n"
+"ショータイムゲージがたまるよ"
+
+msgid "TutorialPopupText_0009"
+msgstr ""
+"ぷちぐるはガチャで獲得できるよ\n"
+"ガチャへ行ってみよう"
+
+msgid "TutorialPopupText_0010"
+msgstr ""
+"ガチャはゴールドかジュエルでひけるよ\n"
+"今回はゴールドでガチャをひいてみよう"
+
+msgid "TutorialPopupText_0011"
+msgstr ""
+"パズルで使うぷちぐるは\n"
+"チーム編成で変更できるよ"
+
+msgid "TutorialPopupText_0013"
+msgstr ""
+"編成したぷちぐるを使って\n"
+"さっそくパズルをプレイしてみよう"
+
+msgid "TutorialPopupText_0017"
+msgstr ""
+"ぷちぐるブレードを使うと\n"
+"パズルで手に入る経験値が増えるよ"
+
+msgid "TutorialPopupText_0018"
+msgstr ""
+"10秒間のショータイム中はスコアが3倍！\n"
+"さらにスコアを伸ばすチャンス！"
+
+msgid "TutorialPopupText_0019"
+msgstr ""
+"持っているぷちぐるを下から上に動かして\n"
+"チームに編成してみよう"
+
+msgid "TutorialPopupText_0020"
+msgstr ""
+"ボムはまわりのぷちぐるを消して\n"
+"大きくスコアを伸ばせるよ"
+
+msgid "TutorialPopupText_0021"
+msgstr ""
+"青(11ぷち)以上のつながりを消して\n"
+"ボムをうまく使うのがコツだよ"
+
+msgid "TutorialPopupText_0022"
+msgstr "これからゲームの遊び方を説明するよ"
+
+msgid "TutorialPopupText_0023"
+msgstr ""
+"つながりが長いほど\n"
+"スコアが高くなるよ"
+
+msgid "TutorialPopupText_0026"
+msgstr ""
+"チームは3つのぷちぐるで編成！\n"
+"編成したぷちぐるはパズルに登場するよ"
+
+msgid "TutorialPopupText_0027"
+msgstr ""
+"編成したぷちぐる全員が特技を、\n"
+"センターに設定するとスキルを使えるよ"
+
+msgid "TutorialPopupText_0028"
+msgstr ""
+"消したときのぷち数が多いほど\n"
+"ゲージがたまりやすくなるよ\n"
+"長いつながりやボムをうまく使おう"
+
+msgid "TutorialPopupText_0029"
+msgstr ""
+"特技は条件を満たしたときに\n"
+"確率で自動発動するよ"
+
+msgid "TutorialPopupText_0030"
+msgstr ""
+"スキルゲージは\n"
+"センターぷちぐるを消すとたまるよ"
+
+msgid "TutorialPopupText_0031"
+msgstr ""
+"スキルゲージがたまったよ\n"
+"ボタンをタップしてスキルを発動しよう"
+
+msgid "TutorialPopupText_0032"
+msgstr ""
+"パズルが終わると\n"
+"消した数に応じてぷちぐるが成長するよ"
+
+msgid "TutorialPopupText_0033"
+msgstr ""
+"ぷちぐるのレベルが上がると\n"
+"ぷちぐるのスコアが成長するよ"
+
+msgid "TutorialPopupText_0034"
+msgstr ""
+"青(11ぷち)以上のつながりを\n"
+"できるだけ多く消すのがコツだよ"
+
+msgid "TutorialPopupText_0035"
+msgstr ""
+"つなげたいぷちぐるを残して\n"
+"線の色が青になってから消そう"
+
+msgid "TutorialPopupText_0036"
+msgstr ""
+"1プレイで青以上のつながりを\n"
+"2回消そう"
+
+msgid "TutorialPopupText_0037"
+msgstr ""
+"通常時に使うと\n"
+"消すぷち数が多くなって\n"
+"ショータイム突入に使えるよ"
+
+msgid "TutorialPopupText_0038"
+msgstr ""
+"ショータイム中に使うと\n"
+"スコアが3倍になって\n"
+"大きくスコアを伸ばせるよ"
+
+msgid "TutorialPopupText_0039"
+msgstr ""
+"1プレイでボムを\n"
+"3個消そう"
+
+msgid "TutorialPopupText_0040"
+msgstr ""
+"7ぷち以上のつながりを消すと\n"
+"ぷち数に応じてゴールドが手に入るよ"
+
+msgid "TutorialPopupText_0041"
+msgstr "1プレイで100ゴールド獲得しよう"
+
+msgid "TutorialPopupText_0042"
+msgstr ""
+"ぷち数が多いほどスコアが高くなるよ\n"
+"長いつながりを消したり\n"
+"スキルやボムでスコアを伸ばそう！"
+
+msgid "TutorialPopupText_0043"
+msgstr "1プレイでスコア50万点を達成しよう"
+
+msgid "TutorialPopupText_0046"
+msgstr ""
+"つながったぷちぐるを\n"
+"タップして消そう！"
+
+msgid "TutorialPopupText_0047"
+msgstr ""
+"千歌ぷちぐる(みかん色)を残して\n"
+"11ぷち以上つなげてみよう！"
+
+msgid "TutorialPopupText_0048"
+msgstr ""
+"青(11ぷち)以上のつながりを\n"
+"タップで消してみよう！"
+
+msgid "TutorialPopupText_0049"
+msgstr "ボムをタップで消してみよう！"
+
+msgid "TutorialPopupText_0050"
+msgstr ""
+"ぷちぐるをたくさん消して\n"
+"ショータイムにしよう"
+
+msgid "TutorialPopupText_0051"
+msgstr ""
+"ショータイム終了まで\n"
+"自由にプレイしよう"
+
+msgid "TutorialPopupText_0053"
+msgstr ""
+"チームに編成したぷちぐるは\n"
+"いろいろな効果を発揮するよ"
+
+msgid "TutorialPopupText_0054"
+msgstr ""
+"センターのぷちぐるを消して\n"
+"スキルゲージをためよう！"
+
+msgid "TutorialPopupText_0055"
+msgstr ""
+"助っ人として参加したユーザーは\n"
+"フォローするとハートを送りあえるよ"
+
+msgid "TutorialPopupText_0056"
+msgstr ""
+"ハートを送れる相手がいるときは\n"
+"ハート送信ボタンに「！」が表示されるよ"
+
+msgid "TutorialPopupText_0057"
+msgstr ""
+"ハート送信ボタンを押すと\n"
+"フォロー中の相手にハートを送れるよ"
+
+msgid "TutorialPopupText_0058"
+msgstr ""
+"相手がハートを受け取ると\n"
+"自分にもハートが送られてくるよ"
+
+msgid "TutorialPopupText_0059"
+msgstr ""
+"たくさんの人をフォローして\n"
+"ハートを送りあおう"
+
+msgid "TutorialPopupText_0060"
+msgstr ""
+"パズルを始める前に助っ人を選べるよ\n"
+"助っ人も特技の効果を発動するよ"
+
+msgid "TutorialPopupText_0061"
+msgstr ""
+"経験値キャンディを持っていると\n"
+"＋ボタンからぷちぐるを強化できるよ"
+
+msgid "TutorialPopupText_0062"
+msgstr ""
+"ぷちぐるのレベルが上限になると\n"
+"ゴールドを使ってレベル解放ができるよ"
+
+msgid "TutorialPopupText_0063"
+msgstr ""
+"他のプレイヤーが使う\n"
+"助っ人のぷちぐるを変更できるよ"
+
+msgid "TutorialPopupText_0064"
+msgstr ""
+"助っ人に選ばれた回数によって\n"
+"毎日ゴールドがもらえるよ"
+
+msgid "TutorialPopupText_0065"
+msgstr ""
+"レベルが高いぷちぐるや\n"
+"イベントで有利なぷちぐるを設定すると\n"
+"助っ人に選ばれやすいよ"
+
+msgid "TutorialPopupText_0066"
+msgstr ""
+"アイテムにはいろいろな効果があるよ\n"
+"うまく使ってパズルを有利にしよう"
+
+msgid "TutorialPopupText_0067"
+msgstr ""
+"今回だけ特別に\n"
+"アイテムをゴールドなしで使えるよ"
+
+msgid "TutorialPopupText_0068"
+msgstr "ミッションモードが解放されたよ"
+
+msgid "TutorialPopupText_0069"
+msgstr ""
+"ラブライブ！シリーズの\n"
+"楽曲ステージを舞台に\n"
+"様々なミッションをクリアしよう"
+
+msgid "TutorialPopupText_0070"
+msgstr ""
+"ミッションを1つクリアするごとに\n"
+"ぷちぐるスターが獲得できるよ\n"
+"たくさん集めて様々な報酬を手に入れよう"
+
+msgid "TutorialPopupText_0071"
+msgstr ""
+"ミッションモードには\n"
+"ホーム画面の中央からいけるよ"
+
+msgid "TutorialPopupText_0072"
+msgstr ""
+"楽曲ステージは定期的に入れ替わるよ\n"
+"※ミッションの進捗はリセットされません"
+
+msgid "TutorialPopupText_0073"
+msgstr ""
+"挑戦したいミッションを選んで\n"
+"ミッションをクリアしていこう"
+
+msgid "TutorialPopupText_0076"
+msgstr ""
+"ホーム画面から\n"
+"さつえいモードが選べるようになったよ"
+
+msgid "TutorialPopupText_0077"
+msgstr ""
+"さつえいモードには\n"
+"ホーム画面の右からいけるよ"
+
+msgid "TutorialPopupText_0078"
+msgstr ""
+"さつえいモードでは\n"
+"ぷちぐるを並べて\n"
+"自分だけの画像を作れるよ"
+
+msgid "TutorialPopupText_0079"
+msgstr ""
+"持っているぷちぐるを\n"
+"最大9つまで配置できるよ"
+
+msgid "TutorialPopupText_0080"
+msgstr ""
+"向きや位置などを変えて\n"
+"思い通りの配置にしよう"
+
+msgid "TutorialPopupText_0081"
+msgstr ""
+"ぷちぐるのレベルを上げると\n"
+"さつえい機能で使える表情が増えるよ"
+
+msgid "TutorialPopupText_0082"
+msgstr ""
+"あとでじっくり配置したいときは\n"
+"写真を読み込む機能を使おう"
+
+msgid "TutorialPopupText_0083"
+msgstr ""
+"ホーム画面から\n"
+"イベントモードを選べるようになったよ"
+
+msgid "TutorialPopupText_0084"
+msgstr ""
+"イベントモードでは特別衣装など\n"
+"様々な報酬を獲得できるよ"
+
+msgid "TutorialPopupText_0085"
+msgstr ""
+"イベントモードには\n"
+"ホーム画面の右下からいけるよ"
+
+msgid "TutorialPopupText_0086"
+msgstr ""
+"イベント開催までの間は\n"
+"ミッションモードを進めよう"
+
+msgid "TutorialPopupText_0087"
+msgstr ""
+"スキルボタンをタップして\n"
+"スキルを発動しよう"
+
+msgid "TutorialPopupText_0088"
+msgstr ""
+"エリア内のミッション20個を\n"
+"すべてクリアすると次のエリアに進むよ"
+
+msgid "TutorialPopupText_0089"
+msgstr ""
+"エリアコンプリート報酬では\n"
+"ステージの楽曲と同じ衣装のぷちぐるなど\n"
+"豪華な報酬が手に入るよ"
+
+msgid "TutorialPopupText_0090"
+msgstr ""
+"ホーム画面から\n"
+"スコアアタックモードを\n"
+"選べるようになったよ"
+
+msgid "TutorialPopupText_0091"
+msgstr ""
+"スコアアタックモードでは\n"
+"週間のハイスコアと合計スコアで\n"
+"目標を達成して報酬を手に入れよう"
+
+msgid "TutorialPopupText_0092"
+msgstr ""
+"スコアアタックモードには\n"
+"ホーム画面の左下からいけるよ"
+
+msgid "TutorialPopupText_0093"
+msgstr ""
+"毎週変動するプレイ条件に合わせて\n"
+"最高の編成でハイスコアを目指そう"
+
+msgid "TutorialPopupText_0094"
+msgstr ""
+"目標スコアと報酬は\n"
+"報酬一覧からチェックしよう"
+
+msgid "TutorialPopupText_0095"
+msgstr ""
+"週間ハイスコアでは\n"
+"1プレイのハイスコアで\n"
+"目標を達成しよう"
+
+msgid "TutorialPopupText_0096"
+msgstr ""
+"スコアアタックモードのハイスコアは\n"
+"週間ランキングで友達と競争できるよ"
+
+msgid "TutorialPopupText_0097"
+msgstr ""
+"週間合計スコアでは\n"
+"何度もプレイして\n"
+"目標を達成しよう"
+
+msgid "TutorialPopupText_0098"
+msgstr ""
+"Twitter連携すると\n"
+"フォロー中の相手が使った効果も\n"
+"受けられるよ"
+
+msgid "TutorialPopupText_0099"
+msgstr ""
+"うまくつながらないときは\n"
+"シャッフルボタンを使ってみよう"
+
+msgid "TutorialPopupText_0100"
+msgstr ""
+"このチュートリアルは\n"
+"指を右から左にスワイプしてめくれます"
+
+msgid "TutorialPopupText_0101"
+msgstr ""
+"スコアアタックモードは\n"
+"つながっていない状態で暗くならない\n"
+"難しめのモードだよ"
+
+msgid "TutorialPopupText_0102"
+msgstr ""
+"スクールアイドルショップでは\n"
+"ラブライブ！シリーズのイラストが\n"
+"カードになって登場！"
+
+msgid "TutorialPopupText_0103"
+msgstr ""
+"カードを編成するとパズルで効果を発揮！\n"
+"図鑑でのコレクションも楽しめるよ！"
+
+msgid "TutorialPopupText_0104"
+msgstr ""
+"カードはカードガチャから手に入るよ\n"
+"デイリーミッションやスコアアタックで\n"
+"メダルを集めてガチャをひこう！"
+
+msgid "TutorialPopupText_0105"
+msgstr ""
+"1日1回無料のカードガチャもあるから\n"
+"毎日ひいてみてね"
+
+msgid "TutorialPopupText_0106"
+msgstr ""
+"ぷちぐるにカードをセットでスコアUP！\n"
+"カードに描かれているメンバーが\n"
+"ぷちぐると一致するとボーナスが乗るよ"
+
+msgid "TutorialPopupText_0107"
+msgstr ""
+"カードスキルつきカードをセットすると\n"
+"パズル中にさまざまな効果を発動するよ"
+
+msgid "TutorialPopupText_0108"
+msgstr ""
+"スペシャルスキルつきカードをセットして\n"
+"パズル中に効果を発動すると\n"
+"等身大メンバーの特別演出が楽しめるよ"
+
+msgid "TutorialPopupText_0109"
+msgstr ""
+"スペシャルスキルつきカードは\n"
+"カードとぷちぐるのメンバーが一致すると\n"
+"パズル開始時から効果が発動できるよ"
+
+msgid "TutorialPopupText_0110"
+msgstr ""
+"ぷちぐるやカードの箇所をタップすると\n"
+"編成内容を変更できるよ"
+
+msgid "TutorialPopupText_0111"
+msgstr ""
+"強化したいカードに素材となるカードを\n"
+"使って強化することができるよ"
+
+msgid "TutorialPopupText_0113"
+msgstr ""
+"進化させたいカードに同じカードを使って\n"
+"カードのレア度を上げることができるよ\n"
+"進化後のレベルはそのまま引き継がれるよ"
+
+msgid "TutorialPopupText_0115"
+msgstr ""
+"カードをメダル交換すると\n"
+"レア度に応じた枚数のメダルが手に入るよ\n"
+"交換したメダルはカードガチャで使えるよ"
+
+msgid "TutorialPopupText_0116"
+msgstr ""
+"ホーム画面の「ぷちぐる」メニューから\n"
+"編成に行けるよ"
+
+msgid "TutorialPopupText_0117"
+msgstr ""
+"チームは3つのぷちぐるで編成！\n"
+"編成したぷちぐるはパズルに登場するよ"
+
+msgid "TutorialPopupText_0118"
+msgstr ""
+"編成したぷちぐる全員が特技を、\n"
+"センターに設定するとスキルを使えるよ"
+
+msgid "TutorialPopupText_0119"
+msgstr "ホーム画面からEXミッションをプレイできるようになったよ！"
+
+msgid "TutorialPopupText_0120"
+msgstr ""
+"EXミッションでは難しいけれど\n"
+"より豪華な報酬を手に入れる事ができるよ"
+
+msgid "TutorialPopupText_0121"
+msgstr ""
+"楽曲ステージを選ぶ時に\n"
+"EXミッションに切り替えることができるよ"
+
+msgid "TutorialPopupText_0122"
+msgstr ""
+"カードを強化するアイテムがあれば\n"
+"アイテムを使って強化することもできるよ"
+
+msgid "TutorialPopupTitle_0000"
+msgstr "タイトル"
+
+msgid "TutorialPopupTitle_0001"
+msgstr "基本操作"
+
+msgid "TutorialPopupTitle_0002"
+msgstr "つながりの作りかた"
+
+msgid "TutorialPopupTitle_0003"
+msgstr "線の色の変化"
+
+msgid "TutorialPopupTitle_0004"
+msgstr "ボムの出現"
+
+msgid "TutorialPopupTitle_0008"
+msgstr "ショータイムの発動方法"
+
+msgid "TutorialPopupTitle_0009"
+msgstr "ぷちぐるを手に入れよう"
+
+msgid "TutorialPopupTitle_0010"
+msgstr "ガチャをひこう"
+
+msgid "TutorialPopupTitle_0011"
+msgstr "チーム編成してみよう"
+
+msgid "TutorialPopupTitle_0013"
+msgstr "パズルをプレイしてみよう"
+
+msgid "TutorialPopupTitle_0017"
+msgstr "ぷちぐるブレードの効果"
+
+msgid "TutorialPopupTitle_0018"
+msgstr "ショータイムの効果"
+
+msgid "TutorialPopupTitle_0019"
+msgstr "編成のしかた"
+
+msgid "TutorialPopupTitle_0020"
+msgstr "ボムの効果"
+
+msgid "TutorialPopupTitle_0021"
+msgstr "スコアを伸ばすコツ"
+
+msgid "TutorialPopupTitle_0022"
+msgstr "ぷちぐるラブライブ！へようこそ"
+
+msgid "TutorialPopupTitle_0023"
+msgstr "長いつながりを作ろう"
+
+msgid "TutorialPopupTitle_0026"
+msgstr "チーム編成の効果"
+
+msgid "TutorialPopupTitle_0027"
+msgstr "スキルと特技"
+
+msgid "TutorialPopupTitle_0028"
+msgstr "ゲージをためるコツ"
+
+msgid "TutorialPopupTitle_0029"
+msgstr "特技の発動方法"
+
+msgid "TutorialPopupTitle_0030"
+msgstr "スキルゲージのためかた"
+
+msgid "TutorialPopupTitle_0031"
+msgstr "スキルの発動方法"
+
+msgid "TutorialPopupTitle_0032"
+msgstr "ぷちぐるの成長"
+
+msgid "TutorialPopupTitle_0033"
+msgstr "レベルアップの効果"
+
+msgid "TutorialPopupTitle_0034"
+msgstr "スコアを伸ばすコツ"
+
+msgid "TutorialPopupTitle_0035"
+msgstr "青以上のつながりで消そう"
+
+msgid "TutorialPopupTitle_0036"
+msgstr "ミッション"
+
+msgid "TutorialPopupTitle_0037"
+msgstr "ボムの使い方"
+
+msgid "TutorialPopupTitle_0038"
+msgstr "ボムの使い方"
+
+msgid "TutorialPopupTitle_0039"
+msgstr "ミッション"
+
+msgid "TutorialPopupTitle_0040"
+msgstr "ゴールドの集め方"
+
+msgid "TutorialPopupTitle_0041"
+msgstr "ミッション"
+
+msgid "TutorialPopupTitle_0042"
+msgstr "スコアを伸ばすコツ"
+
+msgid "TutorialPopupTitle_0043"
+msgstr "ミッション"
+
+msgid "TutorialPopupTitle_0053"
+msgstr "編成したぷちぐるの効果"
+
+msgid "TutorialPopupTitle_0055"
+msgstr "助っ人をフォローしてみよう"
+
+msgid "TutorialPopupTitle_0056"
+msgstr "ハートを送れるよ"
+
+msgid "TutorialPopupTitle_0057"
+msgstr "ハートを送ってみよう"
+
+msgid "TutorialPopupTitle_0058"
+msgstr "ハートを送るメリット"
+
+msgid "TutorialPopupTitle_0059"
+msgstr "ハートを送るメリット"
+
+msgid "TutorialPopupTitle_0060"
+msgstr "助っ人を選んでみよう"
+
+msgid "TutorialPopupTitle_0061"
+msgstr "ぷちぐるの強化"
+
+msgid "TutorialPopupTitle_0062"
+msgstr "レベル解放"
+
+msgid "TutorialPopupTitle_0063"
+msgstr "助っ人の設定"
+
+msgid "TutorialPopupTitle_0064"
+msgstr "助っ人に選ばれるメリット"
+
+msgid "TutorialPopupTitle_0065"
+msgstr "助っ人に選ばれるコツ"
+
+msgid "TutorialPopupTitle_0066"
+msgstr "アイテムが解放されたよ"
+
+msgid "TutorialPopupTitle_0067"
+msgstr "アイテムの効果を試してみよう"
+
+msgid "TutorialPopupTitle_0068"
+msgstr "チュートリアル突破おめでとう！"
+
+msgid "TutorialPopupTitle_0069"
+msgstr "ミッションモードとは？"
+
+msgid "TutorialPopupTitle_0070"
+msgstr "ぷちぐるスターを集めよう"
+
+msgid "TutorialPopupTitle_0071"
+msgstr "プレイしてみよう"
+
+msgid "TutorialPopupTitle_0072"
+msgstr "楽曲の入れ替え"
+
+msgid "TutorialPopupTitle_0073"
+msgstr "ミッションモードの遊び方"
+
+msgid "TutorialPopupTitle_0076"
+msgstr "さつえいモード解放！"
+
+msgid "TutorialPopupTitle_0077"
+msgstr "さつえいしてみよう"
+
+msgid "TutorialPopupTitle_0078"
+msgstr "さつえいモード解放！"
+
+msgid "TutorialPopupTitle_0079"
+msgstr "ぷちぐるを配置しよう"
+
+msgid "TutorialPopupTitle_0080"
+msgstr "配置した後の操作"
+
+msgid "TutorialPopupTitle_0081"
+msgstr "表情の変更"
+
+msgid "TutorialPopupTitle_0082"
+msgstr "読み込み機能"
+
+msgid "TutorialPopupTitle_0083"
+msgstr "イベントモード解放！"
+
+msgid "TutorialPopupTitle_0084"
+msgstr "新しいパズルモード解放！"
+
+msgid "TutorialPopupTitle_0085"
+msgstr "プレイしてみよう"
+
+msgid "TutorialPopupTitle_0086"
+msgstr "開催までしばらくお待ちください"
+
+msgid "TutorialPopupTitle_0088"
+msgstr "エリアをコンプリートしよう"
+
+msgid "TutorialPopupTitle_0089"
+msgstr "エリアコンプリート報酬"
+
+msgid "TutorialPopupTitle_0090"
+msgstr "スコアアタックモード解放！"
+
+msgid "TutorialPopupTitle_0091"
+msgstr "新しいパズルモード解放！"
+
+msgid "TutorialPopupTitle_0092"
+msgstr "プレイしてみよう"
+
+msgid "TutorialPopupTitle_0093"
+msgstr "スコアアタックモードの遊び方"
+
+msgid "TutorialPopupTitle_0094"
+msgstr "報酬一覧をチェックしよう"
+
+msgid "TutorialPopupTitle_0095"
+msgstr "ハイスコア目標と報酬"
+
+msgid "TutorialPopupTitle_0096"
+msgstr "友達とハイスコアを競争しよう"
+
+msgid "TutorialPopupTitle_0097"
+msgstr "合計スコア目標と報酬"
+
+msgid "TutorialPopupTitle_0098"
+msgstr "Twitter連携でさらに効果アップ"
+
+msgid "TutorialPopupTitle_0099"
+msgstr "シャッフルについて"
+
+msgid "TutorialPopupTitle_0100"
+msgstr "はじめに"
+
+msgid "TutorialPopupTitle_0101"
+msgstr "スコアアタックモードの特徴"
+
+msgid "TutorialPopupTitle_0102"
+msgstr "スクールアイドルショップ"
+
+msgid "TutorialPopupTitle_0103"
+msgstr "チーム編成"
+
+msgid "TutorialPopupTitle_0104"
+msgstr "カード強化"
+
+msgid "TutorialPopupTitle_0105"
+msgstr "カード進化"
+
+msgid "TutorialPopupTitle_0106"
+msgstr "メダル交換"
+
+msgid "TutorialPopupTitle_0107"
+msgstr "EXミッション解放！"
+
+msgid "TutorialPopupTitle_0108"
+msgstr "EXミッションについて"
+
+msgid "TutorialPopupTitle_0109"
+msgstr "プレイしてみよう"
+
+msgid "TutorialSubject_0000"
+msgstr "_"
+
+msgid "TutorialSubject_0001"
+msgstr "基本操作"
+
+msgid "TutorialSubject_0002"
+msgstr "長いつながりを作ろう"
+
+msgid "TutorialSubject_0003"
+msgstr "線の色の変化"
+
+msgid "TutorialSubject_0004"
+msgstr "ボムについて"
+
+msgid "TutorialSubject_0005"
+msgstr "ショータイムの発動方法"
+
+msgid "TutorialSubject_0006"
+msgstr "ショータイムの効果"
+
+msgid "TutorialSubject_0007"
+msgstr "基本操作はここまで！"
+
+msgid "TutorialSubject_0008"
+msgstr "ぷちぐるを手に入れよう"
+
+msgid "TutorialSubject_0009"
+msgstr "ガチャをひいてみよう"
+
+msgid "TutorialSubject_0010"
+msgstr "チームに編成してみよう"
+
+msgid "TutorialSubject_0011"
+msgstr "チーム編成のしかた"
+
+msgid "TutorialSubject_0014"
+msgstr "ぷちぐるブレードについて"
+
+msgid "TutorialSubject_0019"
+msgstr "編成したぷちぐるの効果"
+
+msgid "TutorialSubject_0020"
+msgstr "ぷちぐるの成長"
+
+msgid "TutorialSubject_0021"
+msgstr "長いつながりを作ろう"
+
+msgid "TutorialSubject_0022"
+msgstr "ボムをうまく使おう"
+
+msgid "TutorialSubject_0023"
+msgstr "ゴールドを集めよう"
+
+msgid "TutorialSubject_0024"
+msgstr "スコアを伸ばすコツ"
+
+msgid "TutorialSubject_0058"
+msgstr "ハートを送るメリット"
+
+msgid "TutorialSubject_0061"
+msgstr "ぷちぐるの強化"
+
+msgid "TutorialSubject_0063"
+msgstr "助っ人の設定"
+
+msgid "TutorialSubject_0073"
+msgstr "ミッションモードの遊び方"
+
+msgid "TutorialSubject_0079"
+msgstr "さつえいモードの遊び方"
+
+msgid "TutorialSubject_0093"
+msgstr "スコアアタックモードの遊び方"
+
+msgid "Tutorial_0000"
+msgstr "チュートリアル開始"
+
+msgid "Tutorial_0001"
+msgstr "チュートリアル終了"
+
+msgid "UIPopup_0000"
+msgstr "ポップアップテキスト"
+
+msgid "UIPopup_0001"
+msgstr "実績"
+
+msgid "UIPopup_0002"
+msgstr "名前{0}"
+
+msgid "UIPopup_0003"
+msgstr "効果：{0}"
+
+msgid "UIPopup_0004"
+msgstr "スケジュール"
+
+msgid "UIPopup_0005"
+msgstr "開催中の楽曲"
+
+msgid "UIPopup_0006"
+msgstr "開催予定の楽曲"
+
+msgid "UIPopup_0007"
+msgstr "yyyy年M月d日"
+
+msgid "UIPopup_0008"
+msgstr "購入確認"
+
+msgid "UIPopup_0009"
+msgstr "購入"
+
+msgid "UIPopup_0010"
+msgstr "スコア{0}達成！"
+
+msgid "UIPopup_0011_0000"
+msgstr "ログインボーナスゲット！"
+
+msgid "UIPopup_0011_0001"
+msgstr "誕生日ログインボーナスゲット！"
+
+msgid "UIPopup_0011_0002"
+msgstr "ログインボーナスゲット！"
+
+msgid "UIPopup_0011_0003"
+msgstr "100万DL記念ログインボーナスゲット！"
+
+msgid "UIPopup_0011_0004"
+msgstr "コラボ開催記念ログインボーナスゲット！"
+
+msgid "UIPopup_0012"
+msgstr "チケット交換確認"
+
+msgid "UIPopup_0013"
+msgstr "有効期限：{0:yyyy/M/d HH:mm:ss}"
+
+msgid "UIPopup_0014"
+msgstr "有効期限一覧"
+
+msgid "UIPopup_0015"
+msgstr "獲得{0}数"
+
+msgid "UnitEdit_0000"
+msgstr ""
+"チームが変更されています\n"
+"変更を保存せずに戻りますか？"
+
+msgid "UnitEdit_0001"
+msgstr "古い順"
+
+msgid "UnitEdit_0002"
+msgstr "新しい順"
+
+msgid "UnitEdit_0003"
+msgstr "高い順"
+
+msgid "UnitEdit_0004"
+msgstr "低い順"
+
+msgid "UnitEdit_0005"
+msgstr "衣装順"
+
+msgid "UnitEdit_0006"
+msgstr "レベル順"
+
+msgid "UnitEdit_0007"
+msgstr "スコア順"
+
+msgid "UnitEdit_0008"
+msgstr "スキルレベル順"
+
+msgid "UnitEdit_0009"
+msgstr "スコア {0}"
+
+msgid "UnitEdit_0010"
+msgstr "チーム名を入力してください"
+
+msgid "UnitEdit_0011"
+msgstr ""
+"チーム名は10文字以内で\n"
+"入力してください"
+
+msgid "UnitEdit_0012"
+msgstr ""
+"使用できない文字または、\n"
+"不適切な用語が含まれています"
+
+msgid "UnitEdit_0013"
+msgstr "編成中"
+
+msgid "UnitEdit_0014"
+msgstr "助っ人"
+
+msgid "UnitEdit_0015"
+msgstr "{0}年生"
+
+msgid "UnitEdit_0016"
+msgstr "レベル解放"
+
+msgid "UnitEdit_0017"
+msgstr "スキル強化"
+
+msgid "UnitEdit_0018"
+msgstr "絞りこみ・並び替え"
+
+msgid "UnitEdit_0019"
+msgstr "ゴールド不足"
+
+msgid "UnitEdit_0020"
+msgstr "メンバー絞り込み"
+
+msgid "UnitEdit_0021"
+msgstr "スキル絞り込み"
+
+msgid "UnitEdit_0022"
+msgstr "特技絞り込み"
+
+msgid "UnitEdit_0023"
+msgstr ""
+"髪色の近いぷちぐるが編成されています\n"
+"パズルで見分けにくい場合がありますが\n"
+"よろしいですか？"
+
+msgid "UnitEdit_0024"
+msgstr ""
+"チーム編成を決定しました\n"
+"編成中のぷちぐるがパズルに登場するよ"
+
+msgid "UnitEdit_0025"
+msgstr ""
+"フレンド使用ぷちぐるが変更されています\n"
+"変更を保存せずに戻りますか？"
+
+msgid "UnitEdit_0026"
+msgstr "フレンド使用ぷちぐるを決定しました"
+
+msgid "UnitEdit_0027"
+msgstr ""
+"チーム{0}の編成内容が変更されています\n"
+"変更を保存せずに戻りますか？"
+
+msgid "UnitEdit_0028"
+msgstr "チーム{0}"
+
+msgid "UnitEdit_0029"
+msgstr "あと{0}ぷち"
+
+msgid "UnitEdit_0030"
+msgstr "MAX"
+
+msgid "UnitEdit_0031"
+msgstr "レベル解放ができます"
+
+msgid "UnitEdit_0032"
+msgstr ""
+"チーム{0}の編成内容が変更されています\n"
+"変更を取り消しますか？"
+
+msgid "UnitEdit_0033"
+msgstr "助っ人の設定を変更しました"
+
+msgid "UnitEdit_0034"
+msgstr ""
+"{0}の新しい表情がさつえいモードで\n"
+"使えるようになりました"
+
+msgid "UnitEdit_0035"
+msgstr "{0}ボイス"
+
+msgid "UnitEdit_0036"
+msgstr "レベル強化"
+
+msgid "UnitName_1"
+msgstr "Printemps"
+
+msgid "UnitName_2"
+msgstr "BiBi"
+
+msgid "UnitName_3"
+msgstr "lily white"
+
+msgid "UnitName_4"
+msgstr "CYaRon！"
+
+msgid "UnitName_5"
+msgstr "AZALEA"
+
+msgid "UnitName_6"
+msgstr "Guilty Kiss"
+
+msgid "UrlLegalName_0000"
+msgstr "サービス利用規約"
+
+msgid "UrlLegalName_0001"
+msgstr "ジュエル利用規約"
+
+msgid "UrlLegalName_0002"
+msgstr "プライバシーポリシー"
+
+msgid "UrlLegalName_0003"
+msgstr "個人情報保護方針"
+
+msgid "UrlLegalName_0004"
+msgstr "運営方針"
+
+msgid "UrlLegalName_0005"
+msgstr "ライセンス"
+
+msgid "UrlLegalName_0006"
+msgstr "資金決済法/特定商取引法に基づく表示"
+
+msgid "UrlName_0000"
+msgstr "お知らせ"
+
+msgid "UrlName_0001"
+msgstr "利用規約"
+
+msgid "UrlName_0002"
+msgstr "ヘルプ"
+
+msgid "UrlName_0003"
+msgstr "ヘルプ"
+
+msgid "UrlName_0004"
+msgstr "ヘルプ"
+
+msgid "UrlName_0005"
+msgstr "お知らせ"
+
+msgid "Url_0000"
+msgstr "/web/notice/notice_list?userId={0}&platform={1}&noticeType={2}"
+
+msgid "Url_0001"
+msgstr "/web/legal_document?legalDocumentCategory={0}"
+
+msgid "Url_0002"
+msgstr "/web/help/"
+
+msgid "Url_0003"
+msgstr "/web/help/help_list?helpGroupId={0}"
+
+msgid "Url_0004"
+msgstr "/web/help/help_detail?helpName={0}"
+
+msgid "Url_0005"
+msgstr "/web/notice/notice_info?notice_id={0}"
+
+msgid "Url_Apple"
+msgstr ""
+"https://itunes.apple.com/jp/app/%E3%81%B7%E3%81%A1%E3%81%90%E3%82%8B"
+"%E3%83%A9%E3%83%96%E3%83%A9%E3%82%A4%E3%83%96/id1273636724?l=ja&ls=1&mt=8"
+
+msgid "Url_Google"
+msgstr "https://play.google.com/store/apps/details?id=jp.co.pokelabo.puchiguru"
+
+msgid "dummy_00001"
+msgstr ""
+"催消塊月編絞・並替★☆放今助技覧酬交換連携索枚項表解標準基操号招流点計色伸集楽"
+"曲衣装"
+
+msgid "message_Id0001"
+msgstr "はい"
+
+msgid "message_Id0002"
+msgstr "いいえ"
+
+msgid "message_Id0180"
+msgstr "ランク{0}"
+
+msgid "message_Id0181"
+msgstr "{0}のダウンロードに失敗しました"
