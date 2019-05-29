@@ -1,0 +1,2 @@
+# puchiguru-translations
+Puchiguru translations
