@@ -186,7 +186,7 @@ msgid "CardSell_0006"
 msgstr "선택한 {0}장의 카드를 교환합니다"
 
 msgid "CardSell_0007"
-msgstr "選択したカードをメダルに交換できます"
+msgstr "선택한 카드를 메달로 교환할 수 있습니다"
 
 msgid "CardSell_0008"
 msgstr "選択中"
