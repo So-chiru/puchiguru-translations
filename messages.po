@@ -201,103 +201,103 @@ msgid "CardSell_0011"
 msgstr "선택 매수는 최대 (10장) 입니다"
 
 msgid "CardSkill_0001"
-msgstr "퍼즐 개시 시간"
+msgstr "퍼즐 개시 시"
 
 msgid "CardSkill_0002"
 msgstr "{0}초 남음"
 
 msgid "CardSkill_0003"
-msgstr "퍼즐 종료 시간"
+msgstr "퍼즐 종료 시"
 
 msgid "CardSkill_0004"
-msgstr "{0}点"
+msgstr "{0}점"
 
 msgid "CardSkill_0005"
-msgstr "{0}ゴールド"
+msgstr "{0}골드"
 
 msgid "CardSkill_0006"
-msgstr "{0}コンボ"
+msgstr "{0}콤보"
 
 msgid "CardSkill_0007"
-msgstr "{0}回目"
+msgstr "{0}회"
 
 msgid "CardSkill_0008"
-msgstr "{0}個目"
+msgstr "{0}개"
 
 msgid "CardSkill_0009"
 msgstr "{0}%"
 
 msgid "CardSkill_0010"
-msgstr "{0}秒"
+msgstr "{0}초"
 
 msgid "CardSkill_0011"
-msgstr "ぷち{0}個分"
+msgstr "푸치 {0}개"
 
 msgid "CardSkill_0012"
-msgstr "スコアUP"
+msgstr "스코어 UP"
 
 msgid "CardSkill_0013"
-msgstr "ゴールドUP"
+msgstr "골드 UP"
 
 msgid "CardSkill_0014"
-msgstr "プレイ時間UP"
+msgstr "플레이 시간 UP"
 
 msgid "CardSkill_0015"
-msgstr "スキルゲージUP"
+msgstr "스킬 게이지 UP"
 
 msgid "CardSkill_0016"
-msgstr "ショータイムUP"
+msgstr "쇼 타임 UP"
 
 msgid "CardSkill_0017"
-msgstr "スキルなし"
+msgstr "스킬 없음"
 
 msgid "CardStrength_0001"
-msgstr "カード強化"
+msgstr "카드 강화"
 
 msgid "CardStrength_0002"
-msgstr "選択した{0}枚のカードを使って強化します"
+msgstr "선택한 {0}장의 카드를 사용하여 강화합니다"
 
 msgid "CardStrength_0003"
-msgstr "★3以上のカードが含まれています"
+msgstr "★3 이상의 카드가 포함되어 있습니다"
 
 msgid "CardStrength_0004"
-msgstr "強化済みのカードが選択されています"
+msgstr "강화된 카드가 선택되어 있습니다"
 
 msgid "CardStrength_0005"
-msgstr "本当によろしいですか？"
+msgstr "정말 괜찮습니까？"
 
 msgid "CardStrength_0006"
-msgstr "強化"
+msgstr "강화"
 
 msgid "CardStrength_0007"
-msgstr "強化する"
+msgstr "강화하기"
 
 msgid "CardStrength_0008"
-msgstr "現在選択中の素材で最大レベルに到達します"
+msgstr "현재 선택 중인 소재로 최대 레벨에 도달합니다"
 
 msgid "CardStrength_0009"
-msgstr "強化のベースにするカードが選択されていません"
+msgstr "강화의 베이스로 할 카드가 선택되어 있지 않습니다"
 
 msgid "CardStrength_0010"
-msgstr "強化の素材にするカードが選択されていません"
+msgstr "강화 소재로 할 카드가 선택되어 있지 않습니다"
 
 msgid "CardStrength_0011"
-msgstr "強化の素材にするカードの中に保護中のカードが含まれています"
+msgstr "강화의 소재로 하는 카드 중에 보호중인 카드가 포함되어 있습니다"
 
 msgid "CardStrength_0012"
-msgstr "強化確認"
+msgstr "강화 확인"
 
 msgid "CardStrength_0013"
-msgstr "現在選択中の素材で最大レベルに到達します"
+msgstr "현재 선택 중인 소재로 최대 레벨에 도달합니다"
 
 msgid "CardStrength_0014"
-msgstr "{0}個の{1}を使って強化します"
+msgstr "{0}개의 {1}을(를) 사용하여 강화합니다"
 
 msgid "CardStrength_0015"
-msgstr "Lv上限を超える分のEXPは無効になります"
+msgstr "Lv상한을 초과한 만큼의 EXP는 무효가 됩니다"
 
 msgid "CardTeamEdit_0001"
-msgstr "スペシャルスキルはリーダーしか設定できません"
+msgstr "스페셜 스킬은 리더밖에 설정할 수 없습니다"
 
 msgid "CardTeamEdit_0002"
 msgstr "同じカードがあるためセットできません"
