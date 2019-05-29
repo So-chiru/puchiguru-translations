@@ -183,7 +183,7 @@ msgid "CardSell_0005"
 msgstr "교환 확인"
 
 msgid "CardSell_0006"
-msgstr "選択した{0}枚のカードを交換します"
+msgstr "선택한 {0}장의 카드를 교환합니다"
 
 msgid "CardSell_0007"
 msgstr "選択したカードをメダルに交換できます"
