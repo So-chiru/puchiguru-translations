@@ -189,25 +189,25 @@ msgid "CardSell_0007"
 msgstr "선택한 카드를 메달로 교환할 수 있습니다"
 
 msgid "CardSell_0008"
-msgstr "選択中"
+msgstr "선택 중"
 
 msgid "CardSell_0009"
-msgstr "交換する"
+msgstr "교환하기"
 
 msgid "CardSell_0010"
-msgstr "メダルの所持数が上限に達したため交換できません"
+msgstr "메달 소지수가 상한에 달하여 교환이 불가능합니다"
 
 msgid "CardSell_0011"
-msgstr "選択枚数が最大(10枚)です"
+msgstr "선택 매수는 최대 (10장) 입니다"
 
 msgid "CardSkill_0001"
-msgstr "パズル開始時"
+msgstr "퍼즐 개시 시간"
 
 msgid "CardSkill_0002"
-msgstr "残り{0}秒"
+msgstr "{0}초 남음"
 
 msgid "CardSkill_0003"
-msgstr "パズル終了時"
+msgstr "퍼즐 종료 시간"
 
 msgid "CardSkill_0004"
 msgstr "{0}点"
