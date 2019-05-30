@@ -579,19 +579,19 @@ msgid "Common_Stop"
 msgstr "퍼즐 그만두기"
 
 msgid "Common_Times"
-msgstr "{0}回"
+msgstr "{0}회"
 
 msgid "Common_Umi"
-msgstr "園田海未"
+msgstr "소노다 우미"
 
 msgid "Common_Yes"
-msgstr "はい"
+msgstr "네"
 
 msgid "Common_Yoshiko"
-msgstr "津島善子"
+msgstr "츠시마 요시코"
 
 msgid "Common_You"
-msgstr "渡辺曜"
+msgstr "와타나베 요우"
 
 msgid "Common_yyMMdd"
 msgstr "yyyy/M/d"
