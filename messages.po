@@ -772,8 +772,8 @@ msgstr "セガコラボ"
 
 msgid "DailyMission_NotReceive"
 msgstr ""
-"日付が変わったため受け取れませんでした\n"
-"タイトルに戻ります"
+"날짜가 바뀌어서 받지 못했습니다\n"
+"타이틀로 돌아갑니다"
 
 msgid "DateTime_0000"
 msgstr "あと{0}日"
