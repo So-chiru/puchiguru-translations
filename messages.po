@@ -411,7 +411,7 @@ msgid "CollectionBookFilter_002"
 msgstr "소지 카드만"
 
 msgid "CollectionBookFilter_003"
-msgstr "完全一致のみ"
+msgstr "완전 일치만"
 
 msgid "Common_10k"
 msgstr "{0}万"
