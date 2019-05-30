@@ -414,46 +414,46 @@ msgid "CollectionBookFilter_003"
 msgstr "완전 일치만"
 
 msgid "Common_10k"
-msgstr "{0}万"
+msgstr "{0}만"
 
 msgid "Common_10m"
-msgstr "{0}億"
+msgstr "{0}억"
 
 msgid "Common_Back"
-msgstr "戻る"
+msgstr "뒤로"
 
 msgid "Common_BiBi"
 msgstr "BiBi"
 
 msgid "Common_Buy"
-msgstr "購入"
+msgstr "구입"
 
 msgid "Common_Cancel"
-msgstr "キャンセル"
+msgstr "취소"
 
 msgid "Common_Chika"
-msgstr "高海千歌"
+msgstr "타카미 치카"
 
 msgid "Common_Close"
-msgstr "とじる"
+msgstr "닫기"
 
 msgid "Common_Continue"
-msgstr "続ける"
+msgstr "계속"
 
 msgid "Common_Decide"
-msgstr "決定"
+msgstr "결정"
 
 msgid "Common_Default"
-msgstr "デフォルト"
+msgstr "디폴트"
 
 msgid "Common_Dia"
-msgstr "黒澤ダイヤ"
+msgstr "쿠로사와 다이아"
 
 msgid "Common_Erank"
-msgstr "Rank{0}"
+msgstr "랭크{0}"
 
 msgid "Common_Eri"
-msgstr "絢瀬絵里"
+msgstr "아야세 에리"
 
 msgid "Common_FreeJewel"
 msgstr "無償ジュエル"
