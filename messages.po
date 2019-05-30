@@ -456,37 +456,37 @@ msgid "Common_Eri"
 msgstr "아야세 에리"
 
 msgid "Common_FreeJewel"
-msgstr "無償ジュエル"
+msgstr "무상 쥬얼"
 
 msgid "Common_Hanamaru"
-msgstr "国木田花丸"
+msgstr "쿠니키다 하나마루"
 
 msgid "Common_Hanayo"
-msgstr "小泉花陽"
+msgstr "코이즈미 하나요"
 
 msgid "Common_Hback"
-msgstr "もどる"
+msgstr "뒤로"
 
 msgid "Common_Hnum"
-msgstr "{0}個"
+msgstr "{0}개"
 
 msgid "Common_Home"
-msgstr "ホーム"
+msgstr "홈"
 
 msgid "Common_Honoka"
-msgstr "高坂穂乃果"
+msgstr "코사카 호노카"
 
 msgid "Common_Kanan"
-msgstr "松浦果南"
+msgstr "마츠우라 카난"
 
 msgid "Common_Kotori"
-msgstr "南ことり"
+msgstr "미나미 코토리"
 
 msgid "Common_L"
 msgstr "L"
 
 msgid "Common_LilyWhite"
-msgstr "lily White"
+msgstr "Lily White"
 
 msgid "Common_Lv"
 msgstr "Lv{0}"
@@ -498,28 +498,28 @@ msgid "Common_MMdd"
 msgstr "M/d"
 
 msgid "Common_Maki"
-msgstr "西木野真姫"
+msgstr "니시키노 마키"
 
 msgid "Common_Mari"
-msgstr "小原鞠莉"
+msgstr "오하라 마리"
 
 msgid "Common_Member"
-msgstr "メンバー"
+msgstr "멤버"
 
 msgid "Common_Menu"
-msgstr "メニュー"
+msgstr "메뉴"
 
 msgid "Common_Niko"
-msgstr "矢澤にこ"
+msgstr "야자와 니코"
 
 msgid "Common_No"
-msgstr "いいえ"
+msgstr "아니요"
 
 msgid "Common_Nozomi"
-msgstr "東條希"
+msgstr "토죠 노조미"
 
 msgid "Common_Num"
-msgstr "{0}個"
+msgstr "{0}개"
 
 msgid "Common_Off"
 msgstr "OFF"
@@ -531,13 +531,13 @@ msgid "Common_On"
 msgstr "ON"
 
 msgid "Common_Open"
-msgstr "公開"
+msgstr "공개"
 
 msgid "Common_Others"
-msgstr "その他"
+msgstr "기타"
 
 msgid "Common_PaidJewel"
-msgstr "有償ジュエル"
+msgstr "유상 쥬얼"
 
 msgid "Common_Pers"
 msgstr "{0}%"
@@ -546,37 +546,37 @@ msgid "Common_Printemps"
 msgstr "Printemps"
 
 msgid "Common_Quit"
-msgstr "ゲームを終了しますか？"
+msgstr "게임을 종료하시겠습니까?"
 
 msgid "Common_Rank"
-msgstr "ランク{0}"
+msgstr "랭크{0}"
 
 msgid "Common_Riko"
-msgstr "桜内梨子"
+msgstr "사쿠라우치 리코"
 
 msgid "Common_Rin"
-msgstr "星空凛"
+msgstr "호시조라 린"
 
 msgid "Common_Ruby"
-msgstr "黒澤ルビィ"
+msgstr "쿠로사와 루비"
 
 msgid "Common_Save"
-msgstr "保存"
+msgstr "저장"
 
 msgid "Common_Second"
-msgstr "{0}秒"
+msgstr "{0}초"
 
 msgid "Common_Secret"
-msgstr "非公開"
+msgstr "비공개"
 
 msgid "Common_Settings"
-msgstr "設定"
+msgstr "설정"
 
 msgid "Common_Skill"
-msgstr "スキル"
+msgstr "스킬"
 
 msgid "Common_Stop"
-msgstr "パズルをやめる"
+msgstr "퍼즐 그만두기"
 
 msgid "Common_Times"
 msgstr "{0}回"
