@@ -300,115 +300,115 @@ msgid "CardTeamEdit_0001"
 msgstr "스페셜 스킬은 리더밖에 설정할 수 없습니다"
 
 msgid "CardTeamEdit_0002"
-msgstr "同じカードがあるためセットできません"
+msgstr "같은 카드가 있기 때문에 세팅할 수 없습니다"
 
 msgid "CardTeamEdit_0003"
-msgstr "すでにスペシャルスキルが設定されています"
+msgstr "스페셜 스킬이 이미 설정되어 있습니다"
 
 msgid "CardTeamEdit_0004"
-msgstr "カードがいっぱいのため設定できません"
+msgstr "카드가 너무 많아 설정할 수 없습니다"
 
 msgid "Card_0001"
-msgstr "レア度順"
+msgstr "레어도순"
 
 msgid "Card_0002"
-msgstr "入手順"
+msgstr "입수 순서"
 
 msgid "Card_0003"
-msgstr "カードスキル"
+msgstr "카드 스킬"
 
 msgid "Card_0004"
-msgstr "スペシャルスキル"
+msgstr "스페셜 스킬"
 
 msgid "Card_0005"
-msgstr "カード所持数"
+msgstr "카드 소지수"
 
 msgid "Card_0006"
-msgstr "クールタイム"
+msgstr "쿨타임"
 
 msgid "Card_0007"
-msgstr "編成ぷちぐると一致メンバーのみ"
+msgstr "편성 푸치구루 일치 멤버 카드만"
 
 msgid "Card_0008"
-msgstr "素材のみ"
+msgstr "소재 카드만"
 
 msgid "Card_0009"
-msgstr "スペシャルスキルもちのみ"
+msgstr "스페셜 스킬 보유 카드만"
 
 msgid "Card_0010"
-msgstr "レベル1のみ"
+msgstr "레벨 1 카드만"
 
 msgid "Card_0011"
-msgstr "未進化カード"
+msgstr "미진화 카드"
 
 msgid "Card_0012"
-msgstr "進化済カード"
+msgstr "진화 완료 카드"
 
 msgid "Card_0013"
-msgstr "カードスキル絞り込み"
+msgstr "카드 스킬 검색"
 
 msgid "Card_0014"
-msgstr "カードスキル一覧"
+msgstr "카드 스킬 목록"
 
 msgid "Card_0015"
 msgstr "★{0}"
 
 msgid "Card_0016"
-msgstr "選択解除"
+msgstr "선택 해제"
 
 msgid "Card_0017"
-msgstr "カード所持数上限拡張"
+msgstr "카드 소지수 상한 확장"
 
 msgid "Card_0018"
 msgstr ""
-"{0}ジュエルを消費してカードの所持数の\n"
-"上限を{1}つ増やすことができます"
+"{0}쥬얼을 소비하여 카드 소지수\n"
+"상한을 {1}개 늘릴 수 있습니다"
 
 msgid "Card_0019"
-msgstr "現在の所持上限"
+msgstr "현재 소지 상한"
 
 msgid "Card_0020"
-msgstr "拡張後"
+msgstr "확장 후"
 
 msgid "Card_0021"
-msgstr "拡張"
+msgstr "확장"
 
 msgid "Card_0022"
 msgstr ""
-"この内容でジュエルを消費します\n"
-"よろしいですか？"
+"이 내용으로 쥬얼을 소비합니다\n"
+"괜찮습니까?"
 
 msgid "Card_0023"
-msgstr "ジュエルでカード所持数の上限を増やしました"
+msgstr "쥬얼로 카드 소지수의 상한을 늘렸습니다"
 
 msgid "Card_0024"
-msgstr "同じカード名のカードは複数編成できません"
+msgstr "같은 카드명의 카드는 여러 개 편성할 수 없습니다"
 
 msgid "CerealCode_0001"
-msgstr "シリアルコード"
+msgstr "시리얼 코드"
 
 msgid "CerealCode_0002"
 msgstr ""
-"入力内容に誤りがあるか\n"
-"既に使用済みのシリアルコードです"
+"입력 내용에 문제가 있거나\n"
+"이미 사용이 끝난 시리얼 코드입니다"
 
 msgid "CerealCode_0003"
-msgstr "入力内容に誤りがあります"
+msgstr "입력 내용에 오류가 있습니다"
 
 msgid "ClassName_1"
-msgstr "1年生"
+msgstr "1학년"
 
 msgid "ClassName_2"
-msgstr "2年生"
+msgstr "2학년"
 
 msgid "ClassName_3"
-msgstr "3年生"
+msgstr "3학년"
 
 msgid "CollectionBookFilter_001"
-msgstr "カード絞り込み"
+msgstr "카드 검색"
 
 msgid "CollectionBookFilter_002"
-msgstr "所持カードのみ"
+msgstr "소지 카드만"
 
 msgid "CollectionBookFilter_003"
 msgstr "完全一致のみ"
