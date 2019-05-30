@@ -738,7 +738,7 @@ msgid "Copyright_Sanrio_98"
 msgstr "©'98,'18 SANRIOⒽ"
 
 msgid "CostumeName_10001"
-msgstr "音ノ木坂学院 冬制服"
+msgstr "오토노키자가 학원 동복"
 
 msgid "CostumeName_10002"
 msgstr "僕らは今のなかで"
