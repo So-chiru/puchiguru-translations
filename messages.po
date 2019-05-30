@@ -603,10 +603,10 @@ msgid "Common_yyMMdd_w_hhmm"
 msgstr "yyyy/M/d(ddd) hh:mm"
 
 msgid "Contact_0000"
-msgstr "【ぷちぐるラブライブ！】アプリお問い合わせ[プレイヤーID：{0}]"
+msgstr "【푸치구루 러브라이브!】앱 문의 [플레이어 ID：{0}]"
 
 msgid "Contact_0001"
-msgstr "プレイヤー名：{0}"
+msgstr "플레이어 이름：{0}"
 
 msgid "Contact_0002"
 msgstr "プレイヤーID：{0}"
