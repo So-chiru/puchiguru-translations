@@ -741,34 +741,34 @@ msgid "CostumeName_10001"
 msgstr "오토노키자가 학원 동복"
 
 msgid "CostumeName_10002"
-msgstr "僕らは今のなかで"
+msgstr "Bokura wa Ima no Naka de"
 
 msgid "CostumeName_10003"
 msgstr "Snow halation"
 
 msgid "CostumeName_10004"
-msgstr "それは僕たちの奇跡"
+msgstr "Sore wa Bokutachi no Kiseki"
 
 msgid "CostumeName_11003"
-msgstr "ぽかぽかピクニック（仮）"
+msgstr "따끈 따끈 피크닉（미정）"
 
 msgid "CostumeName_20001"
-msgstr "浦の星女学院 冬制服"
+msgstr "우라노호시 여학원 동복"
 
 msgid "CostumeName_20002"
-msgstr "青空Jumping Heart"
+msgstr "Aozora Jumping Heart"
 
 msgid "CostumeName_20003"
 msgstr "HAPPY PARTY TRAIN"
 
 msgid "CostumeName_20004"
-msgstr "未来の僕らは知ってるよ"
+msgstr "Mirai no Bokura wa Shitteru yo"
 
 msgid "CostumeName_21002"
-msgstr "チョコレートパーティー"
+msgstr "초콜릿 파티"
 
 msgid "CostumeName_90001"
-msgstr "セガコラボ"
+msgstr "SEGA 콜라보"
 
 msgid "DailyMission_NotReceive"
 msgstr ""
@@ -2064,7 +2064,7 @@ msgid "MissionData_0001"
 msgstr "TODO マスターデータがない"
 
 msgid "MissionData_0002"
-msgstr "あと{0}"
+msgstr "앞으로 {0}"
 
 msgid "MissionData_0003"
 msgstr "万点"
@@ -2136,58 +2136,58 @@ msgid "MissionDesignation_Skill"
 msgstr "{0}/{1}回"
 
 msgid "MusicName_10002001"
-msgstr "僕らは今のなかで"
+msgstr "Bokura wa Ima no Naka de"
 
 msgid "MusicName_10003001"
 msgstr "Snow halation"
 
 msgid "MusicName_10004001"
-msgstr "それは僕たちの奇跡"
+msgstr "Sore wa Bokutachi no Kiseki"
 
 msgid "MusicName_20002001"
-msgstr "青空Jumping Heart"
+msgstr "Aozora Jumping Heart"
 
 msgid "MusicName_20002999"
-msgstr "チュートリアル"
+msgstr "튜토리얼"
 
 msgid "MusicName_20003001"
 msgstr "HAPPY PARTY TRAIN"
 
 msgid "MusicName_20004001"
-msgstr "未来の僕らは知ってるよ"
+msgstr "Mirai no Bokura wa Shitteru yo"
 
 msgid "MusicTitle_10002001"
-msgstr "僕らは今のなかで"
+msgstr "Bokura wa Ima no Naka de"
 
 msgid "MusicTitle_10003001"
 msgstr "Snow halation"
 
 msgid "MusicTitle_10004001"
-msgstr "それは僕たちの奇跡"
+msgstr "Sore wa Bokutachi no Kiseki"
 
 msgid "MusicTitle_10005001"
-msgstr "僕らのLIVE 君とのLIFE"
+msgstr "Bokura no LIVE Kimi to no LIFE"
 
 msgid "MusicTitle_10006001"
-msgstr "夏色えがおで1,2,Jump!"
+msgstr "Natsuiro Egao de 1,2,Jump!"
 
 msgid "MusicTitle_10007001"
 msgstr "Dancing stars on me!"
 
 msgid "MusicTitle_10008001"
-msgstr "タカラモノズ"
+msgstr "Takaramonos"
 
 msgid "MusicTitle_20002001"
-msgstr "青空Jumping Heart"
+msgstr "Aozora Jumping Heart"
 
 msgid "MusicTitle_20002999"
-msgstr "チュートリアル"
+msgstr "튜토리얼"
 
 msgid "MusicTitle_20003001"
 msgstr "HAPPY PARTY TRAIN"
 
 msgid "MusicTitle_20004001"
-msgstr "未来の僕らは知ってるよ"
+msgstr "Mirai no Bokura wa Shitteru yo"
 
 msgid "MusicTitle_20005001"
 msgstr "WATER BLUE NEW WORLD"
@@ -2196,7 +2196,7 @@ msgid "MusicTitle_20006001"
 msgstr "Thank you, FRIENDS!!"
 
 msgid "MusicTitle_20007001"
-msgstr "ジングルベルがとまらない"
+msgstr "Jingle Bells ga Tomaranai"
 
 msgid "MusicTitle_20008001"
 msgstr "Hop? Stop? Nonstop!"
