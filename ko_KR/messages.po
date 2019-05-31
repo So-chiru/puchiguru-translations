@@ -1029,72 +1029,72 @@ msgstr ""
 
 msgid "Friend_0015"
 msgstr ""
-"Twitter連携検索結果\n"
+"Twitter를 사용하여 검색 연락\n"
 "<size=20>(</size><size=28>{0}</size><size=20>人)</size>"
 
 msgid "Friend_0016"
-msgstr "招待"
+msgstr "초대"
 
 msgid "Friend_0017"
-msgstr "Twitter連携検索"
+msgstr "Twitter를 사용하여 검색"
 
 msgid "Friend_0018"
-msgstr "並び替え"
+msgstr "정렬"
 
 msgid "Friend_0019"
 msgstr ""
-"表示されているユーザーを\n"
-"一括フォローしますか？"
+"표시된 유저들을\n"
+"모두 팔로우 하시겠습니까?"
 
 msgid "Friend_0020"
-msgstr "ユーザーをフォローしました"
+msgstr "유저를 팔로우 했습니다"
 
 msgid "Friend_0021"
-msgstr "ユーザーをフォローできませんでした"
+msgstr "유저를 팔로우 하지 못했습니다"
 
 msgid "Friend_0022"
 msgstr ""
-"フォローリスト\n"
-"<size=20>(</size><size=28>{0}</size><size=20>/100人)</size>"
+"팔로우 리스트\n"
+"<size=20>(</size><size=28>{0}</size><size=20>/100명)</size>"
 
 msgid "Friend_0023"
-msgstr "{0}/{1}人"
+msgstr "{0}/{1}명"
 
 msgid "Friend_0024"
-msgstr "{0}人"
+msgstr "{0}명"
 
 msgid "Friend_0025"
 msgstr ""
-"招待URLをクリックして\n"
-"アプリを起動しました\n"
+"초대 URL을 클릭해서\n"
+"앱을 실행했습니다\n"
 "\n"
-"招待者のIDを検索しますか？"
+"초대자의 ID를 검색하시겠습니까?"
 
 msgid "Friend_0026"
-msgstr "ハートを送りました"
+msgstr "하트를 보냈습니다"
 
 msgid "Friend_0027"
-msgstr "一括でフォローしますか？"
+msgstr "모두 팔로우 하시겠습니까?"
 
 msgid "Friend_0028"
-msgstr "合計{0}人をフォローしました"
+msgstr "합계 {0}명을 팔로우 했습니다"
 
 msgid "Friend_0029"
 msgstr ""
-"相手にハートをプレゼントします\n"
-"※24時間に1回送ることができます"
+"상대방에게 하트를 선물합니다\n"
+"※24시간에 1회 보낼 수 있습니다"
 
 msgid "Friend_0030"
-msgstr "招待"
+msgstr "초대"
 
 msgid "Friend_0031"
 msgstr "https://fusk.adj.st/?adjust_t=76f9to"
 
 msgid "Friend_0032"
-msgstr "スコアアタック"
+msgstr "스코어 어택"
 
 msgid "Friend_0033"
-msgstr "ハイスコア"
+msgstr "하이스코어"
 
 msgid "Friend_Ascending_LastPlayTime"
 msgstr "古い順"
