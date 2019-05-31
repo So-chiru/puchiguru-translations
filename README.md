@@ -4,7 +4,7 @@ Un-official translation repo on r/Puchiguru Discord.
 
 ## Getting .mo files to build APK
 
-Thanks to CI, convertation of .po to .mo file is available on [here](https://circleci.com/gh/So-chiru/puchiguru-translations/).
+Thanks to CI, convertation of .po to .mo file is available on [here](https://circleci.com/gh/So-chiru/puchiguru-translations/). (Select the latest workflow and click "Artifacts")
 
 ## Contributions
 
