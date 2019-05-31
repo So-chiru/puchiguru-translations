@@ -6479,10 +6479,10 @@ msgid "UIPopup_0007"
 msgstr "yyyy年M月d日"
 
 msgid "UIPopup_0008"
-msgstr "購入確認"
+msgstr "구입 확인"
 
 msgid "UIPopup_0009"
-msgstr "購入"
+msgstr "구입"
 
 msgid "UIPopup_0010"
 msgstr "スコア{0}達成！"
@@ -6491,22 +6491,22 @@ msgid "UIPopup_0011_0000"
 msgstr "ログインボーナスゲット！"
 
 msgid "UIPopup_0011_0001"
-msgstr "誕生日ログインボーナスゲット！"
+msgstr "생일 로그인 보너스 획득!"
 
 msgid "UIPopup_0011_0002"
-msgstr "ログインボーナスゲット！"
+msgstr "로그인 보너스 획득!"
 
 msgid "UIPopup_0011_0003"
-msgstr "100万DL記念ログインボーナスゲット！"
+msgstr "100만 다운로드 기념 로그인 보너스 획득!"
 
 msgid "UIPopup_0011_0004"
-msgstr "コラボ開催記念ログインボーナスゲット！"
+msgstr "콜라보 개최 기념 로그인 보너스 획득!"
 
 msgid "UIPopup_0012"
-msgstr "チケット交換確認"
+msgstr "티켓 교환 확인"
 
 msgid "UIPopup_0013"
-msgstr "有効期限：{0:yyyy/M/d HH:mm:ss}"
+msgstr "유효 기간 : {0:yyyy/M/d HH:mm:ss}"
 
 msgid "UIPopup_0014"
 msgstr "有効期限一覧"
@@ -6520,31 +6520,31 @@ msgstr ""
 "変更を保存せずに戻りますか？"
 
 msgid "UnitEdit_0001"
-msgstr "古い順"
+msgstr "오래된 순"
 
 msgid "UnitEdit_0002"
-msgstr "新しい順"
+msgstr "신규 순"
 
 msgid "UnitEdit_0003"
-msgstr "高い順"
+msgstr "높은 순"
 
 msgid "UnitEdit_0004"
-msgstr "低い順"
+msgstr "낮은 순"
 
 msgid "UnitEdit_0005"
-msgstr "衣装順"
+msgstr "의상 순"
 
 msgid "UnitEdit_0006"
-msgstr "レベル順"
+msgstr "레벨 순"
 
 msgid "UnitEdit_0007"
-msgstr "スコア順"
+msgstr "스코어 순"
 
 msgid "UnitEdit_0008"
-msgstr "スキルレベル順"
+msgstr "스킬 레벨 순"
 
 msgid "UnitEdit_0009"
-msgstr "スコア {0}"
+msgstr "스코어 {0}"
 
 msgid "UnitEdit_0010"
 msgstr "チーム名を入力してください"
@@ -6614,10 +6614,10 @@ msgstr ""
 "変更を保存せずに戻りますか？"
 
 msgid "UnitEdit_0028"
-msgstr "チーム{0}"
+msgstr "팀 {0}"
 
 msgid "UnitEdit_0029"
-msgstr "あと{0}ぷち"
+msgstr "앞으로 {0}푸치"
 
 msgid "UnitEdit_0030"
 msgstr "MAX"
@@ -6627,22 +6627,22 @@ msgstr "レベル解放ができます"
 
 msgid "UnitEdit_0032"
 msgstr ""
-"チーム{0}の編成内容が変更されています\n"
-"変更を取り消しますか？"
+"팀 {0}의 구성이 변경되어 있습니다.\n"
+"변경을 취소할까요?"
 
 msgid "UnitEdit_0033"
-msgstr "助っ人の設定を変更しました"
+msgstr "용병의 설정을 변경했습니다"
 
 msgid "UnitEdit_0034"
 msgstr ""
-"{0}の新しい表情がさつえいモードで\n"
-"使えるようになりました"
+"{0}의 새로운 표정을 촬영 모드에서\n"
+"사용할 수 있습니다"
 
 msgid "UnitEdit_0035"
-msgstr "{0}ボイス"
+msgstr "{0} 보이스"
 
 msgid "UnitEdit_0036"
-msgstr "レベル強化"
+msgstr "레벨 강화"
 
 msgid "UnitName_1"
 msgstr "Printemps"
@@ -6663,43 +6663,43 @@ msgid "UnitName_6"
 msgstr "Guilty Kiss"
 
 msgid "UrlLegalName_0000"
-msgstr "サービス利用規約"
+msgstr "서비스 이용 약관"
 
 msgid "UrlLegalName_0001"
-msgstr "ジュエル利用規約"
+msgstr "쥬얼 이용 약관"
 
 msgid "UrlLegalName_0002"
-msgstr "プライバシーポリシー"
+msgstr "개인정보 처리방침"
 
 msgid "UrlLegalName_0003"
 msgstr "個人情報保護方針"
 
 msgid "UrlLegalName_0004"
-msgstr "運営方針"
+msgstr "운영 방침"
 
 msgid "UrlLegalName_0005"
-msgstr "ライセンス"
+msgstr "라이센스"
 
 msgid "UrlLegalName_0006"
-msgstr "資金決済法/特定商取引法に基づく表示"
+msgstr "일본 내 자금 결제법 / 특정상거래에 관한 법률"
 
 msgid "UrlName_0000"
-msgstr "お知らせ"
+msgstr "안내 사항"
 
 msgid "UrlName_0001"
-msgstr "利用規約"
+msgstr "이용 약관"
 
 msgid "UrlName_0002"
-msgstr "ヘルプ"
+msgstr "도움말"
 
 msgid "UrlName_0003"
-msgstr "ヘルプ"
+msgstr "도움말"
 
 msgid "UrlName_0004"
-msgstr "ヘルプ"
+msgstr "도움말"
 
 msgid "UrlName_0005"
-msgstr "お知らせ"
+msgstr "안내 사항"
 
 msgid "Url_0000"
 msgstr "/web/notice/notice_list?userId={0}&platform={1}&noticeType={2}"
@@ -6733,13 +6733,13 @@ msgstr ""
 "曲衣装"
 
 msgid "message_Id0001"
-msgstr "はい"
+msgstr "확인"
 
 msgid "message_Id0002"
-msgstr "いいえ"
+msgstr "취소"
 
 msgid "message_Id0180"
-msgstr "ランク{0}"
+msgstr "랭크 {0}"
 
 msgid "message_Id0181"
 msgstr "{0}のダウンロードに失敗しました"
