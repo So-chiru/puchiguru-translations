@@ -8,7 +8,11 @@ jobs:
       - checkout
       - run:
           name: mkdir > dist
-          command: mkdir dist
+          command: |
+            mkdir dist
+            mkdir dist/ja_JP
+            mkdir dist/en_US
+            mkdir dist/ko_KR
       - run:
           name: JP | .po to .mo
           command: msgfmt ./ja_JP/messages.po -o ./dist/ja_JP/messages.mo
