@@ -1,0 +1,23 @@
+version: 2
+jobs:
+  runs:
+    working_directory: ~/puchi_circleci
+    steps:
+      - checkout
+      - run:
+          name: JP | .po to .mo
+          command: msgfmt ./ja_JP/messages.po -o ./ja_JP/messages.mo
+      - run:
+          name: EN | .po to .mo
+          command: msgfmt ./en_US/messages.po -o ./en_US/messages.mo
+      - run:
+          name: KR | .po to .mo
+          command: msgfmt ./ko_KR/messages.po -o ./ko_KR/messages.mo
+workflows:
+  version: 2
+  build_and_tests:
+    jobs:
+      - runs:
+          filters:
+            branches:
+              only: master
