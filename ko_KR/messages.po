@@ -4007,13 +4007,13 @@ msgid "PrefabShop_0001"
 msgstr "生年月日を入力"
 
 msgid "PrefabShop_0002"
-msgstr "年"
+msgstr "년"
 
 msgid "PrefabShop_0003"
-msgstr "月"
+msgstr "월"
 
 msgid "PrefabShop_0004"
-msgstr "日"
+msgstr "일"
 
 msgid "PrefabShop_0005"
 msgstr "16歳未満:月間5,000円(税込)まで"
@@ -6425,7 +6425,7 @@ msgid "TutorialSubject_0022"
 msgstr "폭탄을 잘 사용하자"
 
 msgid "TutorialSubject_0023"
-msgstr "골드를 모아보자"골드를 모으자
+msgstr "골드를 모아보자"
 
 msgid "TutorialSubject_0024"
 msgstr "스코어를 높이는 방법"
