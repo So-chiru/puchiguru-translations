@@ -1097,7 +1097,7 @@ msgid "Friend_0033"
 msgstr "하이스코어"
 
 msgid "Friend_Ascending_LastPlayTime"
-msgstr "古い順"
+msgstr "오래된 순"
 
 msgid "Friend_Ascending_Star"
 msgstr "少ない順"
