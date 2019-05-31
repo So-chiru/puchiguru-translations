@@ -1100,7 +1100,7 @@ msgid "Friend_Ascending_LastPlayTime"
 msgstr "오래된 순"
 
 msgid "Friend_Ascending_Star"
-msgstr "少ない順"
+msgstr "적은 순"
 
 msgid "Friend_Ascending_TwitterLink"
 msgstr "連携なし"
