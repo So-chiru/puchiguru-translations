@@ -450,7 +450,7 @@ msgid "Common_Dia"
 msgstr "쿠로사와 다이아"
 
 msgid "Common_Erank"
-msgstr "랭크{0}"
+msgstr "랭크 {0}"
 
 msgid "Common_Eri"
 msgstr "아야세 에리"
@@ -489,7 +489,7 @@ msgid "Common_LilyWhite"
 msgstr "Lily White"
 
 msgid "Common_Lv"
-msgstr "Lv{0}"
+msgstr "Lv {0}"
 
 msgid "Common_M"
 msgstr "M"
@@ -549,7 +549,7 @@ msgid "Common_Quit"
 msgstr "게임을 종료하시겠습니까?"
 
 msgid "Common_Rank"
-msgstr "랭크{0}"
+msgstr "랭크 {0}"
 
 msgid "Common_Riko"
 msgstr "사쿠라우치 리코"
@@ -776,40 +776,40 @@ msgstr ""
 "타이틀로 돌아갑니다"
 
 msgid "DateTime_0000"
-msgstr "あと{0}日"
+msgstr "앞으로 {0}일"
 
 msgid "DateTime_0001"
-msgstr "あと{0}時間"
+msgstr "앞으로 {0}시간"
 
 msgid "DateTime_0002"
-msgstr "あと{0}分"
+msgstr "앞으로 {0}분"
 
 msgid "DateTime_0003"
-msgstr "あと0秒"
+msgstr "앞으로 {0}초"
 
 msgid "DateTime_0004"
-msgstr "{0}日"
+msgstr "{0}일"
 
 msgid "DateTime_0005"
-msgstr "{0}時間"
+msgstr "{0}시간"
 
 msgid "DateTime_0006"
-msgstr "{0}分"
+msgstr "{0}분"
 
 msgid "DateTime_0007"
-msgstr "最終プレイ:{0}週間以上前"
+msgstr "최종 플레이: {0}주 이상 전"
 
 msgid "DateTime_0008"
-msgstr "最終プレイ:{0}日以内"
+msgstr "최종 플레이: {0}일 이내"
 
 msgid "DateTime_0009"
-msgstr "最終プレイ:{0}時間以内"
+msgstr "최종 플레이: {0}시간 이내"
 
 msgid "DateTime_0010"
-msgstr "最終プレイ:{0}分以内"
+msgstr "최종 플레이: {0}분 이내"
 
 msgid "DateTime_Prefix"
-msgstr "あと{0}"
+msgstr "앞으로 {0}"
 
 msgid "DecoReleaseAction_ActiveSkill"
 msgstr "スキル：{0}で"
@@ -818,7 +818,7 @@ msgid "DecoReleaseAction_Class"
 msgstr "{0}"
 
 msgid "DecoReleaseAction_Costume"
-msgstr "{0}衣装の"
+msgstr "{0} 의상의"
 
 msgid "DecoReleaseAction_Group"
 msgstr "{0}"
@@ -833,30 +833,30 @@ msgid "DecoReleaseAction_Unit"
 msgstr "{0}"
 
 msgid "EventResult_0000"
-msgstr "+{0}<size=31>ボーナス</size>"
+msgstr "+{0}<size=31>보너스</size>"
 
 msgid "EventResult_0001"
 msgstr ""
 "【{0}】 ×{1}\n"
-"を獲得しました"
+"획득했습니다"
 
 msgid "EventResult_0002"
-msgstr "追加ミッションが解放されました"
+msgstr "추가 미션이 해방되었습니다"
 
 msgid "EventResult_0003"
-msgstr "獲得累計{0}数："
+msgstr "획득 누계 {0} 수："
 
 msgid "EventResult_0005"
-msgstr "宝箱の獲得数"
+msgstr "보물 상자 획득 수"
 
 msgid "EventTitle_10003"
-msgstr "空色レインコート"
+msgstr "하늘색 비옷"
 
 msgid "EventTitle_10005"
-msgstr "サンリオキャラコラボ"
+msgstr "산리오 캐릭터 콜라보"
 
 msgid "EventTitle_10006"
-msgstr "サンリオキャラコラボ"
+msgstr "산리오 캐릭터 콜라"
 
 msgid "EventTitle_10007"
 msgstr "秋空アクティビティ"
