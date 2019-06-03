@@ -1103,7 +1103,7 @@ msgid "Friend_Ascending_Star"
 msgstr "적은 순"
 
 msgid "Friend_Ascending_TwitterLink"
-msgstr "連携なし"
+msgstr "트위터 연동 안됨"
 
 msgid "Friend_Descending_LastPlayTime"
 msgstr "新しい順"
