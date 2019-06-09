@@ -16,7 +16,7 @@ msgid "AgeCheck_0000"
 msgstr "잘못된 값입니다"
 
 msgid "AgeCheck_0001"
-msgstr "나이 설정이 완료되었습니다"
+msgstr "나이 설정이 완료됐습니다"
 
 msgid "AgeCheck_0002"
 msgstr "나이 확인"
@@ -841,7 +841,7 @@ msgstr ""
 "획득했습니다"
 
 msgid "EventResult_0002"
-msgstr "추가 미션이 해방되었습니다"
+msgstr "추가 미션이 해방됐습니다"
 
 msgid "EventResult_0003"
 msgstr "획득 누계 {0} 수："
@@ -869,7 +869,7 @@ msgstr "The School Idol Movie Over the Rainbow"
 
 msgid "FileWriteException_000"
 msgstr ""
-"파일 작성중에 에러가 발생하였습니다\n"
+"파일 작성중에 에러가 발생했습니다\n"
 "타이틀로 돌아갑니다"
 
 msgid "Filter_0001"
@@ -985,7 +985,7 @@ msgid "Friend_0003"
 msgstr "존재하지 않는 ID입니다"
 
 msgid "Friend_0004"
-msgstr "팔로우 하였습니다"
+msgstr "팔로우 했습니다"
 
 msgid "Friend_0005"
 msgstr "당신의 ID입니다"
@@ -1133,22 +1133,22 @@ msgid "GL_00003"
 msgstr "앱 업데이트가 필요합니다."
 
 msgid "GL_00004"
-msgstr "시스템에 내부 에러가 발생하였습니다."
+msgstr "시스템에 내부 에러가 발생했습니다."
 
 msgid "GL_00005"
-msgstr "시스템에 내부 에러가 발생하였습니다."
+msgstr "시스템에 내부 에러가 발생했습니다."
 
 msgid "GL_00006"
-msgstr "시스템에 내부 에러가 발생하였습니다."
+msgstr "시스템에 내부 에러가 발생했습니다."
 
 msgid "GL_00007"
-msgstr "시스템에 내부 에러가 발생하였습니다."
+msgstr "시스템에 내부 에러가 발생했습니다."
 
 msgid "GL_00008"
-msgstr "시스템에 내부 에러가 발생하였습니다."
+msgstr "시스템에 내부 에러가 발생했습니다."
 
 msgid "GL_00009"
-msgstr "시스템에 내부 에러가 발생하였습니다."
+msgstr "시스템에 내부 에러가 발생했습니다."
 
 msgid "GL_00010"
 msgstr "앱 서버로의 처리가 완료되지 않았습니다. 재시행"
@@ -1166,23 +1166,23 @@ msgid "GL_00014"
 msgstr "고객님의 앱은 문제가 있어 과금 기능을 사용할 수 없습니다. "
 
 msgid "GL_00015"
-msgstr "초기화에 실패하였습니다"
+msgstr "초기화에 실패했습니다"
 
 msgid "GL_00016"
-msgstr "시스템에 내부 에러가 발생하였습니다."
+msgstr "시스템에 내부 에러가 발생했습니다."
 
 msgid "GL_00017"
-msgstr "시스템에 내부 에러가 발생하였습니다."
+msgstr "시스템에 내부 에러가 발생했습니다."
 
 msgid "GL_00018"
-msgstr "시스템에 내부 에러가 발생하였습니다."
+msgstr "시스템에 내부 에러가 발생했습니다."
 
 msgid "GL_00019"
 msgstr "앱 서버로의 처리가 완료되지 않았습니다. 재시행"
 
 msgid "GL_00020"
 msgstr ""
-"이 유저는 다른 기기로 연동되었습니다. 새로운 유저로 게임을 시작하시겠습니"
+"이 유저는 다른 기기로 연동됐습니다. 새로운 유저로 게임을 시작하시겠습니"
 "까?"
 
 msgid "GL_00021"
@@ -1195,16 +1195,16 @@ msgid "GL_01000"
 msgstr "통신 에러"
 
 msgid "GL_01001"
-msgstr "첫 인증에 실패하였습니다. 다시 한번 시도해 보십시오."
+msgstr "첫 인증에 실패했습니다. 다시 한번 시도해 보십시오."
 
 msgid "GL_01002"
 msgstr "구현 에러"
 
 msgid "GL_02000"
-msgstr "시스템에 내부 에러가 발생하였습니다."
+msgstr "시스템에 내부 에러가 발생했습니다."
 
 msgid "GL_02001"
-msgstr "인증에 실패하였습니다. 다시 한번 시도해 보십시오."
+msgstr "인증에 실패했습니다. 다시 한번 시도해 보십시오."
 
 msgid "GL_03000"
 msgstr ""
@@ -1212,10 +1212,10 @@ msgstr ""
 "시도해 보십시오."
 
 msgid "GL_03001"
-msgstr "유저 ID를 취득하는데 실패하였습니다. 다시 한번 시도해 보십시오."
+msgstr "유저 ID를 취득하는데 실패했습니다. 다시 한번 시도해 보십시오."
 
 msgid "GL_04001"
-msgstr "유저 ID를 취득하는데 실패하였습니다. 다시 한번 시도해 보십시오."
+msgstr "유저 ID를 취득하는데 실패했습니다. 다시 한번 시도해 보십시오."
 
 msgid "GL_04002"
 msgstr "이미 같은 유저 ID가 등록되어 있습니다."
@@ -1227,19 +1227,19 @@ msgid "GL_04004"
 msgstr "이미 같은 유저 ID가 등록되어 있습니다."
 
 msgid "GL_05001"
-msgstr "인계 코드 생성에 실패하였습니다."
+msgstr "인계 코드 생성에 실패했습니다."
 
 msgid "GL_05002"
-msgstr "인계 코드 생성에 실패하였습니다."
+msgstr "인계 코드 생성에 실패했습니다."
 
 msgid "GL_06001"
-msgstr "인계 패스워드 등록에 실패하였습니다."
+msgstr "인계 패스워드 등록에 실패했습니다."
 
 msgid "GL_06002"
-msgstr "인계 패스워드 등록에 실패하였습니다."
+msgstr "인계 패스워드 등록에 실패했습니다."
 
 msgid "GL_07001"
-msgstr "인계 코드와 패스워드의 검증에 실패하였습니다"
+msgstr "인계 코드와 패스워드의 검증에 실패했습니다"
 
 msgid "GL_07002"
 msgstr "인계 코드가 생성되지 않았습니다."
@@ -1248,7 +1248,7 @@ msgid "GL_07003"
 msgstr "페스워드가 설정되지 않았습니다."
 
 msgid "GL_07004"
-msgstr "인계 코드와 패스워드의 검증에 실패하였습니다."
+msgstr "인계 코드와 패스워드의 검증에 실패했습니다."
 
 msgid "GL_07005"
 msgstr "인증이 규정상 제한에 달했기 때문에 더 이상 시도가 불가능합니다."
@@ -1332,10 +1332,10 @@ msgid "GL_15001"
 msgstr "상품 리스트 불러오기에 실패했습니다"
 
 msgid "GL_16001"
-msgstr "존재하지 않는 상품 코드가 지정되었습니다."
+msgstr "존재하지 않는 상품 코드가 지정됐습니다."
 
 msgid "GL_16002"
-msgstr "과금 상한을 초과하였기 때문에 구입이 불가능합니다."
+msgstr "과금 상한을 초과했기 때문에 구입이 불가능합니다."
 
 msgid "GL_16004"
 msgstr "상품 취득에 실패했습니다"
@@ -1344,7 +1344,7 @@ msgid "GL_16005"
 msgstr "소지 가능한 쥬얼 상한을 초과하여 구입이 불가능합니다."
 
 msgid "GL_16006"
-msgstr "앱 종료로 인해 상품 취득이 정지되었습니다."
+msgstr "앱 종료로 인해 상품 취득이 정지됐습니다."
 
 msgid "GL_16007"
 msgstr "지원되지 않는 나라 또는 통화입니다."
@@ -1372,53 +1372,53 @@ msgid "GL_17004"
 msgstr "영수증 대조에 실패했습니다."
 
 msgid "GL_17005"
-msgstr "상품 부여에 실패하였습니다."
+msgstr "상품 부여에 실패했습니다."
 
 msgid "GL_17006"
-msgstr "무효한 상품입니다"
+msgstr "무효한 상품입니다."
 
 msgid "GL_17007"
-msgstr "에러가 발생했습니다"
+msgstr "에러가 발생했습니다."
 
 msgid "GL_17008"
-msgstr "サーバーエラーが発生しました。"
+msgstr "서버 에러가 발생했습니다."
 
 msgid "GL_17100"
-msgstr "課金プロセスがキャンセルされました。"
+msgstr "결제가 취소됐습니다."
 
 msgid "GL_17200"
-msgstr "Storeでエラーが発生しました。"
+msgstr "Store에서 에러가 발생했습니다."
 
 msgid "GL_17202"
-msgstr "Store情報取得エラーが発生しました。"
+msgstr "Store 정보 불러오기 에러가 발생했습니다."
 
 msgid "GL_17210"
-msgstr "復旧処理に失敗しました。"
+msgstr "복구 조치에 실패했습니다."
 
 msgid "GL_17211"
-msgstr "レシート取得に失敗しました。"
+msgstr "영수증 불러오기에 실패했습니다."
 
 msgid "GL_17212"
-msgstr "課金検証設定エラーです。"
+msgstr "과금 검증 설정 에러입니다."
 
 msgid "GL_17213"
-msgstr "itunes connectに存在しない商品コードが指定されています。"
+msgstr "itunes connect에 존재하지 않는 상품 코드가 지정되어 있습니다."
 
 msgid "GL_17214"
-msgstr "端末で購入制限されています。"
+msgstr "단말기에 구입 제한이 돼 있습니다"
 
 msgid "GL_17215"
-msgstr "エラーが発生しました。"
+msgstr "에러가 발생했습니다."
 
 msgid "GL_17217"
-msgstr "情報取得に失敗しました。"
+msgstr "정보 불러오기에 실패했습니다."
 
 msgid "GL_17219"
-msgstr "初期化に失敗しました。"
+msgstr "초기화에 실패했습니다"
 
 msgid "GL_17220"
 msgstr ""
-"予期せぬエラーが発生しました。\n"
+"예기치 않은 에러가 발생했습니다\n"
 "再度実行しても問題が解決されない場合は、タイトル画面のサポートのお問い合わせ"
 "よりご連絡ください。"
 
@@ -5489,7 +5489,7 @@ msgstr ""
 "리소스 데이터를 삭제하시겠습니까?"
 
 msgid "Title_0001"
-msgstr "리소스 데이터 삭제가 완료되었습니다."
+msgstr "리소스 데이터 삭제가 완료됐습니다."
 
 msgid "Title_0002"
 msgstr "복원 중..."
@@ -5517,7 +5517,7 @@ msgstr "{0}{1:f6}초"
 
 msgid "Title_0010"
 msgstr ""
-"기기 용량이 부족한 것으로 감지되었습니다.\n"
+"기기 용량이 부족한 것으로 감지됐습니다.\n"
 "기기 용량을 1GB 이상 확보하신 후,\n"
 "다운로드해 주시길 부탁드립니다.\n"
 "\n"
