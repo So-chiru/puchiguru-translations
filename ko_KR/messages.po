@@ -1338,13 +1338,13 @@ msgid "GL_16002"
 msgstr "과금 상한을 초과했기 때문에 구입이 불가능합니다."
 
 msgid "GL_16004"
-msgstr "상품 취득에 실패했습니다"
+msgstr "상품 불러오기에 실패했습니다"
 
 msgid "GL_16005"
 msgstr "소지 가능한 쥬얼 상한을 초과하여 구입이 불가능합니다."
 
 msgid "GL_16006"
-msgstr "앱 종료로 인해 상품 취득이 정지됐습니다."
+msgstr "앱 종료로 인해 상품 구매가 정지됐습니다."
 
 msgid "GL_16007"
 msgstr "지원되지 않는 나라 또는 통화입니다."
@@ -1419,184 +1419,184 @@ msgstr "초기화에 실패했습니다"
 msgid "GL_17220"
 msgstr ""
 "예기치 않은 에러가 발생했습니다\n"
-"再度実行しても問題が解決されない場合は、タイトル画面のサポートのお問い合わせ"
-"よりご連絡ください。"
+"다시 실행해도 문제가 해결되지 않을 경우, 타이틀 화면의 서포트로"
+"연락해 주십시오."
 
 msgid "GL_20001"
-msgstr "年齢帯と誕生日が矛盾しています。"
+msgstr "연령대와 생일이 일치하지 않습니다."
 
 msgid "GL_20002"
-msgstr "年齢取得に失敗しました。"
+msgstr "나이 불러오기에 실패했습니다."
 
 msgid "GL_21001"
-msgstr "年齢帯と誕生日が矛盾しています。"
+msgstr "연령대와 생일이 일치하지 않습니다."
 
 msgid "GL_21002"
-msgstr "年齢帯の登録に失敗しました。"
+msgstr "연령대 등록에 실패하였습니다."
 
 msgid "GL_26001"
-msgstr "課金サーバーでエラーが発生しました。"
+msgstr "결제 서버에서 에러가 발생하였습니다."
 
 msgid "GL_26002"
-msgstr "サーバーでエラーが発生しました。"
+msgstr "서버에서 에러가 발생하였습니다."
 
 msgid "GL_27001"
-msgstr "商品リスト取得に失敗しました。"
+msgstr "상품 리스트 불러오기에 실패하였습니다."
 
 msgid "GL_28001"
-msgstr "チケット情報の取得に失敗しました。"
+msgstr "티켓 정보 불러오기에 실패하였습니다."
 
 msgid "GL_28002"
-msgstr "チケット情報の取得に失敗しました。"
+msgstr "티켓 정보 불러오기에 실패하였습니다."
 
 msgid "GL_30001"
-msgstr "存在しない商品コードが指定されました。"
+msgstr "존재하지 않는 상품 코드가 지정되었습니다."
 
 msgid "GL_30002"
-msgstr "課金アラート情報取得に失敗しました。"
+msgstr "결제 경고 정보 불러오기에 실패하였습니다."
 
 msgid "GL_30003"
-msgstr "アプリクローズにより、取得停止になっています。"
+msgstr "앱 종료로 인해 상품 구매가 정지됐습니다."
 
 msgid "GL_30004"
-msgstr "サポートされていない国または通貨です。"
+msgstr "지원되지 않는 나라 또는 통화입니다."
 
 msgid "GL_31001"
-msgstr "課金アラート設定情報の更新処理に失敗しました。"
+msgstr "결제 경고 설정 정보의 갱신 처리에 실패하였습니다."
 
 msgid "GL_32001"
-msgstr "課金アラート設定情報の取得に失敗しました。"
+msgstr "결제 경고 설정 정보의 갱신 처리에 실패하였습니다."
 
 msgid "GachaStepup_0001"
 msgstr "STEP{0}"
 
 msgid "GachaStepup_0002"
-msgstr "※STEP{0}まで購入するとこのガチャは利用できなくなります"
+msgstr "※STEP{0}에 도달하면 이 가챠는 이용할 수 없게 됩니다."
 
 msgid "GachaStepup_0003"
-msgstr "11枚目 ★5出現率UP！"
+msgstr "11번째에 ★5 출현률 UP！"
 
 msgid "GachaStepup_0004"
 msgstr ""
-"ステップアップガチャ特典を獲得しました！\n"
+"스텝업 가챠 특전을 획득하였습니다!\n"
 "\n"
 "{0}\n"
 "\n"
-"<color=#ff0000><size=18>チケットの有効期限はプレゼントボックスから受け取り後"
-"150日です\n"
-"※特典はプレゼントボックスに付与されます</size></color>"
+"<color=#ff0000><size=18>티켓의 유효 기한은 선물 상자에서 받은 후"
+"150일 입니다\n"
+"※특전은 선물상자로 전송됩니다</size></color>"
 
 msgid "GachaStepup_0005"
-msgstr "※このガチャは{0}周目まで引くことができます"
+msgstr "이 가챠는{0}회까지 뽑을 수 있습니다"
 
 msgid "GachaStepup_0006"
-msgstr "いま{0}周目"
+msgstr "지금 {0}회째"
 
 msgid "GachaStepup_0007"
-msgstr "出現割合(STEP{0})"
+msgstr "출현 확률(STEP{0})"
 
 msgid "GachaStepup_0008"
-msgstr "※STEP{0}まで購入するとSTEP1に戻ります"
+msgstr "※STEP{0}까지 뽑으면 STEP1로 돌아옵니다"
 
 msgid "GachaStepup_0009"
-msgstr "※全STEP購入済みのためこのガチャは利用できません"
+msgstr "※STEP 최고치에 도달하여 이 가챠는 이용할 수 없습니다"
 
 msgid "GachaStepup_0010"
-msgstr "※全STEP購入済みです。次回AM00:00にSTEP1に戻ります"
+msgstr "※STEP 최고치에 도달했습니다. AM00:00에 STEP1로 돌아옵니다"
 
 msgid "GachaStepup_0011"
-msgstr "{0}ジュエルお得！"
+msgstr "{0}쥬얼 이득!"
 
 msgid "GachaStepup_0012"
-msgstr "11枚目 ★5出現確定！"
+msgstr "11번째에 ★5 출현률 UP！"
 
 msgid "GachaStepup_0013"
-msgstr "1回ガチャ,11回ガチャ"
+msgstr "1회 가챠, 11회 가챠"
 
 msgid "GachaStepup_0014"
-msgstr "11回ガチャ"
+msgstr "11회 가챠"
 
 msgid "Gacha_0000"
-msgstr "{0}({1}){2}まで"
+msgstr "{0}({1}){2}까지"
 
 msgid "Gacha_0001"
 msgstr ""
-"ぷちぐるをコンプリートしています\n"
-"次の更新をお楽しみに！\n"
-"※すべてのぷちぐるの\n"
-"スキルレベルが最大のときは\n"
-"ガチャをひくことができません"
+"푸치구루를 완성시키고 있습니다\n"
+"다음 업데이트를 기대해주세요!\n"
+"※모든 푸치구루의\n"
+"스킬 레벨이 최대일때는\n"
+"가챠를 뽑을수 없습니다"
 
 msgid "Gacha_0002"
 msgstr ""
-"ジュエルが不足しています\n"
-"ジュエルを購入しますか？"
+"쥬얼이 부족합니다\n"
+"쥬얼을 구매하시겠습니까?"
 
 msgid "Gacha_0003"
-msgstr "ガチャID{0}の目玉アイテムが設定されていません"
+msgstr "가챠 ID{0}의 핵심 아이템이 설정되어 있지 않습니다"
 
 msgid "Gacha_0004"
-msgstr "出現割合"
+msgstr "출현 확률"
 
 msgid "Gacha_0005"
-msgstr "ゴールドが不足しています。"
+msgstr "골드가 부족합니다."
 
 msgid "Gacha_0006"
-msgstr "ゴールド<size=28>で</size>ひく"
+msgstr "골드<size=28>로</size>뽑기"
 
 msgid "Gacha_0007"
-msgstr "ジュエル<size=28>で</size>ひく"
+msgstr "쥬얼<size=28>로</size>뽑기"
 
 msgid "Gacha_0008"
-msgstr "ひく"
+msgstr "뽑기"
 
 msgid "Gacha_0009"
-msgstr "チケット<size=28>で</size>ひく"
+msgstr "티켓<size=28>로</size>뽑기"
 
 msgid "Gacha_0010"
 msgstr "<size=18>×</size>{0}"
 
 msgid "Gacha_0011"
-msgstr "イベント"
+msgstr "이벤트"
 
 msgid "Gacha_0012"
 msgstr ""
-"イベントをプレイして\n"
-"チケットを集めよう﻿"
+"이벤트를 플레이해서\n"
+"티켓을 모으자﻿"
 
 msgid "Gacha_0013"
 msgstr ""
-"イベントモードが解放されていません\n"
-"ミッションをクリアして\n"
-"ぷちぐるスターをあつめよう"
+"이벤트 모드가 개방되지 않았어요\n"
+"미션을 클리어해서\n"
+"푸치구루 별을 모으자!"
 
 msgid "Gacha_0014"
-msgstr "チケットが不足しています"
+msgstr "티켓이 부족합니다"
 
 msgid "Gacha_0015"
-msgstr "イベントは終了しました"
+msgstr "이벤트가 종료되었습니다"
 
 msgid "Gacha_0016"
 msgstr ""
-"ガチャが更新されました。\n"
-"タイトルにもどります。"
+"가챠가 업데이트 되었습니다.\n"
+"타이틀로 돌아갑니다"
 
 msgid "Gacha_0017"
-msgstr "ガチャが更新されました"
+msgstr "가챠가 업데이트 되었습니다"
 
 msgid "Gacha_0018"
-msgstr "開催期間"
+msgstr "개최 기간"
 
 msgid "Gacha_0022"
 msgstr ""
-"コンプリートしているよ！\n"
-"次の更新をお楽しみに！"
+"완성시키고 있어!\n"
+"다음 업데이트를 기대해!"
 
 msgid "Gacha_0023"
 msgstr ""
-"<color=#F26144FF>ガチャに含まれるメンバーが\n"
-"すべてスキルレベル最大の時は、\n"
-"ガチャを引くことができません</color>"
+"<color=#F26144FF>가챠에 포함된 모든\n"
+"멤버의 스킬레벨이 최대일때는\n"
+"가챠를 뽑을 수 없습니다</color>"
 
 msgid "Gacha_0024"
 msgstr ""
