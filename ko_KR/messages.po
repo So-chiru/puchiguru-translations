@@ -13,7 +13,7 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 
 msgid "AgeCheck_0000"
-msgstr "잘못된 값입니다."
+msgstr "잘못된 값입니다"
 
 msgid "AgeCheck_0001"
 msgstr "나이 설정이 완료됐습니다"
