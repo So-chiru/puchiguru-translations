@@ -1562,7 +1562,7 @@ msgstr "이벤트"
 msgid "Gacha_0012"
 msgstr ""
 "이벤트를 플레이해서\n"
-"티켓을 모으자﻿"
+"티켓을 모으자!"
 
 msgid "Gacha_0013"
 msgstr ""
