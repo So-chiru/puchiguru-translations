@@ -1739,207 +1739,207 @@ msgid "Help_0014"
 msgstr "푸치구루 블레이드의 도움말"
 
 msgid "HowToPlayEvent_0001"
-msgstr "イベント　遊び方１"
+msgstr "이벤트 플레이 방법 1"
 
 msgid "HowToPlayEvent_0002"
-msgstr "イベント　遊び方２"
+msgstr "이밴트 플레이 방법 2"
 
 msgid "HowToPlayEvent_0003"
-msgstr "イベント　遊び方３"
+msgstr "이밴트 플레이 방법 3"
 
 msgid "HowToPlayMission_0001"
-msgstr "遊び方1"
+msgstr "플레이 방법 1"
 
 msgid "HowToPlayMission_0002"
-msgstr "遊び方2"
+msgstr "플레이 방법 2"
 
 msgid "HowToPlayMission_0003"
-msgstr "遊び方3"
+msgstr "플레이 방법 3"
 
 msgid "HowToPlayMission_0004"
-msgstr "遊び方4"
+msgstr "플레이 방법 4"
 
 msgid "HowToPlayMission_0005"
-msgstr "遊び方5"
+msgstr "플레이 방법 5"
 
 msgid "HowToPlayMission_0006"
-msgstr "遊び方6"
+msgstr "플레이 방법 6"
 
 msgid "HowToPlayMission_0007"
-msgstr "遊び方7"
+msgstr "플레이 방법 7"
 
 msgid "HowToPlayMission_0008"
-msgstr "遊び方8"
+msgstr "플레이 방법 8"
 
 msgid "HowToPlayMission_0009"
-msgstr "遊び方9"
+msgstr "플레이 방법 9"
 
 msgid "HowToPlayMission_0010"
-msgstr "遊び方10"
+msgstr "플레이 방법 10"
 
 msgid "HowToPlayMission_0011"
-msgstr "遊び方11"
+msgstr "플레이 방법 11"
 
 msgid "HowToPlayMission_0012"
-msgstr "遊び方12"
+msgstr "플레이 방법 12"
 
 msgid "HowToPlayMission_0013"
-msgstr "遊び方13"
+msgstr "플레이 방법 13"
 
 msgid "HowToPlayMission_0014"
-msgstr "遊び方14"
+msgstr "플레이 방법 14"
 
 msgid "Jasrac_001"
-msgstr "JASRAC許諾第9018407002Y43031号"
+msgstr "JASRAC허락 제9018407002Y43031호"
 
 msgid "LastReleaseAction_ActiveSkill"
-msgstr "スキル：{0}のぷちぐる"
+msgstr "스킬: {0}의 푸치구루"
 
 msgid "LastReleaseAction_Class"
-msgstr "{0}メンバー"
+msgstr "{0} 멤버"
 
 msgid "LastReleaseAction_Costume"
-msgstr "{0}衣装のぷちぐる"
+msgstr "{0} 의상의 푸치구루"
 
 msgid "LastReleaseAction_Group"
-msgstr "{0}メンバー"
+msgstr "{0} 멤버"
 
 msgid "LastReleaseAction_PassiveSkill"
-msgstr "特技：{0}のぷちぐる"
+msgstr "특기: {0}의 푸치구루"
 
 msgid "LastReleaseAction_Personal"
 msgstr "{0}"
 
 msgid "LastReleaseAction_Unit"
-msgstr "{0}メンバー"
+msgstr "{0} 멤버"
 
 msgid "LoginBonusAttension_00000004"
 msgstr "<color=#9C6240FF>Test4</color>"
 
 msgid "LoginBonusAttension_18032701"
 msgstr ""
-"<color=#9C6240FF>公式サイトイベント「宇宙を目指せ！ぷちぐるタワー」達成報酬\n"
-"期間中1回だけ3500ジュエルをプレゼント！</color>"
+"<color=#9C6240FF>공식 사이트 이벤트 '우주를 목표로!' 달성 보수 \n"
+"기간 중 한번만 3500 쥬얼을 선물!</color>"
 
 msgid "LoginBonusAttension_18032702"
 msgstr ""
-"<color=#9C6240FF>リリース記念ログインボーナス\n"
-"期間中1日1回様々なアイテムをプレゼント！(最大14日目まで)</color>"
+"<color=#9C6240FF>릴리스 기념 로그인 보너스\n"
+"기간 중 하루 한번 다양한 아이템을 선물! (최대 14일째까지)</color>"
 
 msgid "LoginBonusAttension_18042701"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回ぷちぐるブレードをプレゼント！(最大2日目まで)</"
+"<color=#9C6240FF>기간 중 하루 한번 푸치구루 블레이드를 선물! (최대 2일째까지)</"
 "color>"
 
 msgid "LoginBonusAttension_18053101"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大4日目まで)</"
+"<color=#9C6240FF>기간 중 하루 한번 경험치 사탕을 선물! (최대 4일째까지)</"
 "color>"
 
 msgid "LoginBonusAttension_18062903"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大5日目まで)</"
+"<color=#9C6240FF>기간 중 하루 한번 경험치 사탕을 선물! (최대 5일째까지)</"
 "color>"
 
 msgid "LoginBonusAttension_18071401"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大3日目まで)</"
+"<color=#9C6240FF>기간 중 하루 한번 경험치 사탕을 선물! (최대 3일째까지)</"
 "color>"
 
 msgid "LoginBonusAttension_18073101"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大6日目まで)</"
+"<color=#9C6240FF>기간 중 하루 한번 경험치 사탕을 선물! (최대 6일째까지)</"
 "color>"
 
 msgid "LoginBonusAttension_18082501"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大6日目まで)</"
+"<color=#9C6240FF>기간 중 하루 한번 경험치 사탕을 선물! (최대 4일째까지)</"
 "color>"
 
 msgid "LoginBonusAttension_18083104"
 msgstr ""
-"<color=#9C6240FF>新規登録キャンペーン報酬\n"
-"期間中1回だけ1000ジュエルをプレゼント！</color>"
+"<color=#9C6240FF>신규 등록 캠페인 보수\n"
+"기간 중 한번만 1000쥬얼을 선물!</color>"
 
 msgid "LoginBonusAttension_18110102"
 msgstr ""
-"<color=#9C6240FF>新規登録キャンペーン報酬\n"
-"期間中1回だけ1000ジュエルをプレゼント！</color>"
+"<color=#9C6240FF>신규 등록 캠페인 보수\n"
+"기간 중 한번만 1000쥬얼을 선물!</color>"
 
 msgid "LoginBonusAttension_18110202"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+"<color=#9C6240FF>기간 중 하루 한번 메달을 선물! (최대 3일째까지)</color>"
 
 msgid "LoginBonusAttension_18110203"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+"<color=#9C6240FF>기간 중 하루 한번 메달을 선물! (최대 3일째까지)</color>"
 
 msgid "LoginBonusAttension_18110204"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+"<color=#9C6240FF>기간 중 하루 한번 메달을 선물! (최대 3일째까지)</color>"
 
 msgid "LoginBonusAttension_18110205"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+"<color=#9C6240FF>기간 중 하루 한번 메달을 선물! (최대 3일째까지)</color>"
 
 msgid "LoginBonusAttension_18110206"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+"<color=#9C6240FF>기간 중 하루 한번 메달을 선물! (최대 3일째까지)</color>"
 
 msgid "LoginBonusAttension_18110207"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+"<color=#9C6240FF>기간 중 하루 한번 메달을 선물! (최대 3일째까지)</color>"
 
 msgid "LoginBonusAttension_18110208"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+"<color=#9C6240FF>기간 중 하루 한번 메달을 선물! (최대 3일째까지)</color>"
 
 msgid "LoginBonusAttension_18110209"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回メダルをプレゼント！(最大3日目まで)</color>"
+"<color=#9C6240FF>기간 중 하루 한번 메달을 선물! (최대 3일째까지)</color>"
 
 msgid "LoginBonusAttension_18110401"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大5日目まで)</"
+"<color=#9C6240FF>기간 중 하루 한번 경험치 사탕을 선물! (최대 5일째까지)</"
 "color>"
 
 msgid "LoginBonusAttension_18120101"
 msgstr ""
-"<color=#9C6240FF>期間中1日1回経験値キャンディをプレゼント！(最大4日目まで)</"
+"<color=#9C6240FF>기간 중 하루 한번 경험치 사탕을 선물! (최대 5일째까지)</"
 "color>"
 
 msgid "LoginBonusTerm"
 msgstr ""
-"<color=#9C6240FF>開催期間\n"
-"{1:yyyy年M月d日}まで</color>"
+"<color=#9C6240FF>개최 기간\n"
+"{1:yyyy年M月d日}까지</color>"
 
 msgid "Login_0000"
 msgstr ""
-"ログインに失敗しました\n"
-"タイトルに戻ります"
+"로그인에 실패하였습니다\n"
+"타이틀로 돌아갑니다"
 
 msgid "Login_0001"
-msgstr "gamelibのメンテナンス中です"
+msgstr "gamelib의 점검중입니다"
 
 msgid "Login_0002"
-msgstr "アカウントが凍結されています"
+msgstr "계정이 동결되어 있습니다"
 
 msgid "Login_0003"
 msgstr ""
 "error:{0}\n"
 "{1}\n"
-"タイトルに戻ります"
+"타이틀로 돌아갑니다"
 
 msgid "Login_0004"
 msgstr ""
-"無効なユーザーです\n"
-"タイトルに戻ります"
+"무효한 유저입니다\n"
+"타이틀로 돌아갑니다"
 
 msgid "Login_0005"
-msgstr "ログインに失敗しました"
+msgstr "로그인에 실패하였습니다"
 
 msgid "Login_0006"
-msgstr "アプリを再起動します"
+msgstr "앱을 재시작합니다"
 
 msgid "Login_0007"
 msgstr ""
