@@ -2269,7 +2269,7 @@ msgstr ""
 "서버 점검중입니다"
 
 msgid "Network_0016"
-"타이틀로 돌아갑니다"
+msgid "타이틀로 돌아갑니다"
 
 msgid "Network_0017"
 msgstr ""
@@ -2359,100 +2359,100 @@ msgid "PassiveSkillInfo_0009"
 msgstr "골드"
 
 msgid "PassiveSkillInfo_0010"
-msgstr "ボム範囲"
+msgstr "폭탄 범위"
 
 msgid "PassiveSkillInfo_0011"
-msgstr "つながり"
+msgstr "연결"
 
 msgid "PassiveSkillInfo_0012"
-msgstr "ボム発生"
+msgstr "폭탄 "
 
 msgid "PassiveSkillInfo_0013"
-msgstr "ボム発生"
+msgstr "폭탄 생성"
 
 msgid "PassiveSkillInfo_0014"
-msgstr "ボム発生"
+msgstr "폭탄 생성"
 
 msgid "PassiveSkillInfo_0015"
-msgstr "ボム発生"
+msgstr "폭탄 생성"
 
 msgid "PersonalNameRuby_101"
-msgstr "こうさか ほのか"
+msgstr "高坂 穂乃果"
 
 msgid "PersonalNameRuby_102"
-msgstr "みなみ ことり"
+msgstr "南 ことり"
 
 msgid "PersonalNameRuby_103"
-msgstr "そのだ うみ"
+msgstr "園田 海未"
 
 msgid "PersonalNameRuby_104"
-msgstr "にしきの まき"
+msgstr "西木野 真姫"
 
 msgid "PersonalNameRuby_105"
-msgstr "ほしぞら りん"
+msgstr "星空 凛"
 
 msgid "PersonalNameRuby_106"
-msgstr "こいずみ はなよ"
+msgstr "小泉 花陽"
 
 msgid "PersonalNameRuby_107"
-msgstr "やざわ にこ"
+msgstr "矢澤 にこ)"
 
 msgid "PersonalNameRuby_108"
-msgstr "とうじょう のぞみ"
+msgstr "東條 希"
 
 msgid "PersonalNameRuby_109"
-msgstr "あやせ えり"
+msgstr "絢瀬 絵里"
 
 msgid "PersonalNameRuby_201"
-msgstr "たかみ ちか"
+msgstr "高海 千歌"
 
 msgid "PersonalNameRuby_202"
-msgstr "わたなべ よう"
+msgstr "渡辺 曜"
 
 msgid "PersonalNameRuby_203"
-msgstr "さくらうち りこ"
+msgstr "桜内 梨子"
 
 msgid "PersonalNameRuby_204"
-msgstr "くにきだ はなまる"
+msgstr "国木田 花丸"
 
 msgid "PersonalNameRuby_205"
-msgstr "くろさわ るびぃ"
+msgstr "黒澤 ルビィ"
 
 msgid "PersonalNameRuby_206"
-msgstr "つしま よしこ"
+msgstr "津島 善子"
 
 msgid "PersonalNameRuby_207"
-msgstr "くろさわ だいや"
+msgstr "黒澤 ダイヤ"
 
 msgid "PersonalNameRuby_208"
-msgstr "まつうら かなん"
+msgstr "松浦 果南"
 
 msgid "PersonalNameRuby_209"
-msgstr "おはら まり"
+msgstr "小原 鞠莉"
 
 msgid "PersonalNameRuby_401"
-msgstr "かづの せいら"
+msgstr "鹿角 聖良"
 
 msgid "PersonalNameRuby_402"
-msgstr "かづの りあ"
+msgstr "鹿角 理亞"
 
 msgid "PersonalNameRuby_901"
-msgstr "まいめろでぃ"
+msgstr "マイメロディ"
 
 msgid "PersonalNameRuby_902"
-msgstr "しなもろーる"
+msgstr "シナモンロール"
 
 msgid "PersonalNameRuby_903"
 msgstr "けろけろけろっぴ"
 
 msgid "PersonalNameRuby_904"
-msgstr "はろーきてぃ"
+msgstr "ハローキティ"
 
 msgid "PersonalNameRuby_905"
-msgstr "ぽむぽむぷりん"
+msgstr "ポムポムプリン"
 
 msgid "PersonalNameRuby_906"
-msgstr "ばっどばつまる"
+msgstr "バッドばつ丸"
 
 msgid "PersonalName_101"
 msgstr "高坂 穂乃果"
