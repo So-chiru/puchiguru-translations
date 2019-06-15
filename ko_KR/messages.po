@@ -1151,7 +1151,7 @@ msgid "GL_00009"
 msgstr "시스템에 내부 에러가 발생했습니다."
 
 msgid "GL_00010"
-msgstr "앱 서버로의 처리가 완료되지 않았습니다. 재시행"
+msgstr "앱 버로의 처리가 완료되지 않았습니다. 재시행"
 
 msgid "GL_00011"
 msgstr "앱 서버로의 처리가 완료되지 않았습니다. 재시행"
@@ -1453,7 +1453,7 @@ msgid "GL_30001"
 msgstr "존재하지 않는 상품 코드가 지정되었습니다."
 
 msgid "GL_30002"
-msgstr "결제 경고 정보 불러오기에 실패하였습니다."
+msgstr "결제 고 정보 불러오기에 실패하였습니다."
 
 msgid "GL_30003"
 msgstr "앱 종료로 인해 상품 구매가 정지됐습니다."
@@ -1690,7 +1690,7 @@ msgstr ""
 
 msgid "HelpText_0039"
 msgstr ""
-"퍼즐 중 보이스는\n"
+"퍼즐 중 음성은\n"
 "푸치구루의 레벨로 해방되는 것이 있어"
 
 msgid "Help_0000"
@@ -1947,55 +1947,55 @@ msgstr ""
 "앱을 삭제해주세요"
 
 msgid "MemberInfo_0001"
-msgstr "パズル開始"
+msgstr "퍼즐 시작"
 
 msgid "MemberInfo_0002"
-msgstr "パズル終了"
+msgstr "퍼즐 종료"
 
 msgid "MemberInfo_0003"
-msgstr "つながりレベルUP"
+msgstr "연결 레벨 UP"
 
 msgid "MemberInfo_0004"
-msgstr "ミッションクリア"
+msgstr "미션 클리어"
 
 msgid "MemberInfo_0005"
-msgstr "コンボ達成"
+msgstr "콤보 달성"
 
 msgid "MemberInfo_0006"
-msgstr "スコア達成"
+msgstr "스코어 달성"
 
 msgid "MemberInfo_0007"
-msgstr "ゴールド獲得"
+msgstr "골드 획득"
 
 msgid "MemberInfo_0008"
-msgstr "特別ボイス"
+msgstr "특별 보이스"
 
 msgid "MemberInfo_0009"
-msgstr "レベル"
+msgstr "레벌"
 
 msgid "MemberInfo_0010"
-msgstr "レベル{0}で解放"
+msgstr "레벨 {0}에 해방"
 
 msgid "MemberInfo_0011"
-msgstr "メンバーの新しいボイスが解放されました"
+msgstr "멤버의 새로운 음성이 해방되었습니다"
 
 msgid "MemberInfo_0012"
-msgstr "ゴールド達成ボイス"
+msgstr "골드 달성 음성"
 
 msgid "MemberInfo_0013"
-msgstr "特技"
+msgstr "특기"
 
 msgid "MemberInfo_0014"
-msgstr "スキル"
+msgstr "스킬"
 
 msgid "MemberInfo_0015"
-msgstr "ショータイム"
+msgstr "쇼타임"
 
 msgid "Migration_0000"
-msgstr "引き継ぎコード発行"
+msgstr "인계 코드 발행"
 
 msgid "Migration_0001"
-msgstr "引き継ぎコードをコピーしました"
+msgstr "인계 코드를 복사했습니다"
 
 msgid "Migration_0002"
 msgstr ""
@@ -2003,101 +2003,101 @@ msgstr ""
 " {0}\n"
 "{1}\n"
 "{2}\n"
-"引き継ぎを実行しますか？;"
+"인계하시겠습니까?;"
 
 msgid "Migration_0003"
-msgstr "有償ジュエル : {0}個"
+msgstr "유상 쥬얼 : {0}個"
 
 msgid "Migration_0004"
-msgstr "無償ジュエル : {0]個"
+msgstr "무상 쥬얼 : {0]個"
 
 msgid "Migration_0005"
 msgstr ""
-"エラーコード:{0}\n"
+"에러 코드:{0}\n"
 "{1}"
 
 msgid "Migration_0006"
-msgstr "データ移行が完了しました"
+msgstr "데이터 이전이 완료되었습니다"
 
 msgid "Migration_0007"
-msgstr "サーバーがメンテンナンス中だよ"
+msgstr "서버가 점검중이야"
 
 msgid "Migration_0008"
 msgstr ""
-"iOSとAndroid間での引き継ぎを行う場合、\n"
-"<color=#F95151>有償ジュエルは無償ジュエルに変更されます</color>ので\n"
-"ご了承ください"
+"iOS와 Android간에서의 인계를 실시하는 경우,\n"
+"<color=#F95151>유상 쥬얼은 무상 쥬얼로 변경됩니다</color>ので\n"
+"이해를 부탁 드립니다"
 
 msgid "MiniEvent_0001"
 msgstr ""
-"セガコラボ\n"
-"キャンペーン"
+"세가 콜라보\n"
+"캠페인"
 
 msgid "MiniEvent_0002"
-msgstr "報酬はプレゼントボックスに送られます"
+msgstr "보수는 선물 상자에 보내집니다"
 
 msgid "MiniEvent_0003"
-msgstr "つぎの報酬"
+msgstr "다음 보수"
 
 msgid "MiniEvent_0004"
-msgstr "すべての報酬を獲得しました"
+msgstr "모든 보수를 받았습니다"
 
 msgid "MiniEvent_0005"
-msgstr "報酬一覧"
+msgstr "보수 일람"
 
 msgid "MiniEvent_0006"
-msgstr "あと{0:#,0}"
+msgstr "앞으로 {0:#,0}"
 
 msgid "MiniEvent_0007"
-msgstr "期間: {0:MM/dd} ({1}) {2:HH:mm}まで"
+msgstr "기간: {0:MM/dd} ({1}) {2:HH:mm}까지"
 
 msgid "MiniEvent_0008"
-msgstr "次の報酬"
+msgstr "다음 보수"
 
 msgid "MiniEvent_0009"
-msgstr "次の報酬まで"
+msgstr "다음 보수까지"
 
 msgid "MissionData_0000"
-msgstr "次のミッションは、0:00に更新されるよ"
+msgstr "다음 미션은 0:00에 갱신되"
 
 msgid "MissionData_0001"
-msgstr "TODO マスターデータがない"
+msgstr "TODO 마스터 데이터가 없음"
 
 msgid "MissionData_0002"
 msgstr "앞으로 {0}"
 
 msgid "MissionData_0003"
-msgstr "万点"
+msgstr "만점"
 
 msgid "MissionData_0004"
-msgstr "点"
+msgstr "점"
 
 msgid "MissionData_0005"
-msgstr "枚"
+msgstr "개"
 
 msgid "MissionData_0006"
-msgstr "回"
+msgstr "회"
 
 msgid "MissionData_0007"
-msgstr "個"
+msgstr "개"
 
 msgid "MissionData_0008"
-msgstr "億"
+msgstr "개"
 
 msgid "MissionData_0009"
-msgstr "万"
+msgstr "만"
 
 msgid "MissionDesignation_BombAll"
-msgstr "{0}/{1}個"
+msgstr "{0}/{1}개"
 
 msgid "MissionDesignation_BombCoin"
-msgstr "{0}/{1}個"
+msgstr "{0}/{1}개"
 
 msgid "MissionDesignation_BombScore"
-msgstr "{0}/{1}個"
+msgstr "{0}/{1}개"
 
 msgid "MissionDesignation_BombTime"
-msgstr "{0}/{1}個"
+msgstr "{0}/{1}개"
 
 msgid "MissionDesignation_Chain"
 msgstr "{0}/{1}"
@@ -2109,31 +2109,31 @@ msgid "MissionDesignation_Combo"
 msgstr "{0}/{1}"
 
 msgid "MissionDesignation_EraseAll"
-msgstr "{0}/{1}個"
+msgstr "{0}/{1}개"
 
 msgid "MissionDesignation_EraseLeader"
-msgstr "{0}/{1}個"
+msgstr "{0}/{1}개"
 
 msgid "MissionDesignation_EraseTarget"
-msgstr "{0}/{1}個"
+msgstr "{0}/{1}개"
 
 msgid "MissionDesignation_Gold"
-msgstr "{0}/{1}枚"
+msgstr "{0}/{1}개"
 
 msgid "MissionDesignation_None"
 msgstr "{0}/{1}"
 
 msgid "MissionDesignation_Score_0"
-msgstr "{0}/{1}点"
+msgstr "{0}/{1}점"
 
 msgid "MissionDesignation_Score_1"
-msgstr "{0}/{1}万点"
+msgstr "{0}/{1}만점"
 
 msgid "MissionDesignation_ShowTime"
-msgstr "{0}/{1}回"
+msgstr "{0}/{1}회"
 
 msgid "MissionDesignation_Skill"
-msgstr "{0}/{1}回"
+msgstr "{0}/{1}회"
 
 msgid "MusicName_10002001"
 msgstr "Bokura wa Ima no Naka de"
@@ -2203,60 +2203,60 @@ msgstr "Hop? Stop? Nonstop!"
 
 msgid "Network_0000"
 msgstr ""
-"新しいデータがあります\n"
-"タイトルへ戻ります"
+"새로운 데이터가 있습니다\n"
+"타이틀로 돌아갑니다"
 
 msgid "Network_0001"
 msgstr ""
-"新しいアプリがあります\n"
-"タイトルへ戻ります"
+"새로운 앱이 있습니다\n"
+"타이틀로 돌아갑니다"
 
 msgid "Network_0002"
 msgstr ""
 "error:{0}\n"
-"通信状態が不安定です\n"
-"再試行をしますか？"
+"통신 상태가 불안정합니다\n"
+"다시 시도하시겠습니까?"
 
 msgid "Network_0003"
 msgstr ""
 "error:{0}\n"
-"通信に失敗しました"
+"통신에 실패하였습니다"
 
 msgid "Network_0004"
-msgstr "通信が中断されました"
+msgstr "통신이 중단되었습니다"
 
 msgid "Network_0005"
-msgstr "通信の再試行をしますか？"
+msgstr "통신을 재시도하시겠습니까?"
 
 msgid "Network_0006"
 msgstr ""
-"通信状態が不安定です\n"
-"再試行をしますか？"
+"통신 상태가 불안정합니다\n"
+"다시 시도하시겠습니까?"
 
 msgid "Network_0007"
-msgstr "通信エラーが発生しました"
+msgstr "통신 에러가 발생했습니다"
 
 msgid "Network_0008"
 msgstr ""
-"通信を再試行しましたが\n"
-"接続できませんでした"
+"통신을 재시도했지만\n"
+"접속이 되지 않았습니다"
 
 msgid "Network_0009"
-msgstr "サーバーCRCの内容が空です"
+msgstr "서버 CRC의 내용이 비어있습니다"
 
 msgid "Network_0010"
-msgstr "サーバーCRCの内容が不正です"
+msgstr "서버 CRC의 내용이 바르지 않습니다"
 
 msgid "Network_0011"
-msgstr "{0}のダウンロードに失敗しました"
+msgstr "{0}의 다운로드에 실패했습니다"
 
 msgid "Network_0012"
-msgstr "リトライ"
+msgstr "재시도"
 
 msgid "Network_0013"
 msgstr ""
-"通信がキャンセルされました\n"
-"タイトルに戻ります"
+"통신이 취소되었습니다\n"
+"타이틀로 돌아갑니다"
 
 msgid "Network_0014"
 msgstr ""
@@ -2266,97 +2266,97 @@ msgstr ""
 msgid "Network_0015"
 msgstr ""
 "error:{0}\n"
-"メンテナンス中です"
+"서버 점검중입니다"
 
 msgid "Network_0016"
-msgstr "タイトルに戻ります"
+"타이틀로 돌아갑니다"
 
 msgid "Network_0017"
 msgstr ""
-"新しいアプリがあります\n"
-"最新版をインストールしてください"
+"새로운 앱이 있습니다\n"
+"최신 버전을 다운로드 해주세요"
 
 msgid "Notification_0010"
-msgstr "その楽曲はすでに終了しています。"
+msgstr "그 노래는 이미 끝났습니다."
 
 msgid "Notification_0011"
-msgstr "そのガチャはすでに終了しています。"
+msgstr "그 가챠는 이미 끝났습니다."
 
 msgid "Notification_0012"
-msgstr "そのスコアアタックはすでに終了しています。"
+msgstr "그 스코어 어택은 이미 종료되었습니다."
 
 msgid "Notification_0013"
 msgstr ""
-"スコアアタックモードが解放されていません\n"
-"ミッションをクリアして☆をあつめよう"
+"스코어 어택 모드가 해방되지 않았습니다\n"
+"미션을 클리어해서 ☆을 모으자"
 
 msgid "Notification_0014"
 msgstr ""
-"ミッションモードはチュートリアルステージクリア後に解放されるよ\n"
-"チュートリアルステージを進めてみよう！"
+"미션 모드는 튜토리얼 스테이지 클리어 이후에 해방될꺼야\n"
+"튜토리얼 스테이지를 진행해보자!"
 
 msgid "Option_0000"
-msgstr "オプション設定"
+msgstr "옵션 설정"
 
 msgid "Option_0001"
-msgstr "スキル振動　{0}"
+msgstr "스킬 진동 {0}"
 
 msgid "Option_0002"
-msgstr "イベント通知　{0}"
+msgstr "이벤트 알림 {0}"
 
 msgid "Option_0003"
-msgstr "ハート全回復通知　{0}"
+msgstr "하트 전체 회복 알림{0}"
 
 msgid "Option_0004"
-msgstr "ハート受信通知　{0}"
+msgstr "하트 수신 알림 {0}"
 
 msgid "Option_0005"
-msgstr "ぷちぐるブレード使用通知　{0}"
+msgstr "푸치구루 블레이드 사용 알림 {0}"
 
 msgid "Option_0006"
-msgstr "使いすぎアラート　{0}"
+msgstr "사용 과다 경고{0}"
 
 msgid "Option_0007"
 msgstr "パズル開始時の特技表示　{0}"
 
 msgid "ParseError_ActionTarget"
 msgstr ""
-"{0}.actionTarget パースエラー\n"
+"{0}.actionTarget 파스 에러\n"
 "{1}\n"
 "{2}"
 
 msgid "ParseError_Limitation"
 msgstr ""
-"{0}.limitationType パースエラー\n"
+"{0}.limitationType 파스 에러\n"
 "{1}\n"
 "{2}"
 
 msgid "PassiveSkillInfo_0001"
-msgstr "コンボ判定"
+msgstr "콤보 판정"
 
 msgid "PassiveSkillInfo_0002"
-msgstr "ぷちぐる消去"
+msgstr "푸치구루 제거"
 
 msgid "PassiveSkillInfo_0003"
-msgstr "高得点変化"
+msgstr "고득점 변화"
 
 msgid "PassiveSkillInfo_0004"
-msgstr "ショータイム"
+msgstr "쇼타임"
 
 msgid "PassiveSkillInfo_0005"
-msgstr "スキルゲージ"
+msgstr "스킬 게이지"
 
 msgid "PassiveSkillInfo_0006"
-msgstr "コンボ"
+msgstr "콤보"
 
 msgid "PassiveSkillInfo_0007"
-msgstr "スコア"
+msgstr "스코어"
 
 msgid "PassiveSkillInfo_0008"
-msgstr "センター補充"
+msgstr "센터 보충"
 
 msgid "PassiveSkillInfo_0009"
-msgstr "ゴールド"
+msgstr "골드"
 
 msgid "PassiveSkillInfo_0010"
 msgstr "ボム範囲"
@@ -6639,7 +6639,7 @@ msgstr ""
 "사용할 수 있습니다"
 
 msgid "UnitEdit_0035"
-msgstr "{0} 보이스"
+msgstr "{0} 음성"
 
 msgid "UnitEdit_0036"
 msgstr "레벨 강화"

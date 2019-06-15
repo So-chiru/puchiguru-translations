@@ -21,7 +21,7 @@
 
 ////////////////
 
-Author 616659:
+Note Author 616659:
 
 Potential Translation Errors:
 "CardStrength_0010" Line 279
@@ -29,7 +29,8 @@ Potential Translation Errors:
 "Card_0008" Line 333
 "Card_0013" Line 348
 "CollectionBookFilter_003" Line 414
-Contact_0007 Line 627
+"Contact_0007" Line 627
+"PassiveSkillInfo_0008" Line 2355
 
 Not Able to Translate:
 "DecoReleaseAction_ActiveSkill" Line 815
