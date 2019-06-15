@@ -1694,49 +1694,49 @@ msgstr ""
 "푸치구루의 레벨로 해방되는 것이 있어"
 
 msgid "Help_0000"
-msgstr "친구 탑의 도움"
+msgstr "친구 탑 리스트의 도움말"
 
 msgid "Help_0001"
-msgstr "フォローリストのヘルプ"
+msgstr "팔로 리스트의 도움말"
 
 msgid "Help_0002"
-msgstr "フォロワーリストのヘルプ"
+msgstr "팔로어 리스트의 도움말"
 
 msgid "Help_0003"
-msgstr "ブロックリストのヘルプ"
+msgstr "차단 리스트의 도움말"
 
 msgid "Help_0004"
-msgstr "ソートのヘルプ"
+msgstr "분류의 도움말"
 
 msgid "Help_0005"
-msgstr "検索トップのヘルプ"
+msgstr "탑 검색의 도움말"
 
 msgid "Help_0006"
-msgstr "ID検索のヘルプ"
+msgstr "ID검색의 도움말"
 
 msgid "Help_0007"
-msgstr "Twitter連携検索のヘルプ"
+msgstr "Twitter 검색의 도움말"
 
 msgid "Help_0008"
-msgstr "ランキングのヘルプ"
+msgstr "랭킹의 도움말"
 
 msgid "Help_0009"
-msgstr "自分のプロフィールのヘルプ"
+msgstr "자신의 프로필의 도움말"
 
 msgid "Help_0010"
-msgstr "他者のプロフィールのヘルプ"
+msgstr "다른 사람의 프로필의 도움말"
 
 msgid "Help_0011"
-msgstr "スキルのヘルプ"
+msgstr "스킬의 도움말"
 
 msgid "Help_0012"
-msgstr "特技のヘルプ"
+msgstr "특기의 도움말"
 
 msgid "Help_0013"
-msgstr "ぷちぐるを育成しよう"
+msgstr "푸치구루를 육성하자"
 
 msgid "Help_0014"
-msgstr "ぷちぐるブレードのヘルプ"
+msgstr "푸치구루 블레이드의 도움말"
 
 msgid "HowToPlayEvent_0001"
 msgstr "イベント　遊び方１"
