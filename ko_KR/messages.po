@@ -2455,82 +2455,82 @@ msgid "PersonalNameRuby_906"
 msgstr "バッドばつ丸"
 
 msgid "PersonalName_101"
-msgstr "高坂 穂乃果"
+msgstr "코사카 호노카"
 
 msgid "PersonalName_102"
-msgstr "南 ことり"
+msgstr "미나미 코토리"
 
 msgid "PersonalName_103"
-msgstr "園田 海未"
+msgstr "소노다 우미"
 
 msgid "PersonalName_104"
-msgstr "西木野 真姫"
+msgstr "니시키노 마키"
 
 msgid "PersonalName_105"
-msgstr "星空 凛"
+msgstr "호시조라 린"
 
 msgid "PersonalName_106"
-msgstr "小泉 花陽"
+msgstr "코이즈미 하나요"
 
 msgid "PersonalName_107"
-msgstr "矢澤 にこ"
+msgstr "야자와 니코"
 
 msgid "PersonalName_108"
-msgstr "東條 希"
+msgstr "토죠 노조미"
 
 msgid "PersonalName_109"
-msgstr "絢瀬 絵里"
+msgstr "아야세 에리"
 
 msgid "PersonalName_201"
-msgstr "高海 千歌"
+msgstr "타카미 치카"
 
 msgid "PersonalName_202"
-msgstr "渡辺 曜"
+msgstr "와타나베 요우"
 
 msgid "PersonalName_203"
-msgstr "桜内 梨子"
+msgstr "사쿠라우치 리코"
 
 msgid "PersonalName_204"
-msgstr "国木田 花丸"
+msgstr "쿠니키다 하나마루"
 
 msgid "PersonalName_205"
-msgstr "黒澤 ルビィ"
+msgstr "쿠로사와 루비"
 
 msgid "PersonalName_206"
-msgstr "津島 善子"
+msgstr "츠시마 요시코"
 
 msgid "PersonalName_207"
-msgstr "黒澤 ダイヤ"
+msgstr "쿠로사와 다이아"
 
 msgid "PersonalName_208"
-msgstr "松浦 果南"
+msgstr "마츠우라 카난"
 
 msgid "PersonalName_209"
-msgstr "小原 鞠莉"
+msgstr "오하라 마리"
 
 msgid "PersonalName_401"
-msgstr "鹿角 聖良"
+msgstr "카즈노 세이라"
 
 msgid "PersonalName_402"
-msgstr "鹿角 理亞"
+msgstr "카즈노 리아"
 
 msgid "PersonalName_901"
-msgstr "マイメロディ"
+msgstr "마이멜로디"
 
 msgid "PersonalName_902"
-msgstr "シナモロール"
+msgstr "시나몬롤"
 
 msgid "PersonalName_903"
-msgstr "けろけろけろっぴ"
+msgstr "케로케로케로피"
 
 msgid "PersonalName_904"
-msgstr "ハローキティ"
+msgstr "헬로키티"
 
 msgid "PersonalName_905"
-msgstr "ポムポムプリン"
+msgstr "폼폼푸린"
 
 msgid "PersonalName_906"
-msgstr "バッドばつ丸"
+msgstr "배드바츠마루"
 
 msgid "PersonalSerif_101"
 msgstr ""
