@@ -2269,7 +2269,7 @@ msgstr ""
 "서버 점검중입니다"
 
 msgid "Network_0016"
-msgid "타이틀로 돌아갑니다"
+msgstr "타이틀로 돌아갑니다"
 
 msgid "Network_0017"
 msgstr ""
