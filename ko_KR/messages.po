@@ -2025,7 +2025,7 @@ msgstr "서버가 점검중이야"
 msgid "Migration_0008"
 msgstr ""
 "iOS와 Android간에서의 인계를 실시하는 경우,\n"
-"<color=#F95151>유상 쥬얼은 무상 쥬얼로 변경됩니다</color>ので\n"
+"<color=#F95151>유상 쥬얼은 무상 쥬얼로 변경됩니다</color>\n"
 "이해를 부탁 드립니다"
 
 msgid "MiniEvent_0001"
@@ -2317,7 +2317,7 @@ msgid "Option_0006"
 msgstr "사용 과다 경고{0}"
 
 msgid "Option_0007"
-msgstr "パズル開始時の特技表示　{0}"
+msgstr "퍼즐 시작시 특기 표시{0}"
 
 msgid "ParseError_ActionTarget"
 msgstr ""
@@ -2377,82 +2377,82 @@ msgid "PassiveSkillInfo_0015"
 msgstr "폭탄 생성"
 
 msgid "PersonalNameRuby_101"
-msgstr "高坂 穂乃果"
+msgstr "코사카 호노카"
 
 msgid "PersonalNameRuby_102"
-msgstr "南 ことり"
+msgstr "미나미 코토리"
 
 msgid "PersonalNameRuby_103"
-msgstr "園田 海未"
+msgstr "소노다 우미"
 
 msgid "PersonalNameRuby_104"
-msgstr "西木野 真姫"
+msgstr "니시키노 마키"
 
 msgid "PersonalNameRuby_105"
-msgstr "星空 凛"
+msgstr "호시조라 린"
 
 msgid "PersonalNameRuby_106"
-msgstr "小泉 花陽"
+msgstr "코이즈미 하나요"
 
 msgid "PersonalNameRuby_107"
-msgstr "矢澤 にこ)"
+msgstr "야자와 니코"
 
 msgid "PersonalNameRuby_108"
-msgstr "東條 希"
+msgstr "토죠 노조미"
 
 msgid "PersonalNameRuby_109"
-msgstr "絢瀬 絵里"
+msgstr "아야세 에리"
 
 msgid "PersonalNameRuby_201"
-msgstr "高海 千歌"
+msgstr "타카미 치카"
 
 msgid "PersonalNameRuby_202"
-msgstr "渡辺 曜"
+msgstr "와타나베 요우"
 
 msgid "PersonalNameRuby_203"
-msgstr "桜内 梨子"
+msgstr "사쿠라우치 리코"
 
 msgid "PersonalNameRuby_204"
-msgstr "国木田 花丸"
+msgstr "쿠니키다 하나마루"
 
 msgid "PersonalNameRuby_205"
-msgstr "黒澤 ルビィ"
+msgstr "쿠로사와 루비"
 
 msgid "PersonalNameRuby_206"
-msgstr "津島 善子"
+msgstr "츠시마 요시코"
 
 msgid "PersonalNameRuby_207"
-msgstr "黒澤 ダイヤ"
+msgstr "쿠로사와 다이아"
 
 msgid "PersonalNameRuby_208"
-msgstr "松浦 果南"
+msgstr "마츠우라 카난"
 
 msgid "PersonalNameRuby_209"
-msgstr "小原 鞠莉"
+msgstr "오하라 마리"
 
 msgid "PersonalNameRuby_401"
-msgstr "鹿角 聖良"
+msgstr "카즈노 세이라"
 
 msgid "PersonalNameRuby_402"
-msgstr "鹿角 理亞"
+msgstr "카즈노 리아"
 
 msgid "PersonalNameRuby_901"
-msgstr "マイメロディ"
+msgstr "마이멜로디"
 
 msgid "PersonalNameRuby_902"
-msgstr "シナモンロール"
+msgstr "시나모롤"
 
 msgid "PersonalNameRuby_903"
-msgstr "けろけろけろっぴ"
+msgstr "케로케로케로피"
 
 msgid "PersonalNameRuby_904"
-msgstr "ハローキティ"
+msgstr "헬로키티"
 
 msgid "PersonalNameRuby_905"
-msgstr "ポムポムプリン"
+msgstr "폼폼푸린"
 
 msgid "PersonalNameRuby_906"
-msgstr "バッドばつ丸"
+msgstr "배드바츠마루"
 
 msgid "PersonalName_101"
 msgstr "코사카 호노카"
