@@ -1911,7 +1911,7 @@ msgstr ""
 msgid "LoginBonusTerm"
 msgstr ""
 "<color=#9C6240FF>개최 기간\n"
-"{1:yyyy年M月d日}까지</color>"
+"{1:yyyy년 M월 d일}까지</color>"
 
 msgid "Login_0000"
 msgstr ""
@@ -2006,10 +2006,10 @@ msgstr ""
 "인계하시겠습니까?;"
 
 msgid "Migration_0003"
-msgstr "유상 쥬얼 : {0}個"
+msgstr "유상 쥬얼 : {0}개"
 
 msgid "Migration_0004"
-msgstr "무상 쥬얼 : {0]個"
+msgstr "무상 쥬얼 : {0]개"
 
 msgid "Migration_0005"
 msgstr ""
