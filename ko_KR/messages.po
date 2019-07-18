@@ -674,7 +674,7 @@ msgstr ""
 "데이터 조사 등이 필요한 경우 답장까지 며칠 걸릴 수 있습니다.\n"
 "・또, 대규모 장애 등이 발생했을 경우, 앱 내의 공지를 통해"
 "대답을 대신하는 경우가 있습니다.\n"
-"・기종 변경에 따른 데이터 이행에 대해서는 [메뉴] > [데이터 인수]를 참조하시기"
+"・기종 변경에 따른 데이터 이행에 대해서는 [메뉴] > [데이터 인계]를 참조하시기"
 "바랍니다."
 
 msgid "Copyright_001"
@@ -841,7 +841,7 @@ msgstr ""
 "획득했습니다"
 
 msgid "EventResult_0002"
-msgstr "추가 미션이 잠금 해제됐습니다"
+msgstr "추가 미션이 해제됐습니다"
 
 msgid "EventResult_0003"
 msgstr "획득 누계 {0} 수："
@@ -1568,7 +1568,7 @@ msgid "Gacha_0013"
 msgstr ""
 "이벤트 모드가 개방되지 않았어요\n"
 "미션을 클리어해서\n"
-"푸치구루 별을 모으자"
+"푸치구루 스타를 모으자"
 
 msgid "Gacha_0014"
 msgstr "티켓이 부족합니다"
@@ -1605,7 +1605,7 @@ msgstr ""
 "를 획득했습니다"
 
 msgid "Gacha_0025"
-msgstr "{0}를{1}에서 사용할 수 있습니다"
+msgstr "{0}을(를) {1}에서 사용할 수 있습니다"
 
 msgid "GameResult_0000"
 msgstr "획득 EXP+{0}％！"
@@ -1642,12 +1642,12 @@ msgstr ""
 
 msgid "GameResult_0009"
 msgstr ""
-"[푸치구루 러브라이브!] {0}스테이지의 스코어 {1:#,0}를 달성!\n"
+"[푸치구루 러브라이브!] {0}스테이지의 스코어 {1:#,0}을(를) 달성!\n"
 "#푸치구루러브라이브"
 
 msgid "GameResult_0010"
 msgstr ""
-"[푸치구루 러브라이브!] 스코어 어텍 모드의 스코어{0:#,0}를 달성!\n"
+"[푸치구루 러브라이브!] 스코어 어텍 모드의 스코어{0:#,0}을(를) 달성!\n"
 "#푸치구루러브라이브"
 
 msgid "GameResult_0011"
@@ -1663,7 +1663,7 @@ msgstr ""
 
 msgid "GameResult_0014"
 msgstr ""
-"[푸지구루 러브라이브!] {0} 이벤트의 스코어 {1}를 달성!\n"
+"[푸지구루 러브라이브!] {0} 이벤트의 스코어 {1}을(를) 달성!\n"
 " #푸치구루러브라이브"
 
 msgid "GroupName_1"
@@ -1681,7 +1681,7 @@ msgstr ""
 msgid "HelpText_0037"
 msgstr ""
 "푸치구루의 레벨이 올라가면\n"
-"푸치구루를 제거했을때의 스코어가 올라가"
+"푸치구루를 없앨 때의 스코어가 올라가"
 
 msgid "HelpText_0038"
 msgstr ""
@@ -1697,7 +1697,7 @@ msgid "Help_0000"
 msgstr "친구 탑 리스트의 도움말"
 
 msgid "Help_0001"
-msgstr "팔로 리스트의 도움말"
+msgstr "팔로우 리스트의 도움말"
 
 msgid "Help_0002"
 msgstr "팔로어 리스트의 도움말"
@@ -2043,7 +2043,7 @@ msgid "MiniEvent_0004"
 msgstr "모든 보수를 받았습니다"
 
 msgid "MiniEvent_0005"
-msgstr "보수 일람"
+msgstr "보수 리스트"
 
 msgid "MiniEvent_0006"
 msgstr "앞으로 {0:#,0}"
@@ -2845,13 +2845,13 @@ msgid "PreGame_0006"
 msgstr "하트 구입은 준비중입니다."
 
 msgid "PreGame_0007"
-msgstr "숨겨진 미션"
+msgstr "진 미션"
 
 msgid "PreGame_0008"
 msgstr "악곡 미션"
 
 msgid "PreGame_0009"
-msgstr "기간: {0}점검 종료후 ~ {1}"
+msgstr "기간: {0}점검 종료후~{1}"
 
 msgid "PreGame_0010"
 msgstr "보수 한번에 보기"
@@ -2864,7 +2864,7 @@ msgstr "★{0}로 잠금 해제"
 
 msgid "PreGame_0013"
 msgstr ""
-"선물을 수령하지 못했습니다\n"
+"선물을 령하지 못했습니다\n"
 "※소지수 상한 또는 기한이 만료되는 것이 있습니다\n"
 "※푸치구루는 일괄 수령이 가능하지 않습니다"
 
@@ -3058,7 +3058,7 @@ msgid "PreGame_0072"
 msgstr "{0}위"
 
 msgid "PreGame_0073"
-msgstr "{0}위 ~ {1}위"
+msgstr "{0}위~{1}위"
 
 msgid "PreGame_0074"
 msgstr "총합 획득 이벤트 포인트"
@@ -3108,353 +3108,353 @@ msgid "PrefabCheerBoost_0000"
 msgstr ""
 "※팔로워 효과 발동에는\n"
 "Twitter 연동이 필요합니다\n"
-"※사용자가 게임 내에서 Twitter 연동 설정을\n"
-"공개 설정으로 되어 있을 필요가 있습니다\n"
+"유저가 게임 내에서 Twitter 연동 설정을\n"
+"공개 설정으로 해 놓을 필요가 있습니다\n"
 "※점검이 시작되면 퍼즐의 결과가\n"
 "저장되지 않으니 주의해 주세요"
 
 msgid "PrefabCodeIssue_0000"
 msgstr ""
-"データ引き継ぎ画面にて、下記の引き継ぎコードと\n"
-"設定いただいたパスワードを入力することで、\n"
-"データを引き継ぐことができます。\n"
-"パスワードを入力後、OKを選択してください。"
+"데이터 인계 화면에서, 아래의 인계 코드와\n"
+"설정하신 패스워드를 입력하는 것으로,\n"
+"데이터를 인계할 수 있습니다.\n"
+"비밀번호를 입력하신 후, OK를 눌러주세요."
 
 msgid "PrefabCodeIssue_0001"
-msgstr "引き継ぎコード"
+msgstr "인계 코드"
 
 msgid "PrefabCodeIssue_0002"
-msgstr "コピー"
+msgstr "복사"
 
 msgid "PrefabCodeIssue_0003"
-msgstr "パスワード"
+msgstr "패스워드"
 
 msgid "PrefabCodeIssue_0004"
-msgstr "半角8~32文字で入力してください"
+msgstr "8~32 문자로 입력하세요"
 
 msgid "PrefabCodeIssue_0005"
-msgstr "データ引き継ぎ詳細"
+msgstr "데이터 인계 상세"
 
 msgid "PrefabCodeIssue_0006"
 msgstr ""
-"データ引き継ぎ設定が完了しました。\n"
-"引き継ぎ先の端末にアプリをインストールした後、\n"
-"タイトル画面のメニュー>引継ぎコード入力から、\n"
-"引き継ぎコードとパスワードを入力してください"
+"데이터 인계 설정이 완료되었습니다.\n"
+"인계하실 기기에 앱을 설치한 후,\n"
+"타이틀 화면의 메뉴 → 인계 코드 입력에서,\n"
+"인계 코드와 패스워드를 입력해 주세요."
 
 msgid "PrefabCodeIssue_0007"
-msgstr "引き継ぎコードを入力してください"
+msgstr "인계 코드를 입력해 주세요"
 
 msgid "PrefabCodeIssue_0008"
-msgstr "パスワード"
+msgstr "패스워드"
 
 msgid "PrefabCodeIssue_0009"
-msgstr "パスワードを入力してください（8 ~ 32文字）"
+msgstr "패스워드를 입력해 주세요 (8~32문자)"
 
 msgid "PrefabCodeIssue_0010"
 msgstr ""
-"[注意事項]\n"
-"「引き継ぎコード」「パスワード」は\n"
-"このゲームデータを移行するための大切な情報です。\n"
-"メモやスクリーンショットなどで\n"
-"必ずお控えください。\n"
-"パスワード設定後、再度パスワードを設定すると、\n"
-"最新のパスワードに更新されます。"
+"[주의사항]\n"
+"'인계 코드', '패스워드'는\n"
+"이 게임 데이터를 옮기기 위한 중요한 정보입니다.\n"
+"메모나 스크린샷 등으로\n"
+"반드시 보관해 주세요.\n"
+"패스워드 설정 후, 다시 패스워드를 설정하면,\n"
+"최신 패스워드로 갱신됩니다."
 
 msgid "PrefabEvent_0001"
-msgstr "衣装ボーナス"
+msgstr "의상 보너스"
 
 msgid "PrefabEvent_0002"
-msgstr "報酬はプレゼントボックスに送られます"
+msgstr "보수는 선물상자로 보내집니다"
 
 msgid "PrefabEvent_0003"
-msgstr "累計報酬獲得"
+msgstr "합계 보수 획득"
 
 msgid "PrefabFollwer_0000"
 msgstr ""
-"ぷちぐるブレードを\n"
-"使用しました"
+"푸치구루 블레이드를\n"
+"사용했습니다"
 
 msgid "PrefabFollwer_0001"
-msgstr "効果"
+msgstr "효과"
 
 msgid "PrefabFollwer_0002"
-msgstr "効果時間"
+msgstr "효과 시간"
 
 msgid "PrefabFollwer_0003"
-msgstr "ぷちぐるブレード使用"
+msgstr "푸치구루 블레이드 사용"
 
 msgid "PrefabFollwer_0005"
-msgstr "使用者の効果"
+msgstr "사용자의 효과"
 
 msgid "PrefabFollwer_0006"
-msgstr "フォロワーへの効果"
+msgstr "팔로워의 효과"
 
 msgid "PrefabFollwer_0007"
 msgstr ""
-"Twitterで自分をフォローしている相手に\n"
-"効果をシェアできます"
+"Twitter에서 자신을 팔로우하고 있는 상대에게\n"
+"효과를 줄 수 있습니다"
 
 msgid "PrefabFollwer_0008"
-msgstr "発動中！"
+msgstr "발동 중!"
 
 msgid "PrefabFollwer_0009"
-msgstr "つかう"
+msgstr "사용하기"
 
 msgid "PrefabFollwer_0010"
-msgstr "ぷちぐるブレードを使っているユーザー"
+msgstr "푸치구루 블레이드를 사용하고 있는 유저"
 
 msgid "PrefabFollwer_0011"
 msgstr ""
-"ぷちぐるブレードを\n"
-"使用中のユーザーがいません"
+"푸치구루 블레이드를\n"
+"사용중인 유저가 없습니다"
 
 msgid "PrefabFollwer_0012"
 msgstr ""
-"Twitterでフォロー中の相手がぷちぐるブレードを使うと\n"
-"フォロワーへの効果を受けられます(最大10人分まで)"
+"Twitter에서 팔로우중인 유저가 푸치구루 블레이드를 사용하면\n"
+"팔로워의 효과를 받을 수 있습니다(최대 10명분까지)"
 
 msgid "PrefabFollwer_0013"
 msgstr ""
-"Twitterへ投稿すると\n"
-"さらに効果時間が30分延長されます"
+"Twitter에 글을 업로드하면\n"
+"효과 시간이 추가로 30분 연장됩니다"
 
 msgid "PrefabFollwer_0014"
 msgstr ""
-"ぷちぐるブレードを\n"
-"使用中のユーザーがいません"
+"푸치구루 블레이드를\n"
+"사용중인 유저가 없습니다"
 
 msgid "PrefabFollwer_0015"
 msgstr ""
-"ぷちぐるブレード使用者を\n"
-"Twitterでフォローして\n"
-"経験値UPの効果を受けよう"
+"푸치구루 블레이드 사용자를\n"
+"Twitter에서 팔로우 하고\n"
+"경험치 UP 효과를 보자"
 
 msgid "PrefabFriend_0000"
-msgstr "週間ランキング"
+msgstr "주간 랭킹"
 
 msgid "PrefabFriend_0001"
-msgstr "フォローリスト"
+msgstr "팔로우 리스트"
 
 msgid "PrefabFriend_0002"
-msgstr "フォロワーリスト"
+msgstr "팔로워 리스트"
 
 msgid "PrefabFriend_0003"
-msgstr "検索"
+msgstr "검색"
 
 msgid "PrefabFriend_0004"
-msgstr "ブロックリスト"
+msgstr "차단 리스트"
 
 msgid "PrefabFriend_0005"
-msgstr "並び替え"
+msgstr "정렬"
 
 msgid "PrefabFriend_0006"
-msgstr "フォロー中"
+msgstr "팔로우중"
 
 msgid "PrefabFriend_0007"
-msgstr "未フォロー"
+msgstr "팔로우 하지 않음"
 
 msgid "PrefabFriend_0008"
-msgstr "ブロックしているユーザーはいません"
+msgstr "차단하고 있는 유저는 없습니다"
 
 msgid "PrefabFriend_0009"
 msgstr ""
-"フォローしているユーザーがいません\n"
-"ゲームをプレイして助っ人をフォローしよう"
+"팔로우 하고 있는 유저가 없습니다\n"
+"게임을 플레이에서 서포터를 팔로우 하자"
 
 msgid "PrefabFriend_0010"
-msgstr "まだフォロワーがいません"
+msgstr "아직 팔로워가 없습니다"
 
 msgid "PrefabFriend_0011"
-msgstr "ハート送信"
+msgstr "하트 송신"
 
 msgid "PrefabFriend_0012"
-msgstr "該当者が見つかりませんでした"
+msgstr "해당 유저를 찾지 못했습니다"
 
 msgid "PrefabFriend_0013"
-msgstr "最終ログイン順"
+msgstr "최종 로그인 순"
 
 msgid "PrefabFriend_0014"
-msgstr "ぷちぐるスター順"
+msgstr "푸치구루 스타 순"
 
 msgid "PrefabFriend_0015"
-msgstr "検索したいID"
+msgstr "검색하고 싶은 ID"
 
 msgid "PrefabFriend_0016"
-msgstr "IDを入力してください"
+msgstr "ID를 입력해 주세요"
 
 msgid "PrefabFriend_0017"
-msgstr "一括フォロー"
+msgstr "모두 팔로우"
 
 msgid "PrefabFriend_0018"
 msgstr ""
-"招待URLをクリックして\n"
-"アプリを起動しました\n"
+"초대 URL을 클릭해서\n"
+"앱을 실행했습니다\n"
 "\n"
-"招待者のIDを検索しますか？"
+"초대자 ID를 검색하시겠습니까?"
 
 msgid "PrefabFriend_0019"
-msgstr "招待者のID"
+msgstr "초대자의 ID"
 
 msgid "PrefabFriend_0020"
-msgstr "スコアアタック 未プレイ"
+msgstr "스코어 어택 플레이 하지 않음"
 
 msgid "PrefabFriend_0021"
-msgstr "50でスコアアタック解放"
+msgstr "50에서 스코어 어택 잠금 해제"
 
 msgid "PrefabFriend_0022"
-msgstr "相互フォロー"
+msgstr "서로 팔로우"
 
 msgid "PrefabFriend_0023"
-msgstr "すべて表示"
+msgstr "모두 표시"
 
 msgid "PrefabGacha_0000"
-msgstr "出現割合"
+msgstr "출현 확률"
 
 msgid "PrefabGacha_0001"
-msgstr "スキルLv.MAX"
+msgstr "스킬 Lv.MAX"
 
 msgid "PrefabGacha_0002"
-msgstr "出現率UP！"
+msgstr "출현 확률 UP!"
 
 msgid "PrefabGacha_0003"
-msgstr "必要"
+msgstr "필요"
 
 msgid "PrefabGacha_0004"
-msgstr "所持"
+msgstr "소지"
 
 msgid "PrefabGacha_0005"
 msgstr ""
-"ゴールドを消費して\n"
-"ガチャをひきますか？"
+"골드를 소비해서\n"
+"가챠를 뽑으시겠습니까?"
 
 msgid "PrefabGacha_0006"
 msgstr ""
-"この内容でジュエルを消費します\n"
-"よろしいですか？"
+"이 내용으로 쥬얼을 소비합니다\n"
+"괜찮습니까?"
 
 msgid "PrefabGacha_0007"
-msgstr "※出現割合は合計しても100%にならない場合があります"
+msgstr "※출현 비율은 합해도 100%가 되지 않을 경우가 있습니다"
 
 msgid "PrefabGacha_0008"
 msgstr ""
-"ジュエルを消費して\n"
-"ガチャをひきますか？"
+"쥬얼을 소비해서\n"
+"가챠를 뽑으시겠습니까?"
 
 msgid "PrefabGacha_0009"
 msgstr ""
-"※すでに持っているぷちぐるを獲得した場合は\n"
-"スキル経験値が上昇します"
+"※이미 보유하고 있는 푸치구루를 획득했을 경우는\n"
+"스킬 경험치가 상승합니다"
 
 msgid "PrefabGacha_0010"
 msgstr ""
-"チケットを消費して\n"
-"ガチャをひきますか？"
+"티켓을 소비해서\n"
+"가챠를 뽑으시겠습니까?"
 
 msgid "PrefabGacha_0011"
-msgstr "チケットが不足しています"
+msgstr "티켓이 부족합니다"
 
 msgid "PrefabGacha_0012"
-msgstr "交換確認"
+msgstr "교환 확인"
 
 msgid "PrefabGacha_0013"
 msgstr ""
-"すべてのぷちぐるがスキルレベル最大です。\n"
-"{0}を\n"
-"スキルパフェに交換しますがよろしいですか？"
+"모든 푸치구루 스킬 레벨이 최대입니다\n"
+"{0}을(를)\n"
+"스킬 파르페로 교환하는데, 괜찮습니까?"
 
 msgid "PrefabGacha_0014"
-msgstr "交換"
+msgstr "교환"
 
 msgid "PrefabGacha_0015"
 msgstr ""
-"{0}を\n"
-"{1}に交換しました\n"
-"※{2}はプレゼントボックスに送られます"
+"{0}을(를)\n"
+"{1}로 교환했습니다\n"
+"※{2}은(는) 선물박스로 보내집니다"
 
 msgid "PrefabGacha_0030"
 msgstr ""
-"メダルを消費して\n"
-"ガチャをひきますか？"
+"메달을 소비해서\n"
+"가챠를 뽑으시겠습니까?"
 
 msgid "PrefabGacha_0031"
 msgstr ""
-"{0}を消費して\n"
-"ガチャをひきますか？"
+"{0}을(를) 소비해서\n"
+"가챠를 뽑으시겠습니까?"
 
 msgid "PrefabGameResult_0000"
-msgstr "今日のミッション"
+msgstr "오늘의 미션"
 
 msgid "PrefabGameResult_0001"
-msgstr "ぷちぐる消去数"
+msgstr "푸치구루 없앤 수"
 
 msgid "PrefabGameResult_0002"
-msgstr "楽曲ミッション"
+msgstr "악곡 미션 "
 
 msgid "PrefabGameResult_0003"
-msgstr "前回の結果"
+msgstr "전회의 결과"
 
 msgid "PrefabGameResult_0004"
-msgstr "編成条件を満たしていません"
+msgstr "편성 조건을 갖추지 못했습니다"
 
 msgid "PrefabGameResult_0005"
-msgstr "隠しミッション"
+msgstr "숨겨진 미션"
 
 msgid "PrefabGameResult_0006"
 msgstr ""
-"フォローするとハートを送りあえます\n"
-"連れて行った助っ人をフォローしますか？"
+"팔로우 하면 하트를 서로 보낼 수 있습니다\n"
+"데려간 서포터를 팔로우 할까요?"
 
 msgid "PrefabGameResult_0007"
-msgstr "特技"
+msgstr "특기"
 
 msgid "PrefabGameResult_0008"
-msgstr "フォロー"
+msgstr "팔로우"
 
 msgid "PrefabGameResult_0009"
-msgstr "タップですすむ"
+msgstr "탭하여 계속"
 
 msgid "PrefabGameResult_0010"
-msgstr "ツイートする"
+msgstr "트윗하기"
 
 msgid "PrefabGameResult_0011"
-msgstr "アイテムボーナス"
+msgstr "아이템 보너스"
 
 msgid "PrefabGameResult_0012"
-msgstr "今週のスコア"
+msgstr "이번 주의 스코어"
 
 msgid "PrefabGameResult_0013"
-msgstr "助っ人ボーナス"
+msgstr "서포터 보너스"
 
 msgid "PrefabGameResult_0014"
-msgstr "[廃止]ランクP"
+msgstr "[폐지] 랭크 P"
 
 msgid "PrefabGameResult_0015"
-msgstr "ぷちぐるスター報酬GET !"
+msgstr "푸치구루 스타 보수 GET !"
 
 msgid "PrefabGameResult_0016"
-msgstr "合計スコア報酬"
+msgstr "합계 스코어 보수"
 
 msgid "PrefabGameResult_0017"
-msgstr "今週の合計スコア"
+msgstr "이번 주의 합계 스코어"
 
 msgid "PrefabGameResult_0018"
-msgstr "次の報酬まで"
+msgstr "다음 보수까지"
 
 msgid "PrefabGameResult_0019"
-msgstr "次の報酬"
+msgstr "다음 보수"
 
 msgid "PrefabGameResult_0020"
-msgstr "今週の報酬はすべて受け取り済みです"
+msgstr "이번 주의 보수는 모두 획득이 끝났습니다"
 
 msgid "PrefabGameResult_0021"
-msgstr "次のミッション追加までお待ちください"
+msgstr "다음 미션 추가까지 기다려 주세요"
 
 msgid "PrefabGameResult_0022"
-msgstr "ぷちぐるブレード効果"
+msgstr "푸치구루 블레이드 효과"
 
 msgid "PrefabGameResult_0023"
-msgstr "ぷちぐるスター"
+msgstr "푸치구루 스타"
 
 msgid "PrefabGameResult_0024"
 msgstr "High Score"
@@ -3463,150 +3463,150 @@ msgid "PrefabGameResult_0025"
 msgstr "Touch Screen"
 
 msgid "PrefabGameResult_0026"
-msgstr "ハートが全回復！"
+msgstr "하트가 전부 회복!"
 
 msgid "PrefabGameResult_0027"
-msgstr "達成！"
+msgstr "달성!"
 
 msgid "PrefabGameResult_0028"
-msgstr "最高記録"
+msgstr "최고 기록"
 
 msgid "PrefabHome_0000"
-msgstr "今週のハイスコア"
+msgstr "이번 주의 하이스코어"
 
 msgid "PrefabHome_0001"
-msgstr "今日のミッション"
+msgstr "오늘의 미션"
 
 msgid "PrefabHome_0002"
-msgstr "プレイ"
+msgstr "플레이"
 
 msgid "PrefabHome_0003"
-msgstr "イベント"
+msgstr "이벤트"
 
 msgid "PrefabHome_0004"
-msgstr "イベント開催中"
+msgstr "이벤트 개최중"
 
 msgid "PrefabHome_0005"
-msgstr "編成"
+msgstr "편성"
 
 msgid "PrefabHome_0006"
-msgstr "ガチャ"
+msgstr "가챠"
 
 msgid "PrefabHome_0007"
 msgstr ""
-"特別ガチャ\n"
-"衣装追加！"
+"특별 가챠\n"
+"의상 추가!"
 
 msgid "PrefabHome_0008"
-msgstr "のこり"
+msgstr "남음"
 
 msgid "PrefabHome_0009"
-msgstr "今日はもう表示しない"
+msgstr "오늘 하루 그만 보기"
 
 msgid "PrefabHome_0010"
-msgstr "お知らせ"
+msgstr "공지"
 
 msgid "PrefabHome_0011"
-msgstr "運営より"
+msgstr "운영 측"
 
 msgid "PrefabHome_0012"
-msgstr "開催中"
+msgstr "개최중"
 
 msgid "PrefabHome_0013"
-msgstr "※効果は最大10人分まで計算されます。"
+msgstr "※효과는 최대 10명분까지 계산됩니다."
 
 msgid "PrefabHome_0014"
 msgstr ""
-"※報酬はプレゼントボックス\n"
-"から受け取れます"
+"※보수는 선물상자\n"
+"에서 수령할 수 있습니다"
 
 msgid "PrefabHome_0015"
-msgstr "今週もがんばろう！"
+msgstr "이번주도 힘내자!"
 
 msgid "PrefabHome_0016"
-msgstr "スコア達成報酬"
+msgstr "스코어 달성 보수"
 
 msgid "PrefabHome_0017"
 msgstr ""
-"目標スコアを達成すると\n"
-"毎週月曜日の0:00にボーナスがもらえるよ"
+"목표 스코어를 달성하면\n"
+"매주 월요일 0:00에 보너스를 받을 거야"
 
 msgid "PrefabHome_0018"
-msgstr "ぷちぐるスター報酬"
+msgstr "푸치구루 스타 보수"
 
 msgid "PrefabHome_0030"
 msgstr ""
-"最終ランキングは\n"
-"<size=48><color=#f5488d>{0:#,0}位</color></size>でした"
+"최종 랭킹은\n"
+"<size=48><color=#f5488d>{0:#,0}위</color></size> 였습니다"
 
 msgid "PrefabHome_0031"
-msgstr "報酬受け取り期限:{0}まで"
+msgstr "보수 수령 기한: {0}까지"
 
 msgid "PrefabHome_0032"
 msgstr "MM/dd(ddd)HH:mm"
 
 msgid "PrefabHome_0033"
-msgstr "{0}結果発表"
+msgstr "{0} 결과 발표"
 
 msgid "PrefabLoginBonus_0000"
-msgstr "CD発売記念 ボーナス"
+msgstr "CD 발매기념 보너스"
 
 msgid "PrefabLoginBonus_0001"
 msgstr ""
-"通信環境の良い場所で通信を行ってください\n"
-"Wi-Fi環境での通信をおすすめします"
+"통신 환경이 좋은 곳에서 통신해 주시기 바랍니다\n"
+"Wi-Fi환경에서의 통신을 추천드립니다"
 
 msgid "PrefabLoginBonus_0002"
-msgstr "ログインボーナスゲット！"
+msgstr "로그인 보너스 획득!"
 
 msgid "PrefabLoginBonus_0003"
 msgstr ""
-"上記のアイテムをプレゼントボックスに\n"
-"送りました"
+"상기의 아이템을 선물상자에\n"
+"보냈습니다"
 
 msgid "PrefabMenu_0000"
-msgstr "メニュー"
+msgstr "메뉴"
 
 msgid "PrefabMenu_0001"
-msgstr "お知らせ"
+msgstr "공지"
 
 msgid "PrefabMenu_0002"
-msgstr "フレンド"
+msgstr "친구"
 
 msgid "PrefabMenu_0003"
-msgstr "プロフィール"
+msgstr "프로필"
 
 msgid "PrefabMenu_0004"
-msgstr "オプション"
+msgstr "설정"
 
 msgid "PrefabMenu_0005"
-msgstr "ヘルプ"
+msgstr "도움말"
 
 msgid "PrefabMenu_0006"
-msgstr "お問い合わせ"
+msgstr "문의"
 
 msgid "PrefabMenu_0007"
-msgstr "引き継ぎコード発行"
+msgstr "인계 코드 발행"
 
 msgid "PrefabMenu_0008"
-msgstr "実績"
+msgstr "업적"
 
 msgid "PrefabMenu_0009"
-msgstr "公式Twitter"
+msgstr "공식 Twitter"
 
 msgid "PrefabMenu_0010"
-msgstr "ぷちぐる一覧"
+msgstr "푸치구루 리스트"
 
 msgid "PrefabMenu_0011"
 msgstr ""
-"タイトルへ\n"
-"もどる"
+"타이틀로\n"
+"돌아가기"
 
 msgid "PrefabMenu_0012"
-msgstr "＊各数値はそれぞれ最大まで強化した場合の値です"
+msgstr "*각 수치는 각각 최대까지 강화했을 경우의 값입니다"
 
 msgid "PrefabMenu_0013"
-msgstr "レベル上限を解放しました"
+msgstr "레벨 상한을 해제하였습니다"
 
 msgid "PrefabMenu_0014"
 msgstr "レベルを解放しますか？"
@@ -4991,7 +4991,7 @@ msgstr "えらべるチケット交換所"
 msgid "SceneTicketExChange_0002"
 msgstr ""
 "유효 기간\n"
-"일람"
+"리스트"
 
 msgid "SceneTicketExChange_0003"
 msgstr "すでにもっているメンバーはスキルが強化されます"
