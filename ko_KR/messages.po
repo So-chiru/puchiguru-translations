@@ -121,7 +121,9 @@ msgstr ""
 "계속 하시겠습니까?"
 
 msgid "CardEvolution_0005"
-msgstr "진화시킬 카드를 선택하여 주세요"
+msgstr ""
+"진화시킬 카드를"
+"선택해 주세요"
 
 msgid "CardEvolution_0006"
 msgstr "진화 소재로 사용할 카드를 선택하지 않았습니다"
@@ -195,7 +197,7 @@ msgid "CardSell_0009"
 msgstr "교환하기"
 
 msgid "CardSell_0010"
-msgstr "메달 소지수가 상한에 달하여 교환이 불가능합니다"
+msgstr "메달 소지수가 상한에 달해 교환이 불가능합니다"
 
 msgid "CardSell_0011"
 msgstr "선택 매수는 최대 (10장) 입니다"
@@ -255,7 +257,7 @@ msgid "CardStrength_0001"
 msgstr "카드 강화"
 
 msgid "CardStrength_0002"
-msgstr "선택한 {0}장의 카드를 사용하여 강화합니다"
+msgstr "선택한 {0}장의 카드를 사용해 강화합니다"
 
 msgid "CardStrength_0003"
 msgstr "★3 이상의 카드가 포함되어 있습니다"
@@ -291,10 +293,10 @@ msgid "CardStrength_0013"
 msgstr "현재 선택 중인 소재로 최대 레벨에 도달합니다"
 
 msgid "CardStrength_0014"
-msgstr "{0}개의 {1}을(를) 사용하여 강화합니다"
+msgstr "{0}개의 {1}을(를) 사용해 강화합니다"
 
 msgid "CardStrength_0015"
-msgstr "Lv상한을 초과한 만큼의 EXP는 무효가 됩니다"
+msgstr "Lv상한을 초과한 만큼의 EXP는 료효가 됩니다"
 
 msgid "CardTeamEdit_0001"
 msgstr "스페셜 스킬은 리더밖에 설정할 수 없습니다"
@@ -348,7 +350,7 @@ msgid "Card_0013"
 msgstr "카드 스킬 검색"
 
 msgid "Card_0014"
-msgstr "카드 스킬 목록"
+msgstr "카드 스킬 리스트"
 
 msgid "Card_0015"
 msgstr "★{0}"
@@ -361,7 +363,7 @@ msgstr "카드 소지수 상한 확장"
 
 msgid "Card_0018"
 msgstr ""
-"{0}쥬얼을 소비하여 카드 소지수\n"
+"{0}쥬얼을 소비해서 카드 소지수\n"
 "상한을 {1}개 늘릴 수 있습니다"
 
 msgid "Card_0019"
@@ -1029,14 +1031,14 @@ msgstr ""
 
 msgid "Friend_0015"
 msgstr ""
-"Twitter를 사용하여 검색 연락\n"
+"Twitter를 사용한 검색 결과\n"
 "<size=20>(</size><size=28>{0}</size><size=20>人)</size>"
 
 msgid "Friend_0016"
 msgstr "초대"
 
 msgid "Friend_0017"
-msgstr "Twitter를 사용하여 검색"
+msgstr "Twitter를 사용해 검색"
 
 msgid "Friend_0018"
 msgstr "정렬"
@@ -1499,7 +1501,7 @@ msgid "GachaStepup_0008"
 msgstr "※STEP{0}까지 뽑으면 STEP1로 돌아옵니다"
 
 msgid "GachaStepup_0009"
-msgstr "※STEP 최고치에 도달하여 이 가챠는 이용할 수 없습니다"
+msgstr "※STEP 최고치에 도달해서 이 가챠는 이용할 수 없습니다"
 
 msgid "GachaStepup_0010"
 msgstr "※STEP 최고치에 도달했습니다. AM00:00에 STEP1로 돌아옵니다"
@@ -2854,7 +2856,7 @@ msgid "PreGame_0009"
 msgstr "기간: {0}점검 종료후~{1}"
 
 msgid "PreGame_0010"
-msgstr "보수 한번에 보기"
+msgstr "보수 리스트"
 
 msgid "PreGame_0011"
 msgstr "퍼즐 아이템을 선택해 주세요"
@@ -2911,7 +2913,7 @@ msgstr "잠금 해제되지 않은 비밀 미션입니다"
 
 msgid "PreGame_0027"
 msgstr ""
-"위 내용을 소비하여 아이템을 사용합니다\n"
+"위 내용을 소비해 아이템을 사용합니다\n"
 "괜찮습니까?\n"
 "\n"
 "<size=20><color=#F95151>※점검이 시작되면 퍼즐의 결과가\n"
@@ -2959,7 +2961,7 @@ msgid "PreGame_0038"
 msgstr "현재 있는 장소로"
 
 msgid "PreGame_0039"
-msgstr "아이템을 사용하여 게임을 유리하게 만들자"
+msgstr "아이템을 사용해 게임을 유리하게 만들자"
 
 msgid "PreGame_0040"
 msgstr ""
@@ -3412,7 +3414,7 @@ msgid "PrefabGameResult_0008"
 msgstr "팔로우"
 
 msgid "PrefabGameResult_0009"
-msgstr "탭하여 계속"
+msgstr "탭해서 계속"
 
 msgid "PrefabGameResult_0010"
 msgstr "트윗하기"
@@ -3609,88 +3611,88 @@ msgid "PrefabMenu_0013"
 msgstr "레벨 상한을 해제하였습니다"
 
 msgid "PrefabMenu_0014"
-msgstr "レベルを解放しますか？"
+msgstr "레벨 상한을 해제하시겠습니까?"
 
 msgid "PrefabMenu_0015"
-msgstr "※ジュエルは無償分から消費されます"
+msgstr "※쥬얼은 무상 쥬얼부터 소비됩니다"
 
 msgid "PrefabMenu_0016"
 msgstr ""
-"スキルパフェを1つ使って\n"
-"スキルを強化しますか？"
+"스킬 파르페를 1개 쓰고\n"
+"스킬을 강화하시겠습니까?"
 
 msgid "PrefabMenu_0017"
-msgstr "つぎへ"
+msgstr "다음"
 
 msgid "PrefabMenu_0018"
-msgstr "※ジュエルは無償分から消費されます"
+msgstr "※쥬얼은 무상 쥬얼부터 소비됩니다"
 
 msgid "PrefabMenu_0019"
 msgstr "その他"
 
 msgid "PrefabMenu_0020"
 msgstr ""
-"サービス\n"
-"利用規約"
+"서비스\n"
+"이용약관"
 
 msgid "PrefabMenu_0021"
 msgstr ""
-"ジュエル\n"
-"利用規約"
+"쥬얼\n"
+"이용약관"
 
 msgid "PrefabMenu_0022"
 msgstr ""
-"ジュエル\n"
-"利用履歴"
+"쥬얼\n"
+"사용 이력"
 
 msgid "PrefabMenu_0023"
 msgstr ""
-"プライバシー\n"
-"ポリシー"
+"개인정보\n"
+"정책"
 
 msgid "PrefabMenu_0024"
 msgstr ""
-"個人情報\n"
-"保護方針"
+"개인정보\n"
+"보호 방침"
 
 msgid "PrefabMenu_0025"
-msgstr "運営方針"
+msgstr "운영 방침"
 
 msgid "PrefabMenu_0026"
-msgstr "ライセンス"
+msgstr "라이센스"
 
 msgid "PrefabMenu_0027"
-msgstr "資金決済法/特定商取引法に基づく表示"
+msgstr "자금결제법/특정상거래법에 따른 표시"
 
 msgid "PrefabMenu_0028"
-msgstr "ラブライブ！とは"
+msgstr "'러브라이브!'란?"
 
 msgid "PrefabMenu_0029"
-msgstr "お知らせ"
+msgstr "공지"
 
 msgid "PrefabMenu_0030"
-msgstr "運営より"
+msgstr "운영진"
 
 msgid "PrefabMenu_0031"
-msgstr "その他"
+msgstr "기타"
 
 msgid "PrefabMission_0000"
-msgstr "隠しミッションが解放されました"
+msgstr "숨겨진 미션이 잠금 해제되었습니다"
 
 msgid "PrefabMission_0001"
-msgstr "隠しミッション解放"
+msgstr "숨겨진 미션 잠금 해제"
 
 msgid "PrefabOption_0000"
-msgstr "ゲーム設定"
+msgstr "게임 설정"
 
 msgid "PrefabOption_0001"
-msgstr "通知設定"
+msgstr "알림 설정"
 
 msgid "PrefabOption_0002"
-msgstr "初期設定にもどす"
+msgstr "설정 초기화"
 
 msgid "PrefabOption_0003"
-msgstr "サウンド設定"
+msgstr "소리 설정"
 
 msgid "PrefabOption_0004"
 msgstr "BGM"
@@ -3702,30 +3704,30 @@ msgid "PrefabOption_0006"
 msgstr "Voice"
 
 msgid "PrefabOption_0007"
-msgstr "スキル振動"
+msgstr "스킬 진동"
 
 msgid "PrefabOption_0008"
-msgstr "スキル発動可能タイミングを振動でお知らせします"
+msgstr "스킬 발동 가능 시기를 진동으로 알려드리겠습니다"
 
 msgid "PrefabOption_0009"
-msgstr "Push通知"
+msgstr "Push 알림"
 
 msgid "PrefabOption_0010"
 msgstr ""
-"使いすぎアラートをONにすると1ヶ月の利用額が\n"
-"100,000円を超える際に確認画面が表示されます"
+"과다 사용 경고를 ON으로 하면 1개월의 결재 액수가\n"
+"100,000엔을 초과했을때 결재 확인 화면이 표시됩니다"
 
 msgid "PrefabOption_0011"
-msgstr "パズル開始時に特技情報を表示します"
+msgstr "퍼즐 시작시 특기 정보를 표시합니다"
 
 msgid "PrefabOption_0012"
-msgstr "端末側で通知設定OFFの場合、Push通知は届きません"
+msgstr "기기의 알림 설정이 OFF일 경우, Push 알림은 도착하지 않습니다"
 
 msgid "PrefabPreGame_0000"
-msgstr "報酬一覧"
+msgstr "보수 리스트"
 
 msgid "PrefabPreGame_0001"
-msgstr "報酬"
+msgstr "보수"
 
 msgid "PrefabPreGame_0002"
 msgstr "キャンディーを集めよう！"
@@ -5540,8 +5542,8 @@ msgstr ""
 
 msgid "Title_xxxx"
 msgstr ""
-"기기의 공간이 부족하여 다운로드를 진행할 수 없습니다. 기기 공간을"
-"확보 후, 다시 시도하여 주십시오.\n"
+"기기의 공간이 부족해 다운로드를 진행할 수 없습니다. 기기 공간을"
+"확보 후, 다시 시도해 주십시오.\n"
 "문제가 지속되면, 타이틀 화면의 '지원 메뉴'에서"
 "문의 해주시길 바랍니다."
 
