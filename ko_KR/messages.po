@@ -25,7 +25,7 @@ msgid "ArtsCategoryName_0001"
 msgstr "콤보 판정+"
 
 msgid "ArtsCategoryName_0002"
-msgstr "푸치구루 지우기"
+msgstr "푸치구루 제거"
 
 msgid "ArtsCategoryName_0003"
 msgstr "센터 변화"
@@ -4171,7 +4171,7 @@ msgid "PrefabTeamEdit_0006"
 msgstr "3학년"
 
 msgid "PrefabTeamEdit_0007"
-msgstr "소거계"
+msgstr "제거계"
 
 msgid "PrefabTeamEdit_0008"
 msgstr "변화계"
@@ -4192,7 +4192,7 @@ msgid "PrefabTeamEdit_0013"
 msgstr "모두 OFF"
 
 msgid "PrefabTeamEdit_0014"
-msgstr "푸치구루 소거"
+msgstr "푸치구루 제거"
 
 msgid "PrefabTeamEdit_0015"
 msgstr "고득점 변화"
@@ -4444,7 +4444,7 @@ msgid "PuzzleAction_0006"
 msgstr "스킬"
 
 msgid "PuzzleAction_0014_1"
-msgstr "파란색(11푸치) 이상의 연결"
+msgstr "란색(11푸치) 이상의 연결"
 
 msgid "PuzzleAction_0014_2"
 msgstr "노란색(16푸치) 이상의 연결"
@@ -4468,7 +4468,7 @@ msgid "PuzzleTutorialTips_0003"
 msgstr "폭탄을 탭하자"
 
 msgid "PuzzleTutorialTips_0004"
-msgstr "푸치구루를 지우고 쇼타임을 시작하자"
+msgstr "푸치구루를 제거하고 쇼타임을 시작하자"
 
 msgid "PuzzleTutorialTips_0005"
 msgstr "쇼타임 종료까지 자유롭게 플레이하자"
@@ -4477,7 +4477,7 @@ msgid "PuzzleTutorialTips_0006"
 msgstr "재빨리 3회 연속으로 푸치구루를 제거합니다"
 
 msgid "PuzzleTutorialTips_0007"
-msgstr "푸치구루를 지우고 쇼타임을 시작하자"
+msgstr "푸치구루를 제거하고 쇼타임을 시작하자"
 
 msgid "PuzzleTutorialTips_0008"
 msgstr "쇼타임 종료까지 자유롭게 플레이하지"
@@ -4583,16 +4583,16 @@ msgid "ReleaseAction_Value_highestActiveSkill"
 msgstr "1 플레이에 스킬을 {0}회 발동"
 
 msgid "ReleaseAction_Value_highestBomb"
-msgstr "1 플레이에 폭탄을 {0}개 소거"
+msgstr "1 플레이에 폭탄을 {0}개 제거"
 
 msgid "ReleaseAction_Value_highestCenterComa"
-msgstr "1 플레이에 센터 푸치구루를 {0}개 소거"
+msgstr "1 플레이에 센터 푸치구루를 {0}개 제거"
 
 msgid "ReleaseAction_Value_highestChain"
-msgstr "1 플레이에 {0}푸치 이상의 연결을 소거"
+msgstr "1 플레이에 {0}푸치 이상의 연결을 제거"
 
 msgid "ReleaseAction_Value_highestComa"
-msgstr "1 플레이에 푸치구루를 {0}개 소거"
+msgstr "1 플레이에 푸치구루를 {0}개 제거"
 
 msgid "ReleaseAction_Value_highestCombo"
 msgstr "1 플레이에 {0}콤보 달성"
@@ -4601,16 +4601,16 @@ msgid "ReleaseAction_Value_highestGold"
 msgstr "1 플레이에 골드를 {0}개 획득"
 
 msgid "ReleaseAction_Value_highestGoldBomb"
-msgstr "1 플레이에 골드 폭탄을 {0}개 소거"
+msgstr "1 플레이에 골드 폭탄을 {0}개 제거"
 
 msgid "ReleaseAction_Value_highestScoreBomb"
-msgstr "1 플레이에 스코어 폭탄을 {0}개 소거"
+msgstr "1 플레이에 스코어 폭탄을 {0}개 제거"
 
 msgid "ReleaseAction_Value_highestShowTime"
 msgstr "1 플레이에 {0}회 쇼타임 돌입"
 
 msgid "ReleaseAction_Value_highestTimeBomb"
-msgstr "1 플레이에 타이머 폭탄을 {0}개 소거"
+msgstr "1 플레이에 타이머 폭탄을 {0}개 제거"
 
 msgid "ReleaseAction_Value_playCount"
 msgstr "{1}을(를) {0}회 플레이"
@@ -4619,22 +4619,22 @@ msgid "ReleaseAction_Value_totalActiveSkill"
 msgstr "합계로 스킬을 {0}회 발동"
 
 msgid "ReleaseAction_Value_totalBomb"
-msgstr "합계로 폭탄을 {0}개 소거"
+msgstr "합계로 폭탄을 {0}개 제거"
 
 msgid "ReleaseAction_Value_totalCenterComa"
-msgstr "합계로 센터 푸치구루를 {0}개 소거"
+msgstr "합계로 센터 푸치구루를 {0}개 제거"
 
 msgid "ReleaseAction_Value_totalComa"
-msgstr "합계로 푸치구루를 {0}개 소거"
+msgstr "합계로 푸치구루를 {0}개 제거"
 
 msgid "ReleaseAction_Value_totalGold"
 msgstr "합계로 골드를 {0}개 획득"
 
 msgid "ReleaseAction_Value_totalGoldBomb"
-msgstr "합계로 골드 폭탄을 {0}개 소거"
+msgstr "합계로 골드 폭탄을 {0}개 제거"
 
 msgid "ReleaseAction_Value_totalScoreBomb"
-msgstr "합계로 스코어 폭탄을 {0}개 소거"
+msgstr "합계로 스코어 폭탄을 {0}개 제거"
 
 msgid "ReleaseAction_Value_totalScore_div1"
 msgstr "합계로 스코어를 {0}만점 달성"
@@ -4646,7 +4646,7 @@ msgid "ReleaseAction_Value_totalShowTime"
 msgstr "합계로 {0}회 쇼타임 돌입"
 
 msgid "ReleaseAction_Value_totalTimeBomb"
-msgstr "합계로 타이머 폭탄을 {0}개 소거"
+msgstr "합계로 타이머 폭탄을 {0}개 제거"
 
 msgid "SNS_0000"
 msgstr "Twitter 연계에 대해서"
@@ -5269,7 +5269,7 @@ msgid "Shop_0025"
 msgstr "보호자 동의 확인"
 
 msgid "SkillCategoryName_0001"
-msgstr "소거계"
+msgstr "제거계"
 
 msgid "SkillCategoryName_0002"
 msgstr "변화계"
@@ -5314,7 +5314,7 @@ msgid "SkillData_0008"
 msgstr "효과"
 
 msgid "SkillData_0009"
-msgstr "소거 수"
+msgstr "제거 수"
 
 msgid "SkillData_0010"
 msgstr "출현 수"
@@ -5347,7 +5347,7 @@ msgid "SkillData_0106"
 msgstr "효과 범위"
 
 msgid "SkillData_0107"
-msgstr "소거 수"
+msgstr "제거 수"
 
 msgid "SkillData_0108"
 msgstr "효과 범위"
@@ -5457,23 +5457,23 @@ msgstr ""
 
 msgid "TicketExchange_0005"
 msgstr ""
-"えらべるチケットを\n"
-"スキルパフェに交換しました"
+"선택 티켓을\n"
+"스킬 파르페로 교환했습니다"
 
 msgid "TicketExchange_0006"
 msgstr ""
-"チケットの期限が過ぎているため交換できません\n"
-"<size=28>{0:MM/dd HH:mm} まで</size>"
+"티켓의 기한이 지나 교환이 되지 않습니다\n"
+"<size=28>{0:MM/dd HH:mm} 까지</size>"
 
 msgid "TicketExchange_0007"
 msgstr ""
-"期限切れのチケットがあります\n"
-"画面を更新します"
+"기한이 만료된 티켓이 있습니다\n"
+"화면을 갱신합니다"
 
 msgid "TicketExchange_0008"
 msgstr ""
-"えらべるチケットは、チケット毎に有効期限が設定されています。\n"
-"期間内に交換しない場合、チケットが消失しますのでご注意ください。"
+"선택 티켓은 티켓마다 유효기간이 설정되어 있습니다.\n"
+"기간 내에 교환하지 않을 경우, 티켓이 소실되므로 주의하시기 바랍니다."
 
 msgid "TicketExchange_0010"
 msgstr "티켓이 없습니다"
@@ -5569,62 +5569,62 @@ msgid "TutorialDialog_Next"
 msgstr "다음"
 
 msgid "TutorialPopupText_0000"
-msgstr "本文"
+msgstr "본문"
 
 msgid "TutorialPopupText_0001"
 msgstr ""
-"ぷちぐるは2つ以上つながると\n"
-"タップで消せるよ"
+"푸치구루가 2개 이상 이어지면\n"
+"탭으로 제거하자"
 
 msgid "TutorialPopupText_0002"
 msgstr ""
-"つなげたいぷちぐるを残して\n"
-"まわりを消すのがコツだよ"
+"연결된 푸치구루를 남기고\n"
+"주변을 제거하는게 요령이야"
 
 msgid "TutorialPopupText_0003"
 msgstr ""
-"長くつなげると線の色が変化するよ\n"
-"青(11ぷち)以上で消すのがコツだよ"
+"길게 연결하면 선의 색이 변화해\n"
+"파란색(11푸치) 이상으로 지우는 것이 요령이야"
 
 msgid "TutorialPopupText_0004"
 msgstr ""
-"青(11ぷち)以上のつながりを消すと\n"
-"ボムが出現するよ"
+"파란색(11푸치) 이상의 연결고리를 지우면\n"
+"폭탄이 출연해"
 
 msgid "TutorialPopupText_0008"
 msgstr ""
-"ぷちぐるを消すと\n"
-"ショータイムゲージがたまるよ"
+"푸치구루를 지우면\n"
+"쇼타임 게이지가 쌓일거야"
 
 msgid "TutorialPopupText_0009"
 msgstr ""
-"ぷちぐるはガチャで獲得できるよ\n"
-"ガチャへ行ってみよう"
+"푸치구루는 가챠로 획득할 수 있어\n"
+"가챠로 가보자"
 
 msgid "TutorialPopupText_0010"
 msgstr ""
-"ガチャはゴールドかジュエルでひけるよ\n"
-"今回はゴールドでガチャをひいてみよう"
+"가챠는 골드나 쥬얼로 뽑을 수 있어\n"
+"이번에는 골드로 가챠를 뽑아보자"
 
 msgid "TutorialPopupText_0011"
 msgstr ""
-"パズルで使うぷちぐるは\n"
-"チーム編成で変更できるよ"
+"퍼즐에 쓰이는 푸치구루는\n"
+"팀 편성으로 번경할 수 있어"
 
 msgid "TutorialPopupText_0013"
 msgstr ""
-"編成したぷちぐるを使って\n"
-"さっそくパズルをプレイしてみよう"
+"편성한 푸치구루를 사용하여\n"
+"바로 퍼즐을 플레이해 보자"
 
 msgid "TutorialPopupText_0017"
 msgstr ""
-"ぷちぐるブレードを使うと\n"
-"パズルで手に入る経験値が増えるよ"
+"푸치구루 블레이드를 사용하면\n"
+"퍼즐로 얻을 수 있는 경험치가 늘어날거야"
 
 msgid "TutorialPopupText_0018"
 msgstr ""
-"10秒間のショータイム中はスコアが3倍!\n"
-"さらにスコアを伸ばすチャンス!"
+"10초간의 쇼 타임 중에는 스코어가 3배!\n"
+"스코어를 더 늘릴 찬스!"
 
 msgid "TutorialPopupText_0019"
 msgstr ""
