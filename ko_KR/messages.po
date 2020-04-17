@@ -5814,8 +5814,8 @@ msgstr ""
 
 msgid "TutorialPopupText_0062"
 msgstr ""
-"ぷちぐるのレベルが上限になると\n"
-"ゴールドを使ってレベル解放ができるよ"
+"푸치구루 레벨이 레벨 상한에 도달하면\n"
+"골드를 이용해서 레벨 상한을 높혀줄 수 있어"
 
 msgid "TutorialPopupText_0063"
 msgstr ""
